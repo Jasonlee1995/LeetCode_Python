@@ -12,4 +12,4 @@
 # Solution List
 |Number|Title|Difficulty|Links|
 |:-:|:-:|:-:|:-:|
-|1|Two Sum|Easy|[Problem](https://leetcode.com/problems/two-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1%5D%5BEasy%5D%20Two%20Sum.ipynb)|
+|1|Two Sum|Easy|[Problem](https://leetcode.com/problems/two-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1%5D%5BEasy%5D%20Two%20Sum.py)|
