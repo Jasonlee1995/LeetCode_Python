@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 10 May 2021
+- Recent Update : 11 May 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -16,6 +16,7 @@
 |7|Reverse Integer|Easy|[Problem](https://leetcode.com/problems/reverse-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B7%5D%5BEasy%5D%20Reverse%20Integer.py)|
 |9|Palindrome Number|Easy|[Problem](https://leetcode.com/problems/palindrome-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B9%5D%5BEasy%5D%20Palindrome%20Number.py)|
 |13|Easy|Roman to Integer|[Problem](https://leetcode.com/problems/roman-to-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B9%5D%5BEasy%5D%20Palindrome%20Number.py)|
+|14|Easy|Longest Common Prefix|[Problem](https://leetcode.com/problems/longest-common-prefix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B14%5D%5BEasy%5D%20Longest%20Common%20Prefix.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
