@@ -18,6 +18,7 @@
 |13|Roman to Integer|Easy|[Problem](https://leetcode.com/problems/roman-to-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B9%5D%5BEasy%5D%20Palindrome%20Number.py)|
 |14|Longest Common Prefix|Easy|[Problem](https://leetcode.com/problems/longest-common-prefix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B14%5D%5BEasy%5D%20Longest%20Common%20Prefix.py)|
 |20|Valid Parentheses|Easy|[Problem](https://leetcode.com/problems/valid-parentheses/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B20%5D%5BEasy%5D%20Valid%20Parentheses.py)|
+|21|Merge Two Sorted Lists|Easy|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B21%5D%5BEasy%5D%20Merge%20Two%20Sorted%20Lists.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
