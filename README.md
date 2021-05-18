@@ -19,6 +19,8 @@
 |14|Longest Common Prefix|Easy|[Problem](https://leetcode.com/problems/longest-common-prefix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B14%5D%5BEasy%5D%20Longest%20Common%20Prefix.py)|
 |20|Valid Parentheses|Easy|[Problem](https://leetcode.com/problems/valid-parentheses/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B20%5D%5BEasy%5D%20Valid%20Parentheses.py)|
 |21|Merge Two Sorted Lists|Easy|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B21%5D%5BEasy%5D%20Merge%20Two%20Sorted%20Lists.py)|
+|26|Remove Duplicates from Sorted Array|Easy|[Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B26%5D%5BEasy%5D%20Remove%20Duplicates%20from%20Sorted%20Array.py)|
+|27|Remove Element|Easy|[Problem](https://leetcode.com/problems/remove-element/), [Solution]()|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
