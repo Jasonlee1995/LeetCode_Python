@@ -21,6 +21,7 @@
 |21|Merge Two Sorted Lists|Easy|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B21%5D%5BEasy%5D%20Merge%20Two%20Sorted%20Lists.py)|
 |26|Remove Duplicates from Sorted Array|Easy|[Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B26%5D%5BEasy%5D%20Remove%20Duplicates%20from%20Sorted%20Array.py)|
 |27|Remove Element|Easy|[Problem](https://leetcode.com/problems/remove-element/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B27%5D%5BEasy%5D%20Remove%20Element.py)|
+|28|Implement strStr()|Easy|[Problem](https://leetcode.com/problems/implement-strstr/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B28%5D%5BEasy%5D%20Implement%20strStr().py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
