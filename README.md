@@ -23,6 +23,8 @@
 |27|Remove Element|Easy|[Problem](https://leetcode.com/problems/remove-element/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B27%5D%5BEasy%5D%20Remove%20Element.py)|
 |28|Implement strStr()|Easy|[Problem](https://leetcode.com/problems/implement-strstr/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B28%5D%5BEasy%5D%20Implement%20strStr().py)|
 |35|Search Insert Position|Easy|[Problem](https://leetcode.com/problems/search-insert-position/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B35%5D%5BEasy%5D%20Search%20Insert%20Position.py)|
+|53|Maximum Subarray|Easy|[Problem](https://leetcode.com/problems/maximum-subarray/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B53%5D%5BEasy%5D%20Maximum%20Subarray.py)|
+
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
