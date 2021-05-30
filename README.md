@@ -25,6 +25,7 @@
 |35|Search Insert Position|Easy|[Problem](https://leetcode.com/problems/search-insert-position/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B35%5D%5BEasy%5D%20Search%20Insert%20Position.py)|
 |53|Maximum Subarray|Easy|[Problem](https://leetcode.com/problems/maximum-subarray/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B53%5D%5BEasy%5D%20Maximum%20Subarray.py)|
 |58|Length of Last Word|Easy|[Problem](https://leetcode.com/problems/length-of-last-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B58%5D%5BEasy%5D%20Length%20of%20Last%20Word.py)|
+|66|Plus One|Easy|[Problem](https://leetcode.com/problems/plus-one/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B66%5D%5BEasy%5D%20Plus%20One.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
