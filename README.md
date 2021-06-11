@@ -27,6 +27,7 @@
 |58|Length of Last Word|Easy|[Problem](https://leetcode.com/problems/length-of-last-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B58%5D%5BEasy%5D%20Length%20of%20Last%20Word.py)|
 |66|Plus One|Easy|[Problem](https://leetcode.com/problems/plus-one/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B66%5D%5BEasy%5D%20Plus%20One.py)|
 |67|Add Binary|Easy|[Problem](https://leetcode.com/problems/add-binary/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B67%5D%5BEasy%5D%20Add%20Binary.py)|
+|69|Sqrt(x)|Easy|[Problem](https://leetcode.com/problems/sqrtx/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B69%5D%5BEasy%5D%20Sqrt(x).py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
