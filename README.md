@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 11 May 2021
+- Recent Update : 13 Jun 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -28,6 +28,7 @@
 |66|Plus One|Easy|[Problem](https://leetcode.com/problems/plus-one/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B66%5D%5BEasy%5D%20Plus%20One.py)|
 |67|Add Binary|Easy|[Problem](https://leetcode.com/problems/add-binary/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B67%5D%5BEasy%5D%20Add%20Binary.py)|
 |69|Sqrt(x)|Easy|[Problem](https://leetcode.com/problems/sqrtx/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B69%5D%5BEasy%5D%20Sqrt(x).py)|
+|70|Climbing Stairs|Easy|[Problem](https://leetcode.com/problems/climbing-stairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B70%5D%5BEasy%5D%20Climbing%20Stairs.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
