@@ -29,6 +29,7 @@
 |67|Add Binary|Easy|[Problem](https://leetcode.com/problems/add-binary/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B67%5D%5BEasy%5D%20Add%20Binary.py)|
 |69|Sqrt(x)|Easy|[Problem](https://leetcode.com/problems/sqrtx/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B69%5D%5BEasy%5D%20Sqrt(x).py)|
 |70|Climbing Stairs|Easy|[Problem](https://leetcode.com/problems/climbing-stairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B70%5D%5BEasy%5D%20Climbing%20Stairs.py)|
+|83|Remove Duplicates from Sorted List|Easy|[Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B83%5D%5BEasy%5D%20Remove%20Duplicates%20from%20Sorted%20List.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
