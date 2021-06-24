@@ -33,6 +33,7 @@
 |88|Merge Sorted Array|Easy|[Problem](https://leetcode.com/problems/merge-sorted-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B88%5D%5BEasy%5D%20Merge%20Sorted%20Array.py)|
 |94|Binary Tree Inorder Traversal|Easy|[Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B94%5D%5BEasy%5D%20Binary%20Tree%20Inorder%20Traversal.py)|
 |100|Same Tree|Easy|[Problem](https://leetcode.com/problems/same-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B100%5D%5BEasy%5D%20Same%20Tree.py)|
+|101|Symmetric Tree|Easy|[Problem](https://leetcode.com/problems/symmetric-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B101%5D%5BEasy%5D%20Symmetric%20Tree.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
