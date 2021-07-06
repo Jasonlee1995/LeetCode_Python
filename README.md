@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 30 Jun 2021
+- Recent Update : 06 Jul 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -39,6 +39,7 @@
 |110|Balanced Binary Tree|Easy|[Problem](https://leetcode.com/problems/balanced-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B110%5D%5BEasy%5D%20Balanced%20Binary%20Tree.py)|
 |111|Minimum Depth of Binary Tree|Easy|[Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B111%5D%5BEasy%5D%20Minimum%20Depth%20of%20Binary%20Tree.py)|
 |112|Path Sum|Easy|[Problem](https://leetcode.com/problems/path-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B112%5D%5BEasy%5D%20Path%20Sum.py)|
+|118|Pascal's Triangle|Easy|[Problem](https://leetcode.com/problems/pascals-triangle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B118%5D%5BEasy%5D%20Pascal's%20Triangle.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
