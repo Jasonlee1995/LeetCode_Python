@@ -40,6 +40,7 @@
 |111|Minimum Depth of Binary Tree|Easy|[Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B111%5D%5BEasy%5D%20Minimum%20Depth%20of%20Binary%20Tree.py)|
 |112|Path Sum|Easy|[Problem](https://leetcode.com/problems/path-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B112%5D%5BEasy%5D%20Path%20Sum.py)|
 |118|Pascal's Triangle|Easy|[Problem](https://leetcode.com/problems/pascals-triangle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B118%5D%5BEasy%5D%20Pascal's%20Triangle.py)|
+|119|Pascal's Triangle II|Easy|[Problem](https://leetcode.com/problems/pascals-triangle-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B119%5D%5BEasy%5D%20Pascal's%20Triangle%20II.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
