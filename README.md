@@ -41,6 +41,7 @@
 |112|Path Sum|Easy|[Problem](https://leetcode.com/problems/path-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B112%5D%5BEasy%5D%20Path%20Sum.py)|
 |118|Pascal's Triangle|Easy|[Problem](https://leetcode.com/problems/pascals-triangle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B118%5D%5BEasy%5D%20Pascal's%20Triangle.py)|
 |119|Pascal's Triangle II|Easy|[Problem](https://leetcode.com/problems/pascals-triangle-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B119%5D%5BEasy%5D%20Pascal's%20Triangle%20II.py)|
+|121|Best Time to Buy and Sell Stock|Easy|[Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B121%5D%5BEasy%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
