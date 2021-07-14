@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 10 Jul 2021
+- Recent Update : 14 Jul 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -44,6 +44,8 @@
 |121|Best Time to Buy and Sell Stock|Easy|[Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B121%5D%5BEasy%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
 |122|Best Time to Buy and Sell Stock II|Easy|[Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B122%5D%5BEasy%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|
 |125|Valid Palindrome|Easy|[Problem](https://leetcode.com/problems/valid-palindrome/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B125%5D%5BEasy%5D%20Valid%20Palindrome.py)|
+|136|Single Number|Easy|[Problem](https://leetcode.com/problems/single-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B136%5D%5BEasy%5D%20Single%20Number.py)|
+
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
