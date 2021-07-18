@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 14 Jul 2021
+- Recent Update : 17 Jul 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -46,6 +46,8 @@
 |125|Valid Palindrome|Easy|[Problem](https://leetcode.com/problems/valid-palindrome/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B125%5D%5BEasy%5D%20Valid%20Palindrome.py)|
 |136|Single Number|Easy|[Problem](https://leetcode.com/problems/single-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B136%5D%5BEasy%5D%20Single%20Number.py)|
 |141|Linked List Cycle|Easy|[Problem](https://leetcode.com/problems/linked-list-cycle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B141%5D%5BEasy%5D%20Linked%20List%20Cycle.py)|
+|144|Binary Tree Preorder Traversal|Easy|[Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B144%5D%5BEasy%5D%20Binary%20Tree%20Preorder%20Traversal.py)|
+|145|Binary Tree Postorder Traversal|Easy|[Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/), [Solution]()|
 
 
 
