@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 25 Jul 2021
+- Recent Update : 31 Jul 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -53,6 +53,8 @@
 |167|Two Sum II - Input array is sorted|Easy|[Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B167%5D%5BEasy%5D%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|
 |168|Excel Sheet Column Title|Easy|[Problem](https://leetcode.com/problems/excel-sheet-column-title/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B168%5D%5BEasy%5D%20Excel%20Sheet%20Column%20Title.py)|
 |169|Majority Element|Easy|[Problem](https://leetcode.com/problems/majority-element/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B169%5D%5BEasy%5D%20Majority%20Element.py)|
+|171|Excel Sheet Column Number|Easy|[Problem](https://leetcode.com/problems/excel-sheet-column-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B171%5D%5BEasy%5D%20Excel%20Sheet%20Column%20Number.py)|
+|172|Factorial Trailing Zeroes|Easy|[Problem](https://leetcode.com/problems/factorial-trailing-zeroes/), [Solution]()|
 
 
 
