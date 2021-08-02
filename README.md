@@ -54,7 +54,7 @@
 |168|Excel Sheet Column Title|Easy|[Problem](https://leetcode.com/problems/excel-sheet-column-title/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B168%5D%5BEasy%5D%20Excel%20Sheet%20Column%20Title.py)|
 |169|Majority Element|Easy|[Problem](https://leetcode.com/problems/majority-element/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B169%5D%5BEasy%5D%20Majority%20Element.py)|
 |171|Excel Sheet Column Number|Easy|[Problem](https://leetcode.com/problems/excel-sheet-column-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B171%5D%5BEasy%5D%20Excel%20Sheet%20Column%20Number.py)|
-|172|Factorial Trailing Zeroes|Easy|[Problem](https://leetcode.com/problems/factorial-trailing-zeroes/), [Solution]()|
+|172|Factorial Trailing Zeroes|Easy|[Problem](https://leetcode.com/problems/factorial-trailing-zeroes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B172%5D%5BEasy%5D%20Factorial%20Trailing%20Zeroes.py)|
 
 
 
