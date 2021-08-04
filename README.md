@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 31 Jul 2021
+- Recent Update : 03 Aug 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -56,7 +56,8 @@
 |171|Excel Sheet Column Number|Easy|[Problem](https://leetcode.com/problems/excel-sheet-column-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B171%5D%5BEasy%5D%20Excel%20Sheet%20Column%20Number.py)|
 |172|Factorial Trailing Zeroes|Easy|[Problem](https://leetcode.com/problems/factorial-trailing-zeroes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B172%5D%5BEasy%5D%20Factorial%20Trailing%20Zeroes.py)|
 |190|Reverse Bits|Easy|[Problem](https://leetcode.com/problems/reverse-bits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B190%5D%5BEasy%5D%20Reverse%20Bits.py)|
-|191|Number of 1 Bits|Easy|[Problem](https://leetcode.com/problems/number-of-1-bits/), [Solution]()|
+|191|Number of 1 Bits|Easy|[Problem](https://leetcode.com/problems/number-of-1-bits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B191%5D%5BEasy%5D%20Number%20of%201%20Bits.py)|
+|202|Happy Number|Easy|[Problem](https://leetcode.com/problems/happy-number/), [Solution]()|
 
 
 
