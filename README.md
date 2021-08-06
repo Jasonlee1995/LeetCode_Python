@@ -57,7 +57,8 @@
 |172|Factorial Trailing Zeroes|Easy|[Problem](https://leetcode.com/problems/factorial-trailing-zeroes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B172%5D%5BEasy%5D%20Factorial%20Trailing%20Zeroes.py)|
 |190|Reverse Bits|Easy|[Problem](https://leetcode.com/problems/reverse-bits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B190%5D%5BEasy%5D%20Reverse%20Bits.py)|
 |191|Number of 1 Bits|Easy|[Problem](https://leetcode.com/problems/number-of-1-bits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B191%5D%5BEasy%5D%20Number%20of%201%20Bits.py)|
-|202|Happy Number|Easy|[Problem](https://leetcode.com/problems/happy-number/), [Solution]()|
+|202|Happy Number|Easy|[Problem](https://leetcode.com/problems/happy-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B202%5D%5BEasy%5D%20Happy%20Number.py)|
+|203|Remove Linked List Elements|Easy|[Problem](https://leetcode.com/problems/remove-linked-list-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B203%5D%5BEasy%5D%20Remove%20Linked%20List%20Elements.py)|
 
 
 
