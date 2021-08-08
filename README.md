@@ -60,7 +60,7 @@
 |202|Happy Number|Easy|[Problem](https://leetcode.com/problems/happy-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B202%5D%5BEasy%5D%20Happy%20Number.py)|
 |203|Remove Linked List Elements|Easy|[Problem](https://leetcode.com/problems/remove-linked-list-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B203%5D%5BEasy%5D%20Remove%20Linked%20List%20Elements.py)|
 |204|Count Primes|Easy|[Problem](https://leetcode.com/problems/count-primes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B204%5D%5BEasy%5D%20Count%20Primes.py)|
-
+|205|Isomorphic Strings|Easy|[Problem](https://leetcode.com/problems/isomorphic-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B205%5D%5BEasy%5D%20Isomorphic%20Strings.py)|
 
 
 
