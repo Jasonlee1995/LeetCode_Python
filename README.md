@@ -63,7 +63,8 @@
 |205|Isomorphic Strings|Easy|[Problem](https://leetcode.com/problems/isomorphic-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B205%5D%5BEasy%5D%20Isomorphic%20Strings.py)|
 |206|Reverse Linked List|Easy|[Problem](https://leetcode.com/problems/reverse-linked-list/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B206%5D%5BEasy%5D%20Reverse%20Linked%20List.py)|
 |217|Contains Duplicate|Easy|[Problem](https://leetcode.com/problems/contains-duplicate/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B217%5D%5BEasy%5D%20Contains%20Duplicate.py)|
-|219|Contains Duplicate II|Easy|[Problem](https://leetcode.com/problems/contains-duplicate-ii/), [Solution]()|
+|219|Contains Duplicate II|Easy|[Problem](https://leetcode.com/problems/contains-duplicate-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B219%5D%5BEasy%5D%20Contains%20Duplicate%20II.py)|
+|225|Implement Stack using Queues|Easy|[Problem](https://leetcode.com/problems/implement-stack-using-queues/), [Solution]()|
 
 
 
