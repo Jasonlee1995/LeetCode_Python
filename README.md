@@ -66,8 +66,8 @@
 |219|Contains Duplicate II|Easy|[Problem](https://leetcode.com/problems/contains-duplicate-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B219%5D%5BEasy%5D%20Contains%20Duplicate%20II.py)|
 |225|Implement Stack using Queues|Easy|[Problem](https://leetcode.com/problems/implement-stack-using-queues/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B225%5D%5BEasy%5D%20Implement%20Stack%20using%20Queues.py)|
 |226|Invert Binary Tree|Easy|[Problem](https://leetcode.com/problems/invert-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B226%5D%5BEasy%5D%20Invert%20Binary%20Tree.py)|
-|228|Summary Ranges|Easy|[Problem](https://leetcode.com/problems/summary-ranges/), [Solution]()|
-
+|228|Summary Ranges|Easy|[Problem](https://leetcode.com/problems/summary-ranges/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B228%5D%5BEasy%5D%20Summary%20Ranges.py)|
+|231|Power of Two|Easy|[Problem](https://leetcode.com/problems/power-of-two/), [Solution]()|
 
 
 
