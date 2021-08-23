@@ -73,7 +73,8 @@
 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B235%5D%5BEasy%5D%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py)|
 |237|Delete Node in a Linked List|Easy|[Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B237%5D%5BEasy%5D%20Delete%20Node%20in%20a%20Linked%20List.py)|
 |242|Valid Anagram|Easy|[Problem](https://leetcode.com/problems/valid-anagram/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B242%5D%5BEasy%5D%20Valid%20Anagram.py)|
-
+|257|Binary Tree Paths|Easy|[Problem](https://leetcode.com/problems/binary-tree-paths/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B257%5D%5BEasy%5D%20Binary%20Tree%20Paths.py)|
+|258|Add Digits|Easy|[Problem](https://leetcode.com/problems/add-digits/), [Solution]()|
 
 
 
