@@ -76,7 +76,10 @@
 |257|Binary Tree Paths|Easy|[Problem](https://leetcode.com/problems/binary-tree-paths/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B257%5D%5BEasy%5D%20Binary%20Tree%20Paths.py)|
 |258|Add Digits|Easy|[Problem](https://leetcode.com/problems/add-digits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B258%5D%5BEasy%5D%20Add%20Digits.py)|
 |263|Ugly Number|Easy|[Problem](https://leetcode.com/problems/ugly-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B263%5D%5BEasy%5D%20Ugly%20Number.py)|
-|268|Missing Number|Easy|[Problem](https://leetcode.com/problems/missing-number/), [Solution]()|
+|268|Missing Number|Easy|[Problem](https://leetcode.com/problems/missing-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B268%5D%5BEasy%5D%20Missing%20Number.py)|
+|278|First Bad Version|Easy|[Problem](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B278%5D%5BEasy%5D%20First%20Bad%20Version.py)|
+|283|Move Zeroes|Easy|[Problem](https://leetcode.com/problems/move-zeroes/), [Solution]()|
+
 
 
 
