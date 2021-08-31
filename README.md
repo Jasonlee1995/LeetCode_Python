@@ -79,7 +79,8 @@
 |268|Missing Number|Easy|[Problem](https://leetcode.com/problems/missing-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B268%5D%5BEasy%5D%20Missing%20Number.py)|
 |278|First Bad Version|Easy|[Problem](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B278%5D%5BEasy%5D%20First%20Bad%20Version.py)|
 |283|Move Zeroes|Easy|[Problem](https://leetcode.com/problems/move-zeroes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B283%5D%5BEasy%5D%20Move%20Zeroes.py)|
-|290|Word Pattern|Easy|[Problem](https://leetcode.com/problems/word-pattern/), [Solution]()|
+|290|Word Pattern|Easy|[Problem](https://leetcode.com/problems/word-pattern/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B290%5D%5BEasy%5D%20Word%20Pattern.py)|
+|292|Nim Game|Easy|[Problem](https://leetcode.com/problems/nim-game/), [Solution]()|
 
 
 
