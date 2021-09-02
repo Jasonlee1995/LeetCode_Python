@@ -80,7 +80,9 @@
 |278|First Bad Version|Easy|[Problem](https://leetcode.com/problems/first-bad-version/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B278%5D%5BEasy%5D%20First%20Bad%20Version.py)|
 |283|Move Zeroes|Easy|[Problem](https://leetcode.com/problems/move-zeroes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B283%5D%5BEasy%5D%20Move%20Zeroes.py)|
 |290|Word Pattern|Easy|[Problem](https://leetcode.com/problems/word-pattern/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B290%5D%5BEasy%5D%20Word%20Pattern.py)|
-|292|Nim Game|Easy|[Problem](https://leetcode.com/problems/nim-game/), [Solution]()|
+|292|Nim Game|Easy|[Problem](https://leetcode.com/problems/nim-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B292%5D%5BEasy%5D%20Nim%20Game.py)|
+|303|Range Sum Query - Immutable|Easy|[Problem](https://leetcode.com/problems/range-sum-query-immutable/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B303%5D%5BEasy%5D%20Range%20Sum%20Query%20-%20Immutable.py)|
+|326|Power of Three|Easy|[Problem](https://leetcode.com/problems/power-of-three/), [Solution]()|
 
 
 
