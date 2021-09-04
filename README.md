@@ -84,6 +84,7 @@
 |303|Range Sum Query - Immutable|Easy|[Problem](https://leetcode.com/problems/range-sum-query-immutable/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B303%5D%5BEasy%5D%20Range%20Sum%20Query%20-%20Immutable.py)|
 |326|Power of Three|Easy|[Problem](https://leetcode.com/problems/power-of-three/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B326%5D%5BEasy%5D%20Power%20of%20Three.py)|
 |338|Counting Bits|Easy|[Problem](https://leetcode.com/problems/counting-bits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B338%5D%5BEasy%5D%20Counting%20Bits.py)|
+|342|Power of Four|Easy|[Problem](https://leetcode.com/problems/power-of-four/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B342%5D%5BEasy%5D%20Power%20of%20Four.py)|
 
 
 
