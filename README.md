@@ -88,6 +88,7 @@
 |344|Reverse String|Easy|[Problem](https://leetcode.com/problems/reverse-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B344%5D%5BEasy%5D%20Reverse%20String.py)|
 |345|Reverse Vowels of a String|Easy|[Problem](https://leetcode.com/problems/reverse-vowels-of-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B345%5D%5BEasy%5D%20Reverse%20Vowels%20of%20a%20String.py)|
 |349|Intersection of Two Arrays|Easy|[Problem](https://leetcode.com/problems/intersection-of-two-arrays/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B349%5D%5BEasy%5D%20Intersection%20of%20Two%20Arrays.py)|
+|350|Intersection of Two Arrays II|Easy|[Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B350%5D%5BEasy%5D%20Intersection%20of%20Two%20Arrays%20II.py)|
 
 
 
