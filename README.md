@@ -91,6 +91,7 @@
 |350|Intersection of Two Arrays II|Easy|[Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B350%5D%5BEasy%5D%20Intersection%20of%20Two%20Arrays%20II.py)|
 |367|Valid Perfect Square|Easy|[Problem](https://leetcode.com/problems/valid-perfect-square/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B367%5D%5BEasy%5D%20Valid%20Perfect%20Square.py)|
 |374|Guess Number Higher or Lower|Easy|[Problem](https://leetcode.com/problems/guess-number-higher-or-lower/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B374%5D%5BEasy%5D%20Guess%20Number%20Higher%20or%20Lower.py)|
+|383|Ransom Note|Easy|[Problem](https://leetcode.com/problems/ransom-note/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B383%5D%5BEasy%5D%20Ransom%20Note.py)|
 
 
 
