@@ -93,7 +93,7 @@
 |374|Guess Number Higher or Lower|Easy|[Problem](https://leetcode.com/problems/guess-number-higher-or-lower/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B374%5D%5BEasy%5D%20Guess%20Number%20Higher%20or%20Lower.py)|
 |383|Ransom Note|Easy|[Problem](https://leetcode.com/problems/ransom-note/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B383%5D%5BEasy%5D%20Ransom%20Note.py)|
 |387|First Unique Character in a String|Easy|[Problem](https://leetcode.com/problems/first-unique-character-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B387%5D%5BEasy%5D%20First%20Unique%20Character%20in%20a%20String.py)|
-
+|389|Find the Difference|Easy|[Problem](https://leetcode.com/problems/find-the-difference/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B389%5D%5BEasy%5D%20Find%20the%20Difference.py)|
 
 
 
