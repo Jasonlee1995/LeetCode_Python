@@ -95,6 +95,7 @@
 |387|First Unique Character in a String|Easy|[Problem](https://leetcode.com/problems/first-unique-character-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B387%5D%5BEasy%5D%20First%20Unique%20Character%20in%20a%20String.py)|
 |389|Find the Difference|Easy|[Problem](https://leetcode.com/problems/find-the-difference/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B389%5D%5BEasy%5D%20Find%20the%20Difference.py)|
 |392|Is Subsequence|Easy|[Problem](https://leetcode.com/problems/is-subsequence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B392%5D%5BEasy%5D%20Is%20Subsequence.py)|
+|401|Binary Watch|Easy|[Problem](https://leetcode.com/problems/binary-watch/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B401%5D%5BEasy%5D%20Binary%20Watch.py)|
 
 
 
