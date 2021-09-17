@@ -96,7 +96,7 @@
 |389|Find the Difference|Easy|[Problem](https://leetcode.com/problems/find-the-difference/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B389%5D%5BEasy%5D%20Find%20the%20Difference.py)|
 |392|Is Subsequence|Easy|[Problem](https://leetcode.com/problems/is-subsequence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B392%5D%5BEasy%5D%20Is%20Subsequence.py)|
 |401|Binary Watch|Easy|[Problem](https://leetcode.com/problems/binary-watch/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B401%5D%5BEasy%5D%20Binary%20Watch.py)|
-
+|404|Sum of Left Leaves|Easy|[Problem](https://leetcode.com/problems/sum-of-left-leaves/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B404%5D%5BEasy%5D%20Sum%20of%20Left%20Leaves.py)|
 
 
 
