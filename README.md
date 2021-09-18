@@ -48,7 +48,7 @@
 |141|Linked List Cycle|Easy|[Problem](https://leetcode.com/problems/linked-list-cycle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B141%5D%5BEasy%5D%20Linked%20List%20Cycle.py)|
 |144|Binary Tree Preorder Traversal|Easy|[Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B144%5D%5BEasy%5D%20Binary%20Tree%20Preorder%20Traversal.py)|
 |145|Binary Tree Postorder Traversal|Easy|[Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B145%5D%5BEasy%5D%20Binary%20Tree%20Postorder%20Traversal.py)|
-|155|Min Stack|Easy|[Problem](https://leetcode.com/problems/min-stack/), [Solution]()|
+|155|Min Stack|Easy|[Problem](https://leetcode.com/problems/min-stack/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B155%5D%5BEasy%5D%20Min%20Stack.py)|
 |160|Intersection of Two Linked Lists|Easy|[Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B160%5D%5BEasy%5D%20Intersection%20of%20Two%20Linked%20Lists.py)|
 |167|Two Sum II - Input array is sorted|Easy|[Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B167%5D%5BEasy%5D%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|
 |168|Excel Sheet Column Title|Easy|[Problem](https://leetcode.com/problems/excel-sheet-column-title/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B168%5D%5BEasy%5D%20Excel%20Sheet%20Column%20Title.py)|
@@ -97,6 +97,8 @@
 |392|Is Subsequence|Easy|[Problem](https://leetcode.com/problems/is-subsequence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B392%5D%5BEasy%5D%20Is%20Subsequence.py)|
 |401|Binary Watch|Easy|[Problem](https://leetcode.com/problems/binary-watch/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B401%5D%5BEasy%5D%20Binary%20Watch.py)|
 |404|Sum of Left Leaves|Easy|[Problem](https://leetcode.com/problems/sum-of-left-leaves/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B404%5D%5BEasy%5D%20Sum%20of%20Left%20Leaves.py)|
+|405|Convert a Number to Hexadecimal|Easy|[Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B405%5D%5BEasy%5D%20Convert%20a%20Number%20to%20Hexadecimal.py)|
+
 
 
 
