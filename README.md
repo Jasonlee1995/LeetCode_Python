@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 19 Sep 2021
+- Recent Update : 21 Sep 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -100,7 +100,7 @@
 |405|Convert a Number to Hexadecimal|Easy|[Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B405%5D%5BEasy%5D%20Convert%20a%20Number%20to%20Hexadecimal.py)|
 |409|Longest Palindrome|Easy|[Problem](https://leetcode.com/problems/longest-palindrome/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B409%5D%5BEasy%5D%20Longest%20Palindrome.py)|
 |412|Fizz Buzz|Easy|[Problem](https://leetcode.com/problems/fizz-buzz/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B412%5D%5BEasy%5D%20Fizz%20Buzz.py)|
-
+|414|Third Maximum Number|Easy|[Problem](https://leetcode.com/problems/third-maximum-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B414%5D%5BEasy%5D%20Third%20Maximum%20Number.py)|
 
 
 
