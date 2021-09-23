@@ -102,7 +102,7 @@
 |412|Fizz Buzz|Easy|[Problem](https://leetcode.com/problems/fizz-buzz/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B412%5D%5BEasy%5D%20Fizz%20Buzz.py)|
 |414|Third Maximum Number|Easy|[Problem](https://leetcode.com/problems/third-maximum-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B414%5D%5BEasy%5D%20Third%20Maximum%20Number.py)|
 |415|Add Strings|Easy|[Problem](https://leetcode.com/problems/add-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B415%5D%5BEasy%5D%20Add%20Strings.py)|
-|434|Number of Segments in a String|Easy|[Problem](https://leetcode.com/problems/number-of-segments-in-a-string/), [Solution]()|
+|434|Number of Segments in a String|Easy|[Problem](https://leetcode.com/problems/number-of-segments-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B434%5D%5BEasy%5D%20Number%20of%20Segments%20in%20a%20String.py)|
 |441|Arranging Coins|Easy|[Problem](https://leetcode.com/problems/arranging-coins/), [Solution]()|
 
 
