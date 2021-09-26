@@ -105,8 +105,9 @@
 |434|Number of Segments in a String|Easy|[Problem](https://leetcode.com/problems/number-of-segments-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B434%5D%5BEasy%5D%20Number%20of%20Segments%20in%20a%20String.py)|
 |441|Arranging Coins|Easy|[Problem](https://leetcode.com/problems/arranging-coins/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B441%5D%5BEasy%5D%20Arranging%20Coins.py)|
 |448|Find All Numbers Disappeared in an Array|Easy|[Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B448%5D%5BEasy%5D%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)|
-|453|Minimum Moves to Equal Array Elements|Easy|[Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/), [Solution]()|
+|453|Minimum Moves to Equal Array Elements|Easy|[Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B453%5D%5BEasy%5D%20Minimum%20Moves%20to%20Equal%20Array%20Elements.py)|
 |459|Repeated Substring Pattern|Easy|[Problem](https://leetcode.com/problems/repeated-substring-pattern/), [Solution]()|
+|461|Hamming Distance|Easy|[Problem](https://leetcode.com/problems/hamming-distance/), [Solution]()|
 
 
 
