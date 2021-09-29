@@ -108,7 +108,7 @@
 |453|Minimum Moves to Equal Array Elements|Easy|[Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B453%5D%5BEasy%5D%20Minimum%20Moves%20to%20Equal%20Array%20Elements.py)|
 |455|Assign Cookies|Easy|[Problem](https://leetcode.com/problems/assign-cookies/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B455%5D%5BEasy%5D%20Assign%20Cookies.py)|
 |459|Repeated Substring Pattern|Easy|[Problem](https://leetcode.com/problems/repeated-substring-pattern/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B459%5D%5BEasy%5D%20Repeated%20Substring%20Pattern.py)|
-|461|Hamming Distance|Easy|[Problem](https://leetcode.com/problems/hamming-distance/), [Solution]()|
+|461|Hamming Distance|Easy|[Problem](https://leetcode.com/problems/hamming-distance/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B461%5D%5BEasy%5D%20Hamming%20Distance.py)|
 |463|Island Perimeter|Easy|[Problem](https://leetcode.com/problems/island-perimeter/), [Solution]()|
 |476|Number Complement|Easy|[Problem](https://leetcode.com/problems/number-complement/), [Solution]()|
 
