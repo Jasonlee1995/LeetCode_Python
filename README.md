@@ -111,8 +111,11 @@
 |461|Hamming Distance|Easy|[Problem](https://leetcode.com/problems/hamming-distance/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B461%5D%5BEasy%5D%20Hamming%20Distance.py)|
 |463|Island Perimeter|Easy|[Problem](https://leetcode.com/problems/island-perimeter/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B463%5D%5BEasy%5D%20Island%20Perimeter.py)|
 |476|Number Complement|Easy|[Problem](https://leetcode.com/problems/number-complement/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B476%5D%5BEasy%5D%20Number%20Complement.py)|
-|482|License Key Formatting|Easy|[Problem](https://leetcode.com/problems/license-key-formatting/), [Solution]()|
+|482|License Key Formatting|Easy|[Problem](https://leetcode.com/problems/license-key-formatting/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B482%5D%5BEasy%5D%20License%20Key%20Formatting.py)|
 |485|Max Consecutive Ones|Easy|[Problem](https://leetcode.com/problems/max-consecutive-ones/), [Solution]()|
+|492|Construct the Rectangle|Easy|[Problem](https://leetcode.com/problems/construct-the-rectangle/), [Solution]()|
+
+
 
 
 
