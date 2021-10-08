@@ -113,7 +113,7 @@
 |476|Number Complement|Easy|[Problem](https://leetcode.com/problems/number-complement/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B476%5D%5BEasy%5D%20Number%20Complement.py)|
 |482|License Key Formatting|Easy|[Problem](https://leetcode.com/problems/license-key-formatting/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B482%5D%5BEasy%5D%20License%20Key%20Formatting.py)|
 |485|Max Consecutive Ones|Easy|[Problem](https://leetcode.com/problems/max-consecutive-ones/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B485%5D%5BEasy%5D%20Max%20Consecutive%20Ones.py)|
-|492|Construct the Rectangle|Easy|[Problem](https://leetcode.com/problems/construct-the-rectangle/), [Solution]()|
+|492|Construct the Rectangle|Easy|[Problem](https://leetcode.com/problems/construct-the-rectangle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B492%5D%5BEasy%5D%20Construct%20the%20Rectangle.py)|
 |495|Teemo Attacking|Easy|[Problem](https://leetcode.com/problems/teemo-attacking/), [Solution]()|
 
 
