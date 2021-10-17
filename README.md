@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 27 Sep 2021
+- Recent Update : 16 Oct 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -114,8 +114,9 @@
 |482|License Key Formatting|Easy|[Problem](https://leetcode.com/problems/license-key-formatting/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B482%5D%5BEasy%5D%20License%20Key%20Formatting.py)|
 |485|Max Consecutive Ones|Easy|[Problem](https://leetcode.com/problems/max-consecutive-ones/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B485%5D%5BEasy%5D%20Max%20Consecutive%20Ones.py)|
 |492|Construct the Rectangle|Easy|[Problem](https://leetcode.com/problems/construct-the-rectangle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B492%5D%5BEasy%5D%20Construct%20the%20Rectangle.py)|
-|495|Teemo Attacking|Easy|[Problem](https://leetcode.com/problems/teemo-attacking/), [Solution]()|
-
+|495|Teemo Attacking|Easy|[Problem](https://leetcode.com/problems/teemo-attacking/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B495%5D%5BEasy%5D%20Teemo%20Attacking.py)|
+|496|Next Greater Element I|Easy|[Problem](https://leetcode.com/problems/next-greater-element-i/), [Solution]()|
+|500|Keyboard Row|Easy|[Problem](https://leetcode.com/problems/keyboard-row/), [Solution]()|
 
 
 
