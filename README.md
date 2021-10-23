@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 16 Oct 2021
+- Recent Update : 23 Oct 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -116,7 +116,8 @@
 |492|Construct the Rectangle|Easy|[Problem](https://leetcode.com/problems/construct-the-rectangle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B492%5D%5BEasy%5D%20Construct%20the%20Rectangle.py)|
 |495|Teemo Attacking|Easy|[Problem](https://leetcode.com/problems/teemo-attacking/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B495%5D%5BEasy%5D%20Teemo%20Attacking.py)|
 |496|Next Greater Element I|Easy|[Problem](https://leetcode.com/problems/next-greater-element-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B496%5D%5BEasy%5D%20Next%20Greater%20Element%20I.py)|
-|500|Keyboard Row|Easy|[Problem](https://leetcode.com/problems/keyboard-row/), [Solution]()|
+|500|Keyboard Row|Easy|[Problem](https://leetcode.com/problems/keyboard-row/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B500%5D%5BEasy%5D%20Keyboard%20Row.py)|
+|501|Find Mode in Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/), [Solution]()|
 
 
 
