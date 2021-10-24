@@ -117,7 +117,7 @@
 |495|Teemo Attacking|Easy|[Problem](https://leetcode.com/problems/teemo-attacking/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B495%5D%5BEasy%5D%20Teemo%20Attacking.py)|
 |496|Next Greater Element I|Easy|[Problem](https://leetcode.com/problems/next-greater-element-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B496%5D%5BEasy%5D%20Next%20Greater%20Element%20I.py)|
 |500|Keyboard Row|Easy|[Problem](https://leetcode.com/problems/keyboard-row/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B500%5D%5BEasy%5D%20Keyboard%20Row.py)|
-|501|Find Mode in Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/), [Solution]()|
+|501|Find Mode in Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B501%5D%5BEasy%5D%20Find%20Mode%20in%20Binary%20Search%20Tree.py)|
 
 
 
