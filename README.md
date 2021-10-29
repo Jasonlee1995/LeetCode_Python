@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 23 Oct 2021
+- Recent Update : 29 Oct 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -119,6 +119,7 @@
 |500|Keyboard Row|Easy|[Problem](https://leetcode.com/problems/keyboard-row/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B500%5D%5BEasy%5D%20Keyboard%20Row.py)|
 |501|Find Mode in Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B501%5D%5BEasy%5D%20Find%20Mode%20in%20Binary%20Search%20Tree.py)|
 |504|Base 7|Easy|[Problem](https://leetcode.com/problems/base-7/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B504%5D%5BEasy%5D%20Base%207.py)|
+|506|Relative Ranks|Easy|[Problem](https://leetcode.com/problems/relative-ranks/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B506%5D%5BEasy%5D%20Relative%20Ranks.py)|
 
 
 
