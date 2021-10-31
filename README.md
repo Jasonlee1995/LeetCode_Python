@@ -120,6 +120,7 @@
 |501|Find Mode in Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B501%5D%5BEasy%5D%20Find%20Mode%20in%20Binary%20Search%20Tree.py)|
 |504|Base 7|Easy|[Problem](https://leetcode.com/problems/base-7/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B504%5D%5BEasy%5D%20Base%207.py)|
 |506|Relative Ranks|Easy|[Problem](https://leetcode.com/problems/relative-ranks/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B506%5D%5BEasy%5D%20Relative%20Ranks.py)|
+|507|Perfect Number|Easy|[Problem](https://leetcode.com/problems/perfect-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B507%5D%5BEasy%5D%20Perfect%20Number.py)|
 
 
 
