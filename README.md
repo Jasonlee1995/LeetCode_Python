@@ -122,6 +122,7 @@
 |506|Relative Ranks|Easy|[Problem](https://leetcode.com/problems/relative-ranks/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B506%5D%5BEasy%5D%20Relative%20Ranks.py)|
 |507|Perfect Number|Easy|[Problem](https://leetcode.com/problems/perfect-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B507%5D%5BEasy%5D%20Perfect%20Number.py)|
 |509|Fibonacci Number|Easy|[Problem](https://leetcode.com/problems/fibonacci-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B509%5D%5BEasy%5D%20Fibonacci%20Number.py)|
+|520|Detect Capital|Easy|[Problem](https://leetcode.com/problems/detect-capital/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B520%5D%5BEasy%5D%20Detect%20Capital.py)|
 
 
 
