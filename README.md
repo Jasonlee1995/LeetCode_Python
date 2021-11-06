@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 29 Oct 2021
+- Recent Update : 05 Nov 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -123,6 +123,8 @@
 |507|Perfect Number|Easy|[Problem](https://leetcode.com/problems/perfect-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B507%5D%5BEasy%5D%20Perfect%20Number.py)|
 |509|Fibonacci Number|Easy|[Problem](https://leetcode.com/problems/fibonacci-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B509%5D%5BEasy%5D%20Fibonacci%20Number.py)|
 |520|Detect Capital|Easy|[Problem](https://leetcode.com/problems/detect-capital/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B520%5D%5BEasy%5D%20Detect%20Capital.py)|
+|521|Longest Uncommon Subsequence I|Easy|[Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B521%5D%5BEasy%5D%20Longest%20Uncommon%20Subsequence%20I.py)|
+|530|Minimum Absolute Difference in BST|Easy|[Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/), [Solution]()|
 
 
 
