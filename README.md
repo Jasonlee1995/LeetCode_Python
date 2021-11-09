@@ -124,7 +124,7 @@
 |509|Fibonacci Number|Easy|[Problem](https://leetcode.com/problems/fibonacci-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B509%5D%5BEasy%5D%20Fibonacci%20Number.py)|
 |520|Detect Capital|Easy|[Problem](https://leetcode.com/problems/detect-capital/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B520%5D%5BEasy%5D%20Detect%20Capital.py)|
 |521|Longest Uncommon Subsequence I|Easy|[Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B521%5D%5BEasy%5D%20Longest%20Uncommon%20Subsequence%20I.py)|
-|530|Minimum Absolute Difference in BST|Easy|[Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/), [Solution]()|
+|530|Minimum Absolute Difference in BST|Easy|[Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B530%5D%5BEasy%5D%20Minimum%20Absolute%20Difference%20in%20BST.py)|
 
 
 
