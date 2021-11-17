@@ -126,6 +126,7 @@
 |521|Longest Uncommon Subsequence I|Easy|[Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B521%5D%5BEasy%5D%20Longest%20Uncommon%20Subsequence%20I.py)|
 |530|Minimum Absolute Difference in BST|Easy|[Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B530%5D%5BEasy%5D%20Minimum%20Absolute%20Difference%20in%20BST.py)|
 |541|Reverse String II|Easy|[Problem](https://leetcode.com/problems/reverse-string-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B541%5D%5BEasy%5D%20Reverse%20String%20II.py)|
+|543|Diameter of Binary Tree|Easy|[Problem](https://leetcode.com/problems/diameter-of-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B543%5D%5BEasy%5D%20Diameter%20of%20Binary%20Tree.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
