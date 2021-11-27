@@ -131,7 +131,7 @@
 |551|Student Attendance Record I|Easy|[Problem](https://leetcode.com/problems/student-attendance-record-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B551%5D%5BEasy%5D%20Student%20Attendance%20Record%20I.py)|
 |557|Reverse Words in a String III|Easy|[Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B557%5D%5BEasy%5D%20Reverse%20Words%20in%20a%20String%20III.py)|
 |559|Maximum Depth of N-ary Tree|Easy|[Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B559%5D%5BEasy%5D%20Maximum%20Depth%20of%20N-ary%20Tree.py)|
-|561|Array Partition I|Easy|[Problem](https://leetcode.com/problems/array-partition-i/), [Solution]()|
+|561|Array Partition I|Easy|[Problem](https://leetcode.com/problems/array-partition-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B561%5D%5BEasy%5D%20Array%20Partition%20I.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
