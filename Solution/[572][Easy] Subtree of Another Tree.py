@@ -6,26 +6,16 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root, subRoot):
-        candidates = []
         stack = [root]
         while stack:
             node = stack.pop()
             if node:
-                if node.val == subRoot.val: candidates.append(node)
+                if self.CheckSame(node, subRoot): return True
                 stack += [node.left, node.right]
-
-        for candidate in candidates:
-            temp_c, temp_s = [candidate], [subRoot]
-            while temp_c and temp_s:
-                node_c, node_s = temp_c.pop(), temp_s.pop()
-                if (node_c == None) and (node_s == None): continue
-                elif (node_c != None) and (node_s != None):
-                    if node_c.val == node_s.val:
-                        temp_c += [node_c.left, node_c.right]
-                        temp_s += [node_s.left, node_s.right]
-                    else: break
-                else: break
-            else:
-                if temp_c == temp_s:
-                    return True
         return False
+
+    def CheckSame(self, tree0, tree1):
+        if (tree0 == None) and (tree1 == None): return True
+        elif (tree0 != None) and (tree1 != None):
+            return (tree0.val == tree1.val) and self.CheckSame(tree0.left, tree1.left) and self.CheckSame(tree0.right, tree1.right)
+        else: return False
