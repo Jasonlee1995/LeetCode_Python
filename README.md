@@ -134,6 +134,8 @@
 |561|Array Partition I|Easy|[Problem](https://leetcode.com/problems/array-partition-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B561%5D%5BEasy%5D%20Array%20Partition%20I.py)|
 |563|Binary Tree Tilt|Easy|[Problem](https://leetcode.com/problems/binary-tree-tilt/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B563%5D%5BEasy%5D%20Binary%20Tree%20Tilt.py)|
 |566|Reshape the Matrix|Easy|[Problem](https://leetcode.com/problems/reshape-the-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B566%5D%5BEasy%5D%20Reshape%20the%20Matrix.py)|
+|572|Subtree of Another Tree|Easy|[Problem](https://leetcode.com/problems/subtree-of-another-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B572%5D%5BEasy%5D%20Subtree%20of%20Another%20Tree.py)|
+
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
