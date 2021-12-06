@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 28 Nov 2021
+- Recent Update : 06 Dec 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -135,7 +135,7 @@
 |563|Binary Tree Tilt|Easy|[Problem](https://leetcode.com/problems/binary-tree-tilt/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B563%5D%5BEasy%5D%20Binary%20Tree%20Tilt.py)|
 |566|Reshape the Matrix|Easy|[Problem](https://leetcode.com/problems/reshape-the-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B566%5D%5BEasy%5D%20Reshape%20the%20Matrix.py)|
 |572|Subtree of Another Tree|Easy|[Problem](https://leetcode.com/problems/subtree-of-another-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B572%5D%5BEasy%5D%20Subtree%20of%20Another%20Tree.py)|
-
+|575|Distribute Candies|Easy|[Problem](https://leetcode.com/problems/distribute-candies/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B575%5D%5BEasy%5D%20Distribute%20Candies.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
