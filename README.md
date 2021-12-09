@@ -137,6 +137,7 @@
 |572|Subtree of Another Tree|Easy|[Problem](https://leetcode.com/problems/subtree-of-another-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B572%5D%5BEasy%5D%20Subtree%20of%20Another%20Tree.py)|
 |575|Distribute Candies|Easy|[Problem](https://leetcode.com/problems/distribute-candies/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B575%5D%5BEasy%5D%20Distribute%20Candies.py)|
 |589|N-ary Tree Preorder Traversal|Easy|[Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B589%5D%5BEasy%5D%20N-ary%20Tree%20Preorder%20Traversal.py)|
+|590|N-ary Tree Postorder Traversal|Easy|[Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B590%5D%5BEasy%5D%20N-ary%20Tree%20Postorder%20Traversal.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
