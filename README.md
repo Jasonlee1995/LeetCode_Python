@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 06 Dec 2021
+- Recent Update : 11 Dec 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -138,6 +138,9 @@
 |575|Distribute Candies|Easy|[Problem](https://leetcode.com/problems/distribute-candies/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B575%5D%5BEasy%5D%20Distribute%20Candies.py)|
 |589|N-ary Tree Preorder Traversal|Easy|[Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B589%5D%5BEasy%5D%20N-ary%20Tree%20Preorder%20Traversal.py)|
 |590|N-ary Tree Postorder Traversal|Easy|[Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B590%5D%5BEasy%5D%20N-ary%20Tree%20Postorder%20Traversal.py)|
+|594|Longest Harmonious Subsequence|Easy|[Problem](https://leetcode.com/problems/longest-harmonious-subsequence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B594%5D%5BEasy%5D%20Longest%20Harmonious%20Subsequence.py)|
+|598|Range Addition II|Easy|[Problem](https://leetcode.com/problems/range-addition-ii/), [Solution]()|
+|599|Minimum Index Sum of Two Lists|Easy|[Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/), [Solution]()|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
