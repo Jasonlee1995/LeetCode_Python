@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 11 Dec 2021
+- Recent Update : 16 Dec 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -141,6 +141,9 @@
 |594|Longest Harmonious Subsequence|Easy|[Problem](https://leetcode.com/problems/longest-harmonious-subsequence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B594%5D%5BEasy%5D%20Longest%20Harmonious%20Subsequence.py)|
 |598|Range Addition II|Easy|[Problem](https://leetcode.com/problems/range-addition-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B598%5D%5BEasy%5D%20Range%20Addition%20II.py)|
 |599|Minimum Index Sum of Two Lists|Easy|[Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B599%5D%5BEasy%5D%20Minimum%20Index%20Sum%20of%20Two%20Lists.py)|
+|605|Can Place Flowers|Easy|[Problem](https://leetcode.com/problems/can-place-flowers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B605%5D%5BEasy%5D%20Can%20Place%20Flowers.py)|
+|606|Construct String from Binary Tree|Easy|[Problem](https://leetcode.com/problems/construct-string-from-binary-tree/), [Solution]()|
+
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
