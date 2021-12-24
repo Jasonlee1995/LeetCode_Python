@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 19 Dec 2021
+- Recent Update : 25 Dec 2021
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -144,8 +144,9 @@
 |605|Can Place Flowers|Easy|[Problem](https://leetcode.com/problems/can-place-flowers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B605%5D%5BEasy%5D%20Can%20Place%20Flowers.py)|
 |606|Construct String from Binary Tree|Easy|[Problem](https://leetcode.com/problems/construct-string-from-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B606%5D%5BEasy%5D%20Construct%20String%20from%20Binary%20Tree.py)|
 |617|Merge Two Binary Trees|Easy|[Problem](https://leetcode.com/problems/merge-two-binary-trees/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B617%5D%5BEasy%5D%20Merge%20Two%20Binary%20Trees.py)|
-|628|Maximum Product of Three Numbers|Easy|[Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/), [Solution]()|
+|628|Maximum Product of Three Numbers|Easy|[Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B628%5D%5BEasy%5D%20Maximum%20Product%20of%20Three%20Numbers.py)|
 |637|Average of Levels in Binary Tree|Easy|[Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree/), [Solution]()|
+|643|Maximum Average Subarray I|Easy|[Problem](https://leetcode.com/problems/maximum-average-subarray-i/), [Solution]()|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
