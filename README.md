@@ -151,8 +151,9 @@
 |653|Two Sum IV - Input is a BST|Easy|[Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B653%5D%5BEasy%5D%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.py)|
 |657|Robot Return to Origin|Easy|[Problem](https://leetcode.com/problems/robot-return-to-origin/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B657%5D%5BEasy%5D%20Robot%20Return%20to%20Origin.py)|
 |661|Image Smoother|Easy|[Problem](https://leetcode.com/problems/image-smoother/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B661%5D%5BEasy%5D%20Image%20Smoother.py)|
-|671|Second Minimum Node In a Binary Tree|Easy|[Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/), [Solution]()|
+|671|Second Minimum Node In a Binary Tree|Easy|[Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B671%5D%5BEasy%5D%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.py)|
 |674|Longest Continuous Increasing Subsequence|Easy|[Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence/), [Solution]()|
+|680|Valid Palindrome II|Easy|[Problem](https://leetcode.com/problems/valid-palindrome-ii/), [Solution]()|
 
 
 
