@@ -155,8 +155,9 @@
 |674|Longest Continuous Increasing Subsequence|Easy|[Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B674%5D%5BEasy%5D%20Longest%20Continuous%20Increasing%20Subsequence.py)|
 |680|Valid Palindrome II|Easy|[Problem](https://leetcode.com/problems/valid-palindrome-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B680%5D%5BEasy%5D%20Valid%20Palindrome%20II.py)|
 |682|Baseball Game|Easy|[Problem](https://leetcode.com/problems/baseball-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B682%5D%5BEasy%5D%20Baseball%20Game.py)|
-|693|Binary Number with Alternating Bits|Easy|[Problem](https://leetcode.com/problems/binary-number-with-alternating-bits/), [Solution]()|
-
+|693|Binary Number with Alternating Bits|Easy|[Problem](https://leetcode.com/problems/binary-number-with-alternating-bits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B693%5D%5BEasy%5D%20Binary%20Number%20with%20Alternating%20Bits.py)|
+|696|Count Binary Substrings|Easy|[Problem](https://leetcode.com/problems/count-binary-substrings/), [Solution]()|
+|697|Degree of an Array|Easy|[Problem](https://leetcode.com/problems/degree-of-an-array/), [Solution]()|
 
 
 
