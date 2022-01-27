@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 20 Jan 2022
+- Recent Update : 24 Jan 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -156,8 +156,9 @@
 |680|Valid Palindrome II|Easy|[Problem](https://leetcode.com/problems/valid-palindrome-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B680%5D%5BEasy%5D%20Valid%20Palindrome%20II.py)|
 |682|Baseball Game|Easy|[Problem](https://leetcode.com/problems/baseball-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B682%5D%5BEasy%5D%20Baseball%20Game.py)|
 |693|Binary Number with Alternating Bits|Easy|[Problem](https://leetcode.com/problems/binary-number-with-alternating-bits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B693%5D%5BEasy%5D%20Binary%20Number%20with%20Alternating%20Bits.py)|
-|696|Count Binary Substrings|Easy|[Problem](https://leetcode.com/problems/count-binary-substrings/), [Solution]()|
+|696|Count Binary Substrings|Easy|[Problem](https://leetcode.com/problems/count-binary-substrings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B696%5D%5BEasy%5D%20Count%20Binary%20Substrings.py)|
 |697|Degree of an Array|Easy|[Problem](https://leetcode.com/problems/degree-of-an-array/), [Solution]()|
+|700|Search in a Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution]()|
 
 
 
