@@ -158,8 +158,10 @@
 |693|Binary Number with Alternating Bits|Easy|[Problem](https://leetcode.com/problems/binary-number-with-alternating-bits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B693%5D%5BEasy%5D%20Binary%20Number%20with%20Alternating%20Bits.py)|
 |696|Count Binary Substrings|Easy|[Problem](https://leetcode.com/problems/count-binary-substrings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B696%5D%5BEasy%5D%20Count%20Binary%20Substrings.py)|
 |697|Degree of an Array|Easy|[Problem](https://leetcode.com/problems/degree-of-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B697%5D%5BEasy%5D%20Degree%20of%20an%20Array.py)|
-|700|Search in a Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution]()|
+|700|Search in a Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B700%5D%5BEasy%5D%20Search%20in%20a%20Binary%20Search%20Tree.py)|
 |703|Kth Largest Element in a Stream|Easy|[Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/), [Solution]()|
+|704|Binary Search|Easy|[Problem](https://leetcode.com/problems/binary-search/), [Solution]()| 
+
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
