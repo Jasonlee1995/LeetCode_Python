@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 1 Feb 2022
+- Recent Update : 16 Feb 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -160,7 +160,7 @@
 |697|Degree of an Array|Easy|[Problem](https://leetcode.com/problems/degree-of-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B697%5D%5BEasy%5D%20Degree%20of%20an%20Array.py)|
 |700|Search in a Binary Search Tree|Easy|[Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B700%5D%5BEasy%5D%20Search%20in%20a%20Binary%20Search%20Tree.py)|
 |703|Kth Largest Element in a Stream|Easy|[Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B703%5D%5BEasy%5D%20Kth%20Largest%20Element%20in%20a%20Stream.py)|
-|704|Binary Search|Easy|[Problem](https://leetcode.com/problems/binary-search/), [Solution]()|
+|704|Binary Search|Easy|[Problem](https://leetcode.com/problems/binary-search/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B704%5D%5BEasy%5D%20Binary%20Search.py)|
 |705|Design HashSet|Easy|[Problem](https://leetcode.com/problems/design-hashset/), [Solution]()|
 |706|Design HashMap|Easy|[Problem](https://leetcode.com/problems/design-hashmap/), [Solution]()|
 
