@@ -162,7 +162,7 @@
 |703|Kth Largest Element in a Stream|Easy|[Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B703%5D%5BEasy%5D%20Kth%20Largest%20Element%20in%20a%20Stream.py)|
 |704|Binary Search|Easy|[Problem](https://leetcode.com/problems/binary-search/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B704%5D%5BEasy%5D%20Binary%20Search.py)|
 |705|Design HashSet|Easy|[Problem](https://leetcode.com/problems/design-hashset/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B705%5D%5BEasy%5D%20Design%20HashSet.py)|
-|706|Design HashMap|Easy|[Problem](https://leetcode.com/problems/design-hashmap/), [Solution]()|
+|706|Design HashMap|Easy|[Problem](https://leetcode.com/problems/design-hashmap/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B706%5D%5BEasy%5D%20Design%20HashMap.py)|
 |709|To Lower Case|Easy|[Problem](https://leetcode.com/problems/to-lower-case/), [Solution]()|
 
 
