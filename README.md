@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 24 Feb 2022
+- Recent Update : 2 Mar 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -165,9 +165,10 @@
 |706|Design HashMap|Easy|[Problem](https://leetcode.com/problems/design-hashmap/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B706%5D%5BEasy%5D%20Design%20HashMap.py)|
 |709|To Lower Case|Easy|[Problem](https://leetcode.com/problems/to-lower-case/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B709%5D%5BEasy%5D%20To%20Lower%20Case.py)|
 |717|1-bit and 2-bit Characters|Easy|[Problem](https://leetcode.com/problems/1-bit-and-2-bit-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B717%5D%5BEasy%5D%201-bit%20and%202-bit%20Characters.py)|
-|724|Find Pivot Index|Easy|[Problem](https://leetcode.com/problems/find-pivot-index/), [Solution]()|
+|724|Find Pivot Index|Easy|[Problem](https://leetcode.com/problems/find-pivot-index/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B724%5D%5BEasy%5D%20Find%20Pivot%20Index.py)|
 |728|Self Dividing Numbers|Easy|[Problem](https://leetcode.com/problems/self-dividing-numbers/), [Solution]()|
 |733|Flood Fill|Easy|[Problem](https://leetcode.com/problems/flood-fill/), [Solution]()|
+|744|Find Smallest Letter Greater Than Target|Easy|[Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target/), [Solution]()|
 
 
 
