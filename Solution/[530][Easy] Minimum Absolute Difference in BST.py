@@ -6,18 +6,13 @@
 #         self.right = right
 class Solution:
     def getMinimumDifference(self, root):
-        stack = [root]
-        vals = []
-        while stack:
-            node = stack.pop()
-            if node:
-                vals.append(node.val)
-                stack += [node.left, node.right]
-        vals.sort()
+        def inorder(node):
+            order = []
+            if node.left: order += inorder(node.left)
+            order.append(node.val)
+            if node.right: order += inorder(node.right)
+            return order
 
-        answer = None
-        for idx in range(len(vals)-1):
-            if answer: answer = min(answer, vals[idx+1] - vals[idx])
-            else: answer = vals[idx+1] - vals[idx]
-            if answer == 0: break
+        vals = inorder(root)
+        answer = min(vals[i+1] - vals[i] for i in range(len(vals)-1))
         return answer
