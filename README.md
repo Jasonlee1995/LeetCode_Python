@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 11 Mar 2022
+- Recent Update : 17 Mar 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -170,7 +170,7 @@
 |733|Flood Fill|Easy|[Problem](https://leetcode.com/problems/flood-fill/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B733%5D%5BEasy%5D%20Flood%20Fill.py)|
 |744|Find Smallest Letter Greater Than Target|Easy|[Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B744%5D%5BEasy%5D%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)|
 |746|Min Cost Climbing Stairs|Easy|[Problem](https://leetcode.com/problems/min-cost-climbing-stairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B746%5D%5BEasy%5D%20Min%20Cost%20Climbing%20Stairs.py)|
-|747|Largest Number At Least Twice of Others|Easy|[Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/), [Solution]()|
+|747|Largest Number At Least Twice of Others|Easy|[Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B747%5D%5BEasy%5D%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)|
 |748|Shortest Completing Word|Easy|[Problem](https://leetcode.com/problems/shortest-completing-word/), [Solution]()|
 |762|Prime Number of Set Bits in Binary Representation|Easy|[Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/), [Solution]()|
 |766|Toeplitz Matrix|Easy|[Problem](https://leetcode.com/problems/toeplitz-matrix/), [Solution]()|
@@ -179,6 +179,7 @@
 |796|Rotate String|Easy|[Problem](https://leetcode.com/problems/rotate-string/), [Solution]()|
 |804|Unique Morse Code Words|Easy|[Problem](https://leetcode.com/problems/unique-morse-code-words/), [Solution]()|
 |806|Number of Lines To Write String|Easy|[Problem](https://leetcode.com/problems/number-of-lines-to-write-string/), [Solution]()|
+|812|Largest Triangle Area|Easy|[Problem](https://leetcode.com/problems/largest-triangle-area/), [Solution]()|
 
 
 
