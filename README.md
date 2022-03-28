@@ -172,14 +172,14 @@
 |746|Min Cost Climbing Stairs|Easy|[Problem](https://leetcode.com/problems/min-cost-climbing-stairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B746%5D%5BEasy%5D%20Min%20Cost%20Climbing%20Stairs.py)|
 |747|Largest Number At Least Twice of Others|Easy|[Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B747%5D%5BEasy%5D%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)|
 |748|Shortest Completing Word|Easy|[Problem](https://leetcode.com/problems/shortest-completing-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B748%5D%5BEasy%5D%20Shortest%20Completing%20Word.py)|
-|762|Prime Number of Set Bits in Binary Representation|Easy|[Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/), [Solution]()|
+|762|Prime Number of Set Bits in Binary Representation|Easy|[Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B762%5D%5BEasy%5D%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py)|
 |766|Toeplitz Matrix|Easy|[Problem](https://leetcode.com/problems/toeplitz-matrix/), [Solution]()|
 |771|Jewels and Stones|Easy|[Problem](https://leetcode.com/problems/jewels-and-stones/), [Solution]()|
 |783|Minimum Distance Between BST Nodes|Easy|[Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/), [Solution]()|
 |796|Rotate String|Easy|[Problem](https://leetcode.com/problems/rotate-string/), [Solution]()|
 |804|Unique Morse Code Words|Easy|[Problem](https://leetcode.com/problems/unique-morse-code-words/), [Solution]()|
 |806|Number of Lines To Write String|Easy|[Problem](https://leetcode.com/problems/number-of-lines-to-write-string/), [Solution]()|
-|812|Largest Triangle Area|Easy|[Problem](https://leetcode.com/problems/largest-triangle-area/), [Solution]()|
+|812|Largest Triangle Area|Easy|[Problem](https://leetcode.com/problems/largest-triangle-area/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B812%5D%5BEasy%5D%20Largest%20Triangle%20Area.py)|
 |819|Most Common Word|Easy|[Problem](https://leetcode.com/problems/most-common-word/), [Solution]()|
 |821|Shortest Distance to a Character|Easy|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/), [Solution]()|
 |824|Goat Latin|Easy|[Problem](https://leetcode.com/problems/goat-latin/), [Solution]()|
@@ -189,7 +189,11 @@
 |844|Backspace String Compare|Easy|[Problem](https://leetcode.com/problems/backspace-string-compare/), [Solution]()|
 |852|Peak Index in a Mountain Array|Easy|[Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/), [Solution]()|
 |859|Buddy Strings|Easy|[Problem](https://leetcode.com/problems/buddy-strings/), [Solution]()|
-
+|860|Lemonade Change|Easy|[Problem](https://leetcode.com/problems/lemonade-change/), [Solution]()|
+|867|Transpose Matrix|Easy|[Problem](https://leetcode.com/problems/transpose-matrix/), [Solution]()|
+|868|Binary Gap|Easy|[Problem](https://leetcode.com/problems/binary-gap/), [Solution]()|
+|872|Leaf-Similar Trees|Easy|[Problem](https://leetcode.com/problems/leaf-similar-trees/), [Solution]()|
+|876|Middle of the Linked List|Easy|[Problem](https://leetcode.com/problems/middle-of-the-linked-list/), [Solution]()|
 
 
 
