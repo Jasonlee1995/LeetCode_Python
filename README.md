@@ -174,7 +174,7 @@
 |748|Shortest Completing Word|Easy|[Problem](https://leetcode.com/problems/shortest-completing-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B748%5D%5BEasy%5D%20Shortest%20Completing%20Word.py)|
 |762|Prime Number of Set Bits in Binary Representation|Easy|[Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B762%5D%5BEasy%5D%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py)|
 |766|Toeplitz Matrix|Easy|[Problem](https://leetcode.com/problems/toeplitz-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B766%5D%5BEasy%5D%20Toeplitz%20Matrix.py)|
-|771|Jewels and Stones|Easy|[Problem](https://leetcode.com/problems/jewels-and-stones/), [Solution]()|
+|771|Jewels and Stones|Easy|[Problem](https://leetcode.com/problems/jewels-and-stones/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B771%5D%5BEasy%5D%20Jewels%20and%20Stones.py)|
 |783|Minimum Distance Between BST Nodes|Easy|[Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/), [Solution]()|
 |796|Rotate String|Easy|[Problem](https://leetcode.com/problems/rotate-string/), [Solution]()|
 |804|Unique Morse Code Words|Easy|[Problem](https://leetcode.com/problems/unique-morse-code-words/), [Solution]()|
@@ -195,6 +195,8 @@
 |872|Leaf-Similar Trees|Easy|[Problem](https://leetcode.com/problems/leaf-similar-trees/), [Solution]()|
 |876|Middle of the Linked List|Easy|[Problem](https://leetcode.com/problems/middle-of-the-linked-list/), [Solution]()|
 |883|Projection Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/), [Solution]()|
+|884|Uncommon Words from Two Sentences|Easy|[Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/), [Solution]()|
+|888|Fair Candy Swap|Easy|[Problem](https://leetcode.com/problems/fair-candy-swap/), [Solution]()|
 
 
 
