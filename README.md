@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 24 Mar 2022
+- Recent Update : 2 Arp 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -175,7 +175,7 @@
 |762|Prime Number of Set Bits in Binary Representation|Easy|[Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B762%5D%5BEasy%5D%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.py)|
 |766|Toeplitz Matrix|Easy|[Problem](https://leetcode.com/problems/toeplitz-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B766%5D%5BEasy%5D%20Toeplitz%20Matrix.py)|
 |771|Jewels and Stones|Easy|[Problem](https://leetcode.com/problems/jewels-and-stones/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B771%5D%5BEasy%5D%20Jewels%20and%20Stones.py)|
-|783|Minimum Distance Between BST Nodes|Easy|[Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/), [Solution]()|
+|783|Minimum Distance Between BST Nodes|Easy|[Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B783%5D%5BEasy%5D%20Minimum%20Distance%20Between%20BST%20Nodes.py)|
 |796|Rotate String|Easy|[Problem](https://leetcode.com/problems/rotate-string/), [Solution]()|
 |804|Unique Morse Code Words|Easy|[Problem](https://leetcode.com/problems/unique-morse-code-words/), [Solution]()|
 |806|Number of Lines To Write String|Easy|[Problem](https://leetcode.com/problems/number-of-lines-to-write-string/), [Solution]()|
@@ -197,6 +197,8 @@
 |883|Projection Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/), [Solution]()|
 |884|Uncommon Words from Two Sentences|Easy|[Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/), [Solution]()|
 |888|Fair Candy Swap|Easy|[Problem](https://leetcode.com/problems/fair-candy-swap/), [Solution]()|
+|892|Surface Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/), [Solution]()|
+|896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution]()|
 
 
 
