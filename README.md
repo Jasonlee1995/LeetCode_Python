@@ -176,7 +176,7 @@
 |766|Toeplitz Matrix|Easy|[Problem](https://leetcode.com/problems/toeplitz-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B766%5D%5BEasy%5D%20Toeplitz%20Matrix.py)|
 |771|Jewels and Stones|Easy|[Problem](https://leetcode.com/problems/jewels-and-stones/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B771%5D%5BEasy%5D%20Jewels%20and%20Stones.py)|
 |783|Minimum Distance Between BST Nodes|Easy|[Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B783%5D%5BEasy%5D%20Minimum%20Distance%20Between%20BST%20Nodes.py)|
-|796|Rotate String|Easy|[Problem](https://leetcode.com/problems/rotate-string/), [Solution]()|
+|796|Rotate String|Easy|[Problem](https://leetcode.com/problems/rotate-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B796%5D%5BEasy%5D%20Rotate%20String.py)|
 |804|Unique Morse Code Words|Easy|[Problem](https://leetcode.com/problems/unique-morse-code-words/), [Solution]()|
 |806|Number of Lines To Write String|Easy|[Problem](https://leetcode.com/problems/number-of-lines-to-write-string/), [Solution]()|
 |812|Largest Triangle Area|Easy|[Problem](https://leetcode.com/problems/largest-triangle-area/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B812%5D%5BEasy%5D%20Largest%20Triangle%20Area.py)|
@@ -199,6 +199,7 @@
 |888|Fair Candy Swap|Easy|[Problem](https://leetcode.com/problems/fair-candy-swap/), [Solution]()|
 |892|Surface Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/), [Solution]()|
 |896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution]()|
+|897|Increasing Order Search Tree|Easy|[Problem](https://leetcode.com/problems/increasing-order-search-tree/), [Solution]()|
 
 
 
