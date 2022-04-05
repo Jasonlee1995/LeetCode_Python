@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 2 Arp 2022
+- Recent Update : 5 Arp 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -177,7 +177,7 @@
 |771|Jewels and Stones|Easy|[Problem](https://leetcode.com/problems/jewels-and-stones/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B771%5D%5BEasy%5D%20Jewels%20and%20Stones.py)|
 |783|Minimum Distance Between BST Nodes|Easy|[Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B783%5D%5BEasy%5D%20Minimum%20Distance%20Between%20BST%20Nodes.py)|
 |796|Rotate String|Easy|[Problem](https://leetcode.com/problems/rotate-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B796%5D%5BEasy%5D%20Rotate%20String.py)|
-|804|Unique Morse Code Words|Easy|[Problem](https://leetcode.com/problems/unique-morse-code-words/), [Solution]()|
+|804|Unique Morse Code Words|Easy|[Problem](https://leetcode.com/problems/unique-morse-code-words/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B804%5D%5BEasy%5D%20Unique%20Morse%20Code%20Words.py)|
 |806|Number of Lines To Write String|Easy|[Problem](https://leetcode.com/problems/number-of-lines-to-write-string/), [Solution]()|
 |812|Largest Triangle Area|Easy|[Problem](https://leetcode.com/problems/largest-triangle-area/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B812%5D%5BEasy%5D%20Largest%20Triangle%20Area.py)|
 |819|Most Common Word|Easy|[Problem](https://leetcode.com/problems/most-common-word/), [Solution]()|
@@ -200,6 +200,10 @@
 |892|Surface Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/), [Solution]()|
 |896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution]()|
 |897|Increasing Order Search Tree|Easy|[Problem](https://leetcode.com/problems/increasing-order-search-tree/), [Solution]()|
+|905|Sort Array By Parity|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity/), [Solution]()|
+|908|Smallest Range I|Easy|[Problem](https://leetcode.com/problems/smallest-range-i/), [Solution]()|
+|914|X of a Kind in a Deck of Cards|Easy|[Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/), [Solution]()|
+|917|Reverse Only Letters|Easy|[Problem](https://leetcode.com/problems/reverse-only-letters/), [Solution]()|
 
 
 
