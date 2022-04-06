@@ -178,7 +178,7 @@
 |783|Minimum Distance Between BST Nodes|Easy|[Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B783%5D%5BEasy%5D%20Minimum%20Distance%20Between%20BST%20Nodes.py)|
 |796|Rotate String|Easy|[Problem](https://leetcode.com/problems/rotate-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B796%5D%5BEasy%5D%20Rotate%20String.py)|
 |804|Unique Morse Code Words|Easy|[Problem](https://leetcode.com/problems/unique-morse-code-words/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B804%5D%5BEasy%5D%20Unique%20Morse%20Code%20Words.py)|
-|806|Number of Lines To Write String|Easy|[Problem](https://leetcode.com/problems/number-of-lines-to-write-string/), [Solution]()|
+|806|Number of Lines To Write String|Easy|[Problem](https://leetcode.com/problems/number-of-lines-to-write-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B806%5D%5BEasy%5D%20Number%20of%20Lines%20To%20Write%20String.py)|
 |812|Largest Triangle Area|Easy|[Problem](https://leetcode.com/problems/largest-triangle-area/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B812%5D%5BEasy%5D%20Largest%20Triangle%20Area.py)|
 |819|Most Common Word|Easy|[Problem](https://leetcode.com/problems/most-common-word/), [Solution]()|
 |821|Shortest Distance to a Character|Easy|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/), [Solution]()|
