@@ -181,7 +181,7 @@
 |806|Number of Lines To Write String|Easy|[Problem](https://leetcode.com/problems/number-of-lines-to-write-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B806%5D%5BEasy%5D%20Number%20of%20Lines%20To%20Write%20String.py)|
 |812|Largest Triangle Area|Easy|[Problem](https://leetcode.com/problems/largest-triangle-area/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B812%5D%5BEasy%5D%20Largest%20Triangle%20Area.py)|
 |819|Most Common Word|Easy|[Problem](https://leetcode.com/problems/most-common-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B819%5D%5BEasy%5D%20Most%20Common%20Word.py)|
-|821|Shortest Distance to a Character|Easy|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/), [Solution]()|
+|821|Shortest Distance to a Character|Easy|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B821%5D%5BEasy%5D%20Shortest%20Distance%20to%20a%20Character.py)|
 |824|Goat Latin|Easy|[Problem](https://leetcode.com/problems/goat-latin/), [Solution]()|
 |830|Positions of Large Groups|Easy|[Problem](https://leetcode.com/problems/positions-of-large-groups/), [Solution]()|
 |832|Flipping an Image|Easy|[Problem](https://leetcode.com/problems/flipping-an-image/), [Solution]()|
