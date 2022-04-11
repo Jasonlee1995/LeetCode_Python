@@ -182,7 +182,7 @@
 |812|Largest Triangle Area|Easy|[Problem](https://leetcode.com/problems/largest-triangle-area/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B812%5D%5BEasy%5D%20Largest%20Triangle%20Area.py)|
 |819|Most Common Word|Easy|[Problem](https://leetcode.com/problems/most-common-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B819%5D%5BEasy%5D%20Most%20Common%20Word.py)|
 |821|Shortest Distance to a Character|Easy|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B821%5D%5BEasy%5D%20Shortest%20Distance%20to%20a%20Character.py)|
-|824|Goat Latin|Easy|[Problem](https://leetcode.com/problems/goat-latin/), [Solution]()|
+|824|Goat Latin|Easy|[Problem](https://leetcode.com/problems/goat-latin/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B824%5D%5BEasy%5D%20Goat%20Latin.py)|
 |830|Positions of Large Groups|Easy|[Problem](https://leetcode.com/problems/positions-of-large-groups/), [Solution]()|
 |832|Flipping an Image|Easy|[Problem](https://leetcode.com/problems/flipping-an-image/), [Solution]()|
 |836|Rectangle Overlap|Easy|[Problem](https://leetcode.com/problems/rectangle-overlap/), [Solution]()|
@@ -204,6 +204,9 @@
 |908|Smallest Range I|Easy|[Problem](https://leetcode.com/problems/smallest-range-i/), [Solution]()|
 |914|X of a Kind in a Deck of Cards|Easy|[Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/), [Solution]()|
 |917|Reverse Only Letters|Easy|[Problem](https://leetcode.com/problems/reverse-only-letters/), [Solution]()|
+|922|Sort Array By Parity II|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity-ii/), [Solution]()|
+|925|Long Pressed Name|Easy|[Problem](https://leetcode.com/problems/long-pressed-name/), [Solution]()|
+|929|Unique Email Addresses|Easy|[Problem](https://leetcode.com/problems/unique-email-addresses/), [Solution]()|
 
 
 
