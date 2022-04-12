@@ -183,7 +183,7 @@
 |819|Most Common Word|Easy|[Problem](https://leetcode.com/problems/most-common-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B819%5D%5BEasy%5D%20Most%20Common%20Word.py)|
 |821|Shortest Distance to a Character|Easy|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B821%5D%5BEasy%5D%20Shortest%20Distance%20to%20a%20Character.py)|
 |824|Goat Latin|Easy|[Problem](https://leetcode.com/problems/goat-latin/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B824%5D%5BEasy%5D%20Goat%20Latin.py)|
-|830|Positions of Large Groups|Easy|[Problem](https://leetcode.com/problems/positions-of-large-groups/), [Solution]()|
+|830|Positions of Large Groups|Easy|[Problem](https://leetcode.com/problems/positions-of-large-groups/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B830%5D%5BEasy%5D%20Positions%20of%20Large%20Groups.py)|
 |832|Flipping an Image|Easy|[Problem](https://leetcode.com/problems/flipping-an-image/), [Solution]()|
 |836|Rectangle Overlap|Easy|[Problem](https://leetcode.com/problems/rectangle-overlap/), [Solution]()|
 |844|Backspace String Compare|Easy|[Problem](https://leetcode.com/problems/backspace-string-compare/), [Solution]()|
