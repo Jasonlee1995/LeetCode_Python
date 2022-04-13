@@ -184,7 +184,7 @@
 |821|Shortest Distance to a Character|Easy|[Problem](https://leetcode.com/problems/shortest-distance-to-a-character/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B821%5D%5BEasy%5D%20Shortest%20Distance%20to%20a%20Character.py)|
 |824|Goat Latin|Easy|[Problem](https://leetcode.com/problems/goat-latin/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B824%5D%5BEasy%5D%20Goat%20Latin.py)|
 |830|Positions of Large Groups|Easy|[Problem](https://leetcode.com/problems/positions-of-large-groups/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B830%5D%5BEasy%5D%20Positions%20of%20Large%20Groups.py)|
-|832|Flipping an Image|Easy|[Problem](https://leetcode.com/problems/flipping-an-image/), [Solution]()|
+|832|Flipping an Image|Easy|[Problem](https://leetcode.com/problems/flipping-an-image/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B832%5D%5BEasy%5D%20Flipping%20an%20Image.py)|
 |836|Rectangle Overlap|Easy|[Problem](https://leetcode.com/problems/rectangle-overlap/), [Solution]()|
 |844|Backspace String Compare|Easy|[Problem](https://leetcode.com/problems/backspace-string-compare/), [Solution]()|
 |852|Peak Index in a Mountain Array|Easy|[Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/), [Solution]()|
@@ -207,6 +207,9 @@
 |922|Sort Array By Parity II|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity-ii/), [Solution]()|
 |925|Long Pressed Name|Easy|[Problem](https://leetcode.com/problems/long-pressed-name/), [Solution]()|
 |929|Unique Email Addresses|Easy|[Problem](https://leetcode.com/problems/unique-email-addresses/), [Solution]()|
+|933|Number of Recent Calls|Easy|[Problem](https://leetcode.com/problems/number-of-recent-calls/), [Solution]()|
+|937|Reorder Data in Log Files|Easy|[Problem](https://leetcode.com/problems/reorder-data-in-log-files/), [Solution]()|
+|938|Range Sum of BST|Easy|[Problem](https://leetcode.com/problems/range-sum-of-bst/), [Solution]()|
 
 
 
