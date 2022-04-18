@@ -187,7 +187,7 @@
 |832|Flipping an Image|Easy|[Problem](https://leetcode.com/problems/flipping-an-image/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B832%5D%5BEasy%5D%20Flipping%20an%20Image.py)|
 |836|Rectangle Overlap|Easy|[Problem](https://leetcode.com/problems/rectangle-overlap/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B836%5D%5BEasy%5D%20Rectangle%20Overlap.py)|
 |844|Backspace String Compare|Easy|[Problem](https://leetcode.com/problems/backspace-string-compare/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B844%5D%5BEasy%5D%20Backspace%20String%20Compare.py)|
-|852|Peak Index in a Mountain Array|Easy|[Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/), [Solution]()|
+|852|Peak Index in a Mountain Array|Easy|[Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B852%5D%5BEasy%5D%20Peak%20Index%20in%20a%20Mountain%20Array.py)|
 |859|Buddy Strings|Easy|[Problem](https://leetcode.com/problems/buddy-strings/), [Solution]()|
 |860|Lemonade Change|Easy|[Problem](https://leetcode.com/problems/lemonade-change/), [Solution]()|
 |867|Transpose Matrix|Easy|[Problem](https://leetcode.com/problems/transpose-matrix/), [Solution]()|
@@ -210,6 +210,10 @@
 |933|Number of Recent Calls|Easy|[Problem](https://leetcode.com/problems/number-of-recent-calls/), [Solution]()|
 |937|Reorder Data in Log Files|Easy|[Problem](https://leetcode.com/problems/reorder-data-in-log-files/), [Solution]()|
 |938|Range Sum of BST|Easy|[Problem](https://leetcode.com/problems/range-sum-of-bst/), [Solution]()|
+|941|Valid Mountain Array|Easy|[Problem](https://leetcode.com/problems/valid-mountain-array/), [Solution]()|
+|942|DI String Match|Easy|[Problem](https://leetcode.com/problems/di-string-match/), [Solution]()|
+|944|Delete Columns to Make Sorted|Easy|[Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/), [Solution]()|
+
 
 
 
