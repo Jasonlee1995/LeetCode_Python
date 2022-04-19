@@ -188,7 +188,7 @@
 |836|Rectangle Overlap|Easy|[Problem](https://leetcode.com/problems/rectangle-overlap/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B836%5D%5BEasy%5D%20Rectangle%20Overlap.py)|
 |844|Backspace String Compare|Easy|[Problem](https://leetcode.com/problems/backspace-string-compare/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B844%5D%5BEasy%5D%20Backspace%20String%20Compare.py)|
 |852|Peak Index in a Mountain Array|Easy|[Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B852%5D%5BEasy%5D%20Peak%20Index%20in%20a%20Mountain%20Array.py)|
-|859|Buddy Strings|Easy|[Problem](https://leetcode.com/problems/buddy-strings/), [Solution]()|
+|859|Buddy Strings|Easy|[Problem](https://leetcode.com/problems/buddy-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B859%5D%5BEasy%5D%20Buddy%20Strings.py)|
 |860|Lemonade Change|Easy|[Problem](https://leetcode.com/problems/lemonade-change/), [Solution]()|
 |867|Transpose Matrix|Easy|[Problem](https://leetcode.com/problems/transpose-matrix/), [Solution]()|
 |868|Binary Gap|Easy|[Problem](https://leetcode.com/problems/binary-gap/), [Solution]()|
