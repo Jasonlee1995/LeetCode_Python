@@ -191,7 +191,7 @@
 |859|Buddy Strings|Easy|[Problem](https://leetcode.com/problems/buddy-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B859%5D%5BEasy%5D%20Buddy%20Strings.py)|
 |860|Lemonade Change|Easy|[Problem](https://leetcode.com/problems/lemonade-change/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B860%5D%5BEasy%5D%20Lemonade%20Change.py)|
 |867|Transpose Matrix|Easy|[Problem](https://leetcode.com/problems/transpose-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B867%5D%5BEasy%5D%20Transpose%20Matrix.py)|
-|868|Binary Gap|Easy|[Problem](https://leetcode.com/problems/binary-gap/), [Solution]()|
+|868|Binary Gap|Easy|[Problem](https://leetcode.com/problems/binary-gap/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B868%5D%5BEasy%5D%20Binary%20Gap.py)|
 |872|Leaf-Similar Trees|Easy|[Problem](https://leetcode.com/problems/leaf-similar-trees/), [Solution]()|
 |876|Middle of the Linked List|Easy|[Problem](https://leetcode.com/problems/middle-of-the-linked-list/), [Solution]()|
 |883|Projection Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/), [Solution]()|
