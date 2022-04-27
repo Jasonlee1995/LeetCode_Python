@@ -195,7 +195,7 @@
 |872|Leaf-Similar Trees|Easy|[Problem](https://leetcode.com/problems/leaf-similar-trees/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B872%5D%5BEasy%5D%20Leaf-Similar%20Trees.py)|
 |876|Middle of the Linked List|Easy|[Problem](https://leetcode.com/problems/middle-of-the-linked-list/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B876%5D%5BEasy%5D%20Middle%20of%20the%20Linked%20List.py)|
 |883|Projection Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B883%5D%5BEasy%5D%20Projection%20Area%20of%203D%20Shapes.py)|
-|884|Uncommon Words from Two Sentences|Easy|[Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/), [Solution]()|
+|884|Uncommon Words from Two Sentences|Easy|[Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B884%5D%5BEasy%5D%20Uncommon%20Words%20from%20Two%20Sentences.py)|
 |888|Fair Candy Swap|Easy|[Problem](https://leetcode.com/problems/fair-candy-swap/), [Solution]()|
 |892|Surface Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/), [Solution]()|
 |896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution]()|
