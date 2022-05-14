@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 5 Arp 2022
+- Recent Update : 14 May 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -197,7 +197,7 @@
 |883|Projection Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B883%5D%5BEasy%5D%20Projection%20Area%20of%203D%20Shapes.py)|
 |884|Uncommon Words from Two Sentences|Easy|[Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B884%5D%5BEasy%5D%20Uncommon%20Words%20from%20Two%20Sentences.py)|
 |888|Fair Candy Swap|Easy|[Problem](https://leetcode.com/problems/fair-candy-swap/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B888%5D%5BEasy%5D%20Fair%20Candy%20Swap.py)|
-|892|Surface Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/), [Solution]()|
+|892|Surface Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B892%5D%5BEasy%5D%20Surface%20Area%20of%203D%20Shapes.py)|
 |896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution]()|
 |897|Increasing Order Search Tree|Easy|[Problem](https://leetcode.com/problems/increasing-order-search-tree/), [Solution]()|
 |905|Sort Array By Parity|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity/), [Solution]()|
@@ -213,7 +213,9 @@
 |941|Valid Mountain Array|Easy|[Problem](https://leetcode.com/problems/valid-mountain-array/), [Solution]()|
 |942|DI String Match|Easy|[Problem](https://leetcode.com/problems/di-string-match/), [Solution]()|
 |944|Delete Columns to Make Sorted|Easy|[Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/), [Solution]()|
-
+|953|Verifying an Alien Dictionary|Easy|[Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/), [Solution]()|
+|961|N-Repeated Element in Size 2N Array|Easy|[Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/), [Solution]()|
+|965|Univalued Binary Tree|Easy|[Problem](https://leetcode.com/problems/univalued-binary-tree/), [Solution]()|
 
 
 
