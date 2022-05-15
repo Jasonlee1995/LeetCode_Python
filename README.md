@@ -198,7 +198,7 @@
 |884|Uncommon Words from Two Sentences|Easy|[Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B884%5D%5BEasy%5D%20Uncommon%20Words%20from%20Two%20Sentences.py)|
 |888|Fair Candy Swap|Easy|[Problem](https://leetcode.com/problems/fair-candy-swap/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B888%5D%5BEasy%5D%20Fair%20Candy%20Swap.py)|
 |892|Surface Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B892%5D%5BEasy%5D%20Surface%20Area%20of%203D%20Shapes.py)|
-|896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution]()|
+|896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B896%5D%5BEasy%5D%20Monotonic%20Array.py)|
 |897|Increasing Order Search Tree|Easy|[Problem](https://leetcode.com/problems/increasing-order-search-tree/), [Solution]()|
 |905|Sort Array By Parity|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity/), [Solution]()|
 |908|Smallest Range I|Easy|[Problem](https://leetcode.com/problems/smallest-range-i/), [Solution]()|
