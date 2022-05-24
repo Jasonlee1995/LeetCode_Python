@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 14 May 2022
+- Recent Update : 24 May 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -200,7 +200,7 @@
 |892|Surface Area of 3D Shapes|Easy|[Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B892%5D%5BEasy%5D%20Surface%20Area%20of%203D%20Shapes.py)|
 |896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B896%5D%5BEasy%5D%20Monotonic%20Array.py)|
 |897|Increasing Order Search Tree|Easy|[Problem](https://leetcode.com/problems/increasing-order-search-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B897%5D%5BEasy%5D%20Increasing%20Order%20Search%20Tree.py)|
-|905|Sort Array By Parity|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity/), [Solution]()|
+|905|Sort Array By Parity|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B905%5D%5BEasy%5D%20Sort%20Array%20By%20Parity.py)|
 |908|Smallest Range I|Easy|[Problem](https://leetcode.com/problems/smallest-range-i/), [Solution]()|
 |914|X of a Kind in a Deck of Cards|Easy|[Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/), [Solution]()|
 |917|Reverse Only Letters|Easy|[Problem](https://leetcode.com/problems/reverse-only-letters/), [Solution]()|
