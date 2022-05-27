@@ -201,7 +201,7 @@
 |896|Monotonic Array|Easy|[Problem](https://leetcode.com/problems/monotonic-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B896%5D%5BEasy%5D%20Monotonic%20Array.py)|
 |897|Increasing Order Search Tree|Easy|[Problem](https://leetcode.com/problems/increasing-order-search-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B897%5D%5BEasy%5D%20Increasing%20Order%20Search%20Tree.py)|
 |905|Sort Array By Parity|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B905%5D%5BEasy%5D%20Sort%20Array%20By%20Parity.py)|
-|908|Smallest Range I|Easy|[Problem](https://leetcode.com/problems/smallest-range-i/), [Solution]()|
+|908|Smallest Range I|Easy|[Problem](https://leetcode.com/problems/smallest-range-i/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B908%5D%5BEasy%5D%20Smallest%20Range%20I.py)|
 |914|X of a Kind in a Deck of Cards|Easy|[Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/), [Solution]()|
 |917|Reverse Only Letters|Easy|[Problem](https://leetcode.com/problems/reverse-only-letters/), [Solution]()|
 |922|Sort Array By Parity II|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity-ii/), [Solution]()|
