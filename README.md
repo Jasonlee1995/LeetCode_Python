@@ -205,7 +205,7 @@
 |914|X of a Kind in a Deck of Cards|Easy|[Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B914%5D%5BEasy%5D%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.py)|
 |917|Reverse Only Letters|Easy|[Problem](https://leetcode.com/problems/reverse-only-letters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B917%5D%5BEasy%5D%20Reverse%20Only%20Letters.py)|
 |922|Sort Array By Parity II|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B922%5D%5BEasy%5D%20Sort%20Array%20By%20Parity%20II.py)|
-|925|Long Pressed Name|Easy|[Problem](https://leetcode.com/problems/long-pressed-name/), [Solution]()|
+|925|Long Pressed Name|Easy|[Problem](https://leetcode.com/problems/long-pressed-name/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B925%5D%5BEasy%5D%20Long%20Pressed%20Name.py)|
 |929|Unique Email Addresses|Easy|[Problem](https://leetcode.com/problems/unique-email-addresses/), [Solution]()|
 |933|Number of Recent Calls|Easy|[Problem](https://leetcode.com/problems/number-of-recent-calls/), [Solution]()|
 |937|Reorder Data in Log Files|Easy|[Problem](https://leetcode.com/problems/reorder-data-in-log-files/), [Solution]()|
