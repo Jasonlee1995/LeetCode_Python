@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 24 May 2022
+- Recent Update : 6 Jun 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -206,7 +206,7 @@
 |917|Reverse Only Letters|Easy|[Problem](https://leetcode.com/problems/reverse-only-letters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B917%5D%5BEasy%5D%20Reverse%20Only%20Letters.py)|
 |922|Sort Array By Parity II|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B922%5D%5BEasy%5D%20Sort%20Array%20By%20Parity%20II.py)|
 |925|Long Pressed Name|Easy|[Problem](https://leetcode.com/problems/long-pressed-name/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B925%5D%5BEasy%5D%20Long%20Pressed%20Name.py)|
-|929|Unique Email Addresses|Easy|[Problem](https://leetcode.com/problems/unique-email-addresses/), [Solution]()|
+|929|Unique Email Addresses|Easy|[Problem](https://leetcode.com/problems/unique-email-addresses/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B929%5D%5BEasy%5D%20Unique%20Email%20Addresses.py)|
 |933|Number of Recent Calls|Easy|[Problem](https://leetcode.com/problems/number-of-recent-calls/), [Solution]()|
 |937|Reorder Data in Log Files|Easy|[Problem](https://leetcode.com/problems/reorder-data-in-log-files/), [Solution]()|
 |938|Range Sum of BST|Easy|[Problem](https://leetcode.com/problems/range-sum-of-bst/), [Solution]()|
