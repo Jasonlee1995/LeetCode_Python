@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 6 Jun 2022
+- Recent Update : 11 Jun 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -207,7 +207,7 @@
 |922|Sort Array By Parity II|Easy|[Problem](https://leetcode.com/problems/sort-array-by-parity-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B922%5D%5BEasy%5D%20Sort%20Array%20By%20Parity%20II.py)|
 |925|Long Pressed Name|Easy|[Problem](https://leetcode.com/problems/long-pressed-name/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B925%5D%5BEasy%5D%20Long%20Pressed%20Name.py)|
 |929|Unique Email Addresses|Easy|[Problem](https://leetcode.com/problems/unique-email-addresses/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B929%5D%5BEasy%5D%20Unique%20Email%20Addresses.py)|
-|933|Number of Recent Calls|Easy|[Problem](https://leetcode.com/problems/number-of-recent-calls/), [Solution]()|
+|933|Number of Recent Calls|Easy|[Problem](https://leetcode.com/problems/number-of-recent-calls/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B933%5D%5BEasy%5D%20Number%20of%20Recent%20Calls.py)|
 |937|Reorder Data in Log Files|Easy|[Problem](https://leetcode.com/problems/reorder-data-in-log-files/), [Solution]()|
 |938|Range Sum of BST|Easy|[Problem](https://leetcode.com/problems/range-sum-of-bst/), [Solution]()|
 |941|Valid Mountain Array|Easy|[Problem](https://leetcode.com/problems/valid-mountain-array/), [Solution]()|
@@ -216,6 +216,8 @@
 |953|Verifying an Alien Dictionary|Easy|[Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/), [Solution]()|
 |961|N-Repeated Element in Size 2N Array|Easy|[Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/), [Solution]()|
 |965|Univalued Binary Tree|Easy|[Problem](https://leetcode.com/problems/univalued-binary-tree/), [Solution]()|
+|976|Largest Perimeter Triangle|Easy|[Problem](https://leetcode.com/problems/largest-perimeter-triangle/), [Solution]()|
+|977|Squares of a Sorted Array|Easy|[Problem](https://leetcode.com/problems/squares-of-a-sorted-array/), [Solution]()|
 
 
 
