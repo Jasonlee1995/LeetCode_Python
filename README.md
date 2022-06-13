@@ -209,7 +209,7 @@
 |929|Unique Email Addresses|Easy|[Problem](https://leetcode.com/problems/unique-email-addresses/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B929%5D%5BEasy%5D%20Unique%20Email%20Addresses.py)|
 |933|Number of Recent Calls|Easy|[Problem](https://leetcode.com/problems/number-of-recent-calls/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B933%5D%5BEasy%5D%20Number%20of%20Recent%20Calls.py)|
 |937|Reorder Data in Log Files|Easy|[Problem](https://leetcode.com/problems/reorder-data-in-log-files/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B937%5D%5BEasy%5D%20Reorder%20Data%20in%20Log%20Files.py)|
-|938|Range Sum of BST|Easy|[Problem](https://leetcode.com/problems/range-sum-of-bst/), [Solution]()|
+|938|Range Sum of BST|Easy|[Problem](https://leetcode.com/problems/range-sum-of-bst/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B938%5D%5BEasy%5D%20Range%20Sum%20of%20BST.py)|
 |941|Valid Mountain Array|Easy|[Problem](https://leetcode.com/problems/valid-mountain-array/), [Solution]()|
 |942|DI String Match|Easy|[Problem](https://leetcode.com/problems/di-string-match/), [Solution]()|
 |944|Delete Columns to Make Sorted|Easy|[Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/), [Solution]()|
@@ -218,6 +218,10 @@
 |965|Univalued Binary Tree|Easy|[Problem](https://leetcode.com/problems/univalued-binary-tree/), [Solution]()|
 |976|Largest Perimeter Triangle|Easy|[Problem](https://leetcode.com/problems/largest-perimeter-triangle/), [Solution]()|
 |977|Squares of a Sorted Array|Easy|[Problem](https://leetcode.com/problems/squares-of-a-sorted-array/), [Solution]()|
+|989|Add to Array-Form of Integer|Easy|[Problem](https://leetcode.com/problems/add-to-array-form-of-integer/), [Solution]()|
+|993|Cousins in Binary Tree|Easy|[Problem](https://leetcode.com/problems/cousins-in-binary-tree/), [Solution]()|
+|997|Find the Town Judge|Easy|[Problem](https://leetcode.com/problems/find-the-town-judge/), [Solution]()|
+|999|Available Captures for Rook|Easy|[Problem](https://leetcode.com/problems/available-captures-for-rook/), [Solution]()|
 
 
 
