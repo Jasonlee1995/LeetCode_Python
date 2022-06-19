@@ -211,7 +211,7 @@
 |937|Reorder Data in Log Files|Easy|[Problem](https://leetcode.com/problems/reorder-data-in-log-files/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B937%5D%5BEasy%5D%20Reorder%20Data%20in%20Log%20Files.py)|
 |938|Range Sum of BST|Easy|[Problem](https://leetcode.com/problems/range-sum-of-bst/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B938%5D%5BEasy%5D%20Range%20Sum%20of%20BST.py)|
 |941|Valid Mountain Array|Easy|[Problem](https://leetcode.com/problems/valid-mountain-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B941%5D%5BEasy%5D%20Valid%20Mountain%20Array.py)|
-|942|DI String Match|Easy|[Problem](https://leetcode.com/problems/di-string-match/), [Solution]()|
+|942|DI String Match|Easy|[Problem](https://leetcode.com/problems/di-string-match/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B942%5D%5BEasy%5D%20DI%20String%20Match.py)|
 |944|Delete Columns to Make Sorted|Easy|[Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/), [Solution]()|
 |953|Verifying an Alien Dictionary|Easy|[Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/), [Solution]()|
 |961|N-Repeated Element in Size 2N Array|Easy|[Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/), [Solution]()|
