@@ -213,7 +213,7 @@
 |941|Valid Mountain Array|Easy|[Problem](https://leetcode.com/problems/valid-mountain-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B941%5D%5BEasy%5D%20Valid%20Mountain%20Array.py)|
 |942|DI String Match|Easy|[Problem](https://leetcode.com/problems/di-string-match/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B942%5D%5BEasy%5D%20DI%20String%20Match.py)|
 |944|Delete Columns to Make Sorted|Easy|[Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B944%5D%5BEasy%5D%20Delete%20Columns%20to%20Make%20Sorted.py)|
-|953|Verifying an Alien Dictionary|Easy|[Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/), [Solution]()|
+|953|Verifying an Alien Dictionary|Easy|[Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B953%5D%5BEasy%5D%20Verifying%20an%20Alien%20Dictionary.py)|
 |961|N-Repeated Element in Size 2N Array|Easy|[Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/), [Solution]()|
 |965|Univalued Binary Tree|Easy|[Problem](https://leetcode.com/problems/univalued-binary-tree/), [Solution]()|
 |976|Largest Perimeter Triangle|Easy|[Problem](https://leetcode.com/problems/largest-perimeter-triangle/), [Solution]()|
