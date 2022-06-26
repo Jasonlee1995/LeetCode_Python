@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 22 Jun 2022
+- Recent Update : 26 Jun 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -214,7 +214,7 @@
 |942|DI String Match|Easy|[Problem](https://leetcode.com/problems/di-string-match/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B942%5D%5BEasy%5D%20DI%20String%20Match.py)|
 |944|Delete Columns to Make Sorted|Easy|[Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B944%5D%5BEasy%5D%20Delete%20Columns%20to%20Make%20Sorted.py)|
 |953|Verifying an Alien Dictionary|Easy|[Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B953%5D%5BEasy%5D%20Verifying%20an%20Alien%20Dictionary.py)|
-|961|N-Repeated Element in Size 2N Array|Easy|[Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/), [Solution]()|
+|961|N-Repeated Element in Size 2N Array|Easy|[Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B961%5D%5BEasy%5D%20N-Repeated%20Element%20in%20Size%202N%20Array.py)|
 |965|Univalued Binary Tree|Easy|[Problem](https://leetcode.com/problems/univalued-binary-tree/), [Solution]()|
 |976|Largest Perimeter Triangle|Easy|[Problem](https://leetcode.com/problems/largest-perimeter-triangle/), [Solution]()|
 |977|Squares of a Sorted Array|Easy|[Problem](https://leetcode.com/problems/squares-of-a-sorted-array/), [Solution]()|
