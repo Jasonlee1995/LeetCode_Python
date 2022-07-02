@@ -216,7 +216,7 @@
 |953|Verifying an Alien Dictionary|Easy|[Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B953%5D%5BEasy%5D%20Verifying%20an%20Alien%20Dictionary.py)|
 |961|N-Repeated Element in Size 2N Array|Easy|[Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B961%5D%5BEasy%5D%20N-Repeated%20Element%20in%20Size%202N%20Array.py)|
 |965|Univalued Binary Tree|Easy|[Problem](https://leetcode.com/problems/univalued-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B965%5D%5BEasy%5D%20Univalued%20Binary%20Tree.py)|
-|976|Largest Perimeter Triangle|Easy|[Problem](https://leetcode.com/problems/largest-perimeter-triangle/), [Solution]()|
+|976|Largest Perimeter Triangle|Easy|[Problem](https://leetcode.com/problems/largest-perimeter-triangle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B976%5D%5BEasy%5D%20Largest%20Perimeter%20Triangle.py)|
 |977|Squares of a Sorted Array|Easy|[Problem](https://leetcode.com/problems/squares-of-a-sorted-array/), [Solution]()|
 |989|Add to Array-Form of Integer|Easy|[Problem](https://leetcode.com/problems/add-to-array-form-of-integer/), [Solution]()|
 |993|Cousins in Binary Tree|Easy|[Problem](https://leetcode.com/problems/cousins-in-binary-tree/), [Solution]()|
