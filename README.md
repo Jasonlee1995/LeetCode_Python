@@ -219,9 +219,10 @@
 |976|Largest Perimeter Triangle|Easy|[Problem](https://leetcode.com/problems/largest-perimeter-triangle/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B976%5D%5BEasy%5D%20Largest%20Perimeter%20Triangle.py)|
 |977|Squares of a Sorted Array|Easy|[Problem](https://leetcode.com/problems/squares-of-a-sorted-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B977%5D%5BEasy%5D%20Squares%20of%20a%20Sorted%20Array.py)|
 |989|Add to Array-Form of Integer|Easy|[Problem](https://leetcode.com/problems/add-to-array-form-of-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B989%5D%5BEasy%5D%20Add%20to%20Array-Form%20of%20Integer.py)|
-|993|Cousins in Binary Tree|Easy|[Problem](https://leetcode.com/problems/cousins-in-binary-tree/), [Solution]()|
+|993|Cousins in Binary Tree|Easy|[Problem](https://leetcode.com/problems/cousins-in-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B993%5D%5BEasy%5D%20Cousins%20in%20Binary%20Tree.py)|
 |997|Find the Town Judge|Easy|[Problem](https://leetcode.com/problems/find-the-town-judge/), [Solution]()|
 |999|Available Captures for Rook|Easy|[Problem](https://leetcode.com/problems/available-captures-for-rook/), [Solution]()|
+|1002|Find Common Characters|Easy|[Problem](https://leetcode.com/problems/find-common-characters/), [Solution]()|
 
 
 
