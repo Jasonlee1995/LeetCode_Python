@@ -221,8 +221,9 @@
 |989|Add to Array-Form of Integer|Easy|[Problem](https://leetcode.com/problems/add-to-array-form-of-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B989%5D%5BEasy%5D%20Add%20to%20Array-Form%20of%20Integer.py)|
 |993|Cousins in Binary Tree|Easy|[Problem](https://leetcode.com/problems/cousins-in-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B993%5D%5BEasy%5D%20Cousins%20in%20Binary%20Tree.py)|
 |997|Find the Town Judge|Easy|[Problem](https://leetcode.com/problems/find-the-town-judge/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B997%5D%5BEasy%5D%20Find%20the%20Town%20Judge.py)|
-|999|Available Captures for Rook|Easy|[Problem](https://leetcode.com/problems/available-captures-for-rook/), [Solution]()|
+|999|Available Captures for Rook|Easy|[Problem](https://leetcode.com/problems/available-captures-for-rook/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B999%5D%5BEasy%5D%20Available%20Captures%20for%20Rook.py)|
 |1002|Find Common Characters|Easy|[Problem](https://leetcode.com/problems/find-common-characters/), [Solution]()|
+|1005|Maximize Sum Of Array After K Negations|Easy|[Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/), [Solution]()|
 
 
 
