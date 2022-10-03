@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 26 Jun 2022
+- Recent Update : 2 Oct 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -222,8 +222,14 @@
 |993|Cousins in Binary Tree|Easy|[Problem](https://leetcode.com/problems/cousins-in-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B993%5D%5BEasy%5D%20Cousins%20in%20Binary%20Tree.py)|
 |997|Find the Town Judge|Easy|[Problem](https://leetcode.com/problems/find-the-town-judge/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B997%5D%5BEasy%5D%20Find%20the%20Town%20Judge.py)|
 |999|Available Captures for Rook|Easy|[Problem](https://leetcode.com/problems/available-captures-for-rook/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B999%5D%5BEasy%5D%20Available%20Captures%20for%20Rook.py)|
-|1002|Find Common Characters|Easy|[Problem](https://leetcode.com/problems/find-common-characters/), [Solution]()|
+|1002|Find Common Characters|Easy|[Problem](https://leetcode.com/problems/find-common-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1002%5D%5BEasy%5D%20Find%20Common%20Characters.py)|
 |1005|Maximize Sum Of Array After K Negations|Easy|[Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/), [Solution]()|
+|1009|Complement of Base 10 Integer|Easy|[Problem](https://leetcode.com/problems/complement-of-base-10-integer/), [Solution]()|
+|1013|Partition Array Into Three Parts With Equal Sum|Easy|[Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/), [Solution]()|
+|1018|Binary Prefix Divisible By 5|Easy|[Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/), [Solution]()|
+|1021|Remove Outermost Parentheses|Easy|[Problem](https://leetcode.com/problems/remove-outermost-parentheses/), [Solution]()|
+|1022|Sum of Root To Leaf Binary Numbers|Easy|[Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/), [Solution]()|
+|1025|Divisor Game|Easy|[Problem](https://leetcode.com/problems/divisor-game/), [Solution]()|
 
 
 
