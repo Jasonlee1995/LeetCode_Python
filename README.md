@@ -223,7 +223,7 @@
 |997|Find the Town Judge|Easy|[Problem](https://leetcode.com/problems/find-the-town-judge/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B997%5D%5BEasy%5D%20Find%20the%20Town%20Judge.py)|
 |999|Available Captures for Rook|Easy|[Problem](https://leetcode.com/problems/available-captures-for-rook/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B999%5D%5BEasy%5D%20Available%20Captures%20for%20Rook.py)|
 |1002|Find Common Characters|Easy|[Problem](https://leetcode.com/problems/find-common-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1002%5D%5BEasy%5D%20Find%20Common%20Characters.py)|
-|1005|Maximize Sum Of Array After K Negations|Easy|[Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/), [Solution]()|
+|1005|Maximize Sum Of Array After K Negations|Easy|[Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1005%5D%5BEasy%5D%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py)|
 |1009|Complement of Base 10 Integer|Easy|[Problem](https://leetcode.com/problems/complement-of-base-10-integer/), [Solution]()|
 |1013|Partition Array Into Three Parts With Equal Sum|Easy|[Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/), [Solution]()|
 |1018|Binary Prefix Divisible By 5|Easy|[Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/), [Solution]()|
