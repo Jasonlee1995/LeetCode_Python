@@ -224,12 +224,16 @@
 |999|Available Captures for Rook|Easy|[Problem](https://leetcode.com/problems/available-captures-for-rook/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B999%5D%5BEasy%5D%20Available%20Captures%20for%20Rook.py)|
 |1002|Find Common Characters|Easy|[Problem](https://leetcode.com/problems/find-common-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1002%5D%5BEasy%5D%20Find%20Common%20Characters.py)|
 |1005|Maximize Sum Of Array After K Negations|Easy|[Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1005%5D%5BEasy%5D%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.py)|
-|1009|Complement of Base 10 Integer|Easy|[Problem](https://leetcode.com/problems/complement-of-base-10-integer/), [Solution]()|
+|1009|Complement of Base 10 Integer|Easy|[Problem](https://leetcode.com/problems/complement-of-base-10-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1009%5D%5BEasy%5D%20Complement%20of%20Base%2010%20Integer.py)|
 |1013|Partition Array Into Three Parts With Equal Sum|Easy|[Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/), [Solution]()|
 |1018|Binary Prefix Divisible By 5|Easy|[Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/), [Solution]()|
 |1021|Remove Outermost Parentheses|Easy|[Problem](https://leetcode.com/problems/remove-outermost-parentheses/), [Solution]()|
 |1022|Sum of Root To Leaf Binary Numbers|Easy|[Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/), [Solution]()|
 |1025|Divisor Game|Easy|[Problem](https://leetcode.com/problems/divisor-game/), [Solution]()|
+|1030|Matrix Cells in Distance Order|Easy|[Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/), [Solution]()|
+|1037|Valid Boomerang|Easy|[Problem](https://leetcode.com/problems/valid-boomerang/), [Solution]()|
+|1046|Last Stone Weight|Easy|[Problem](https://leetcode.com/problems/last-stone-weight/), [Solution]()|
+|1047|Remove All Adjacent Duplicates In String|Easy|[Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/), [Solution]()|
 
 
 
