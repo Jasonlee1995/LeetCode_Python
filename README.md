@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 18 Oct 2022
+- Recent Update : 21 Oct 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -228,12 +228,15 @@
 |1013|Partition Array Into Three Parts With Equal Sum|Easy|[Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1013%5D%5BEasy%5D%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py)|
 |1018|Binary Prefix Divisible By 5|Easy|[Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1018%5D%5BEasy%5D%20Binary%20Prefix%20Divisible%20By%205.py)|
 |1021|Remove Outermost Parentheses|Easy|[Problem](https://leetcode.com/problems/remove-outermost-parentheses/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1021%5D%5BEasy%5D%20Remove%20Outermost%20Parentheses.py)|
-|1022|Sum of Root To Leaf Binary Numbers|Easy|[Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/), [Solution]()|
+|1022|Sum of Root To Leaf Binary Numbers|Easy|[Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1022%5D%5BEasy%5D%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)|
 |1025|Divisor Game|Easy|[Problem](https://leetcode.com/problems/divisor-game/), [Solution]()|
 |1030|Matrix Cells in Distance Order|Easy|[Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/), [Solution]()|
 |1037|Valid Boomerang|Easy|[Problem](https://leetcode.com/problems/valid-boomerang/), [Solution]()|
 |1046|Last Stone Weight|Easy|[Problem](https://leetcode.com/problems/last-stone-weight/), [Solution]()|
 |1047|Remove All Adjacent Duplicates In String|Easy|[Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/), [Solution]()|
+|1051|Height Checker|Easy|[Problem](https://leetcode.com/problems/height-checker/), [Solution]()|
+|1071|Greatest Common Divisor of Strings|Easy|[Problem](https://leetcode.com/problems/greatest-common-divisor-of-strings/), [Solution]()|
+|1078|Occurrences After Bigram|Easy|[Problem](https://leetcode.com/problems/occurrences-after-bigram/), [Solution]()|
 
 
 
