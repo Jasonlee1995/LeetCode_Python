@@ -230,7 +230,7 @@
 |1021|Remove Outermost Parentheses|Easy|[Problem](https://leetcode.com/problems/remove-outermost-parentheses/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1021%5D%5BEasy%5D%20Remove%20Outermost%20Parentheses.py)|
 |1022|Sum of Root To Leaf Binary Numbers|Easy|[Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1022%5D%5BEasy%5D%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)|
 |1025|Divisor Game|Easy|[Problem](https://leetcode.com/problems/divisor-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1025%5D%5BEasy%5D%20Divisor%20Game.py)|
-|1030|Matrix Cells in Distance Order|Easy|[Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/), [Solution]()|
+|1030|Matrix Cells in Distance Order|Easy|[Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1030%5D%5BEasy%5D%20Matrix%20Cells%20in%20Distance%20Order.py)|
 |1037|Valid Boomerang|Easy|[Problem](https://leetcode.com/problems/valid-boomerang/), [Solution]()|
 |1046|Last Stone Weight|Easy|[Problem](https://leetcode.com/problems/last-stone-weight/), [Solution]()|
 |1047|Remove All Adjacent Duplicates In String|Easy|[Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/), [Solution]()|
