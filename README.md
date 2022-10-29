@@ -231,13 +231,14 @@
 |1022|Sum of Root To Leaf Binary Numbers|Easy|[Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1022%5D%5BEasy%5D%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)|
 |1025|Divisor Game|Easy|[Problem](https://leetcode.com/problems/divisor-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1025%5D%5BEasy%5D%20Divisor%20Game.py)|
 |1030|Matrix Cells in Distance Order|Easy|[Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1030%5D%5BEasy%5D%20Matrix%20Cells%20in%20Distance%20Order.py)|
-|1037|Valid Boomerang|Easy|[Problem](https://leetcode.com/problems/valid-boomerang/), [Solution]()|
+|1037|Valid Boomerang|Easy|[Problem](https://leetcode.com/problems/valid-boomerang/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1037%5D%5BEasy%5D%20Valid%20Boomerang.py)|
 |1046|Last Stone Weight|Easy|[Problem](https://leetcode.com/problems/last-stone-weight/), [Solution]()|
 |1047|Remove All Adjacent Duplicates In String|Easy|[Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/), [Solution]()|
 |1051|Height Checker|Easy|[Problem](https://leetcode.com/problems/height-checker/), [Solution]()|
 |1071|Greatest Common Divisor of Strings|Easy|[Problem](https://leetcode.com/problems/greatest-common-divisor-of-strings/), [Solution]()|
 |1078|Occurrences After Bigram|Easy|[Problem](https://leetcode.com/problems/occurrences-after-bigram/), [Solution]()|
-
+|1089|Duplicate Zeros|Easy|[Problem](https://leetcode.com/problems/duplicate-zeros/), [Solution]()|
+|1103|Distribute Candies to People|Easy|[Problem](https://leetcode.com/problems/distribute-candies-to-people/), [Solution]()|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
