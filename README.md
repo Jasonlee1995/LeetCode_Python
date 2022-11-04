@@ -234,7 +234,7 @@
 |1037|Valid Boomerang|Easy|[Problem](https://leetcode.com/problems/valid-boomerang/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1037%5D%5BEasy%5D%20Valid%20Boomerang.py)|
 |1046|Last Stone Weight|Easy|[Problem](https://leetcode.com/problems/last-stone-weight/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1046%5D%5BEasy%5D%20Last%20Stone%20Weight.py)|
 |1047|Remove All Adjacent Duplicates In String|Easy|[Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1047%5D%5BEasy%5D%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|
-|1051|Height Checker|Easy|[Problem](https://leetcode.com/problems/height-checker/), [Solution]()|
+|1051|Height Checker|Easy|[Problem](https://leetcode.com/problems/height-checker/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1051%5D%5BEasy%5D%20Height%20Checker.py)|
 |1071|Greatest Common Divisor of Strings|Easy|[Problem](https://leetcode.com/problems/greatest-common-divisor-of-strings/), [Solution]()|
 |1078|Occurrences After Bigram|Easy|[Problem](https://leetcode.com/problems/occurrences-after-bigram/), [Solution]()|
 |1089|Duplicate Zeros|Easy|[Problem](https://leetcode.com/problems/duplicate-zeros/), [Solution]()|
