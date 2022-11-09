@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 2 Nov 2022
+- Recent Update : 7 Nov 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -236,10 +236,15 @@
 |1047|Remove All Adjacent Duplicates In String|Easy|[Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1047%5D%5BEasy%5D%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)|
 |1051|Height Checker|Easy|[Problem](https://leetcode.com/problems/height-checker/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1051%5D%5BEasy%5D%20Height%20Checker.py)|
 |1071|Greatest Common Divisor of Strings|Easy|[Problem](https://leetcode.com/problems/greatest-common-divisor-of-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1071%5D%5BEasy%5D%20Greatest%20Common%20Divisor%20of%20Strings.py)|
-|1078|Occurrences After Bigram|Easy|[Problem](https://leetcode.com/problems/occurrences-after-bigram/), [Solution]()|
+|1078|Occurrences After Bigram|Easy|[Problem](https://leetcode.com/problems/occurrences-after-bigram/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1078%5D%5BEasy%5D%20Occurrences%20After%20Bigram.py)|
 |1089|Duplicate Zeros|Easy|[Problem](https://leetcode.com/problems/duplicate-zeros/), [Solution]()|
 |1103|Distribute Candies to People|Easy|[Problem](https://leetcode.com/problems/distribute-candies-to-people/), [Solution]()|
 |1108|Defanging an IP Address|Easy|[Problem](https://leetcode.com/problems/defanging-an-ip-address/), [Solution]()|
+|1122|Relative Sort Array|Easy|[Problem](https://leetcode.com/problems/relative-sort-array/), [Solution]()|
+|1128|Number of Equivalent Domino Pairs|Easy|[Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/), [Solution]()|
+|1137|N-th Tribonacci Number|Easy|[Problem](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution]()|
+|1154|Day of the Year|Easy|[Problem](https://leetcode.com/problems/day-of-the-year/), [Solution]()|
+|1160|Find Words That Can Be Formed by Characters|Easy|[Problem](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/), [Solution]()|
 
 
 
