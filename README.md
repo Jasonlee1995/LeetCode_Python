@@ -237,7 +237,7 @@
 |1051|Height Checker|Easy|[Problem](https://leetcode.com/problems/height-checker/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1051%5D%5BEasy%5D%20Height%20Checker.py)|
 |1071|Greatest Common Divisor of Strings|Easy|[Problem](https://leetcode.com/problems/greatest-common-divisor-of-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1071%5D%5BEasy%5D%20Greatest%20Common%20Divisor%20of%20Strings.py)|
 |1078|Occurrences After Bigram|Easy|[Problem](https://leetcode.com/problems/occurrences-after-bigram/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1078%5D%5BEasy%5D%20Occurrences%20After%20Bigram.py)|
-|1089|Duplicate Zeros|Easy|[Problem](https://leetcode.com/problems/duplicate-zeros/), [Solution]()|
+|1089|Duplicate Zeros|Easy|[Problem](https://leetcode.com/problems/duplicate-zeros/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1089%5D%5BEasy%5D%20Duplicate%20Zeros.py)|
 |1103|Distribute Candies to People|Easy|[Problem](https://leetcode.com/problems/distribute-candies-to-people/), [Solution]()|
 |1108|Defanging an IP Address|Easy|[Problem](https://leetcode.com/problems/defanging-an-ip-address/), [Solution]()|
 |1122|Relative Sort Array|Easy|[Problem](https://leetcode.com/problems/relative-sort-array/), [Solution]()|
