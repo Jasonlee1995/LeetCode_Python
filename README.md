@@ -240,7 +240,7 @@
 |1089|Duplicate Zeros|Easy|[Problem](https://leetcode.com/problems/duplicate-zeros/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1089%5D%5BEasy%5D%20Duplicate%20Zeros.py)|
 |1103|Distribute Candies to People|Easy|[Problem](https://leetcode.com/problems/distribute-candies-to-people/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1103%5D%5BEasy%5D%20Distribute%20Candies%20to%20People.py)|
 |1108|Defanging an IP Address|Easy|[Problem](https://leetcode.com/problems/defanging-an-ip-address/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1108%5D%5BEasy%5D%20Defanging%20an%20IP%20Address.py)|
-|1122|Relative Sort Array|Easy|[Problem](https://leetcode.com/problems/relative-sort-array/), [Solution]()|
+|1122|Relative Sort Array|Easy|[Problem](https://leetcode.com/problems/relative-sort-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1122%5D%5BEasy%5D%20Relative%20Sort%20Array.py)|
 |1128|Number of Equivalent Domino Pairs|Easy|[Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/), [Solution]()|
 |1137|N-th Tribonacci Number|Easy|[Problem](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution]()|
 |1154|Day of the Year|Easy|[Problem](https://leetcode.com/problems/day-of-the-year/), [Solution]()|
@@ -248,7 +248,7 @@
 |1175|Prime Arrangements|Easy|[Problem](https://leetcode.com/problems/prime-arrangements/), [Solution]()|
 |1184|Distance Between Bus Stops|Easy|[Problem](https://leetcode.com/problems/distance-between-bus-stops/), [Solution]()|
 |1185|Day of the Week|Easy|[Problem](https://leetcode.com/problems/day-of-the-week/), [Solution]()|
-
+|1189|Maximum Number of Balloons|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-balloons/), [Solution]()|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
