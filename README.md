@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 7 Nov 2022
+- Recent Update : 6 Dec 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -242,7 +242,7 @@
 |1108|Defanging an IP Address|Easy|[Problem](https://leetcode.com/problems/defanging-an-ip-address/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1108%5D%5BEasy%5D%20Defanging%20an%20IP%20Address.py)|
 |1122|Relative Sort Array|Easy|[Problem](https://leetcode.com/problems/relative-sort-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1122%5D%5BEasy%5D%20Relative%20Sort%20Array.py)|
 |1128|Number of Equivalent Domino Pairs|Easy|[Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1128%5D%5BEasy%5D%20Number%20of%20Equivalent%20Domino%20Pairs.py)|
-|1137|N-th Tribonacci Number|Easy|[Problem](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution]()|
+|1137|N-th Tribonacci Number|Easy|[Problem](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1137%5D%5BEasy%5D%20N-th%20Tribonacci%20Number.py)|
 |1154|Day of the Year|Easy|[Problem](https://leetcode.com/problems/day-of-the-year/), [Solution]()|
 |1160|Find Words That Can Be Formed by Characters|Easy|[Problem](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/), [Solution]()|
 |1175|Prime Arrangements|Easy|[Problem](https://leetcode.com/problems/prime-arrangements/), [Solution]()|
