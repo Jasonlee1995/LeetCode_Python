@@ -243,7 +243,7 @@
 |1122|Relative Sort Array|Easy|[Problem](https://leetcode.com/problems/relative-sort-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1122%5D%5BEasy%5D%20Relative%20Sort%20Array.py)|
 |1128|Number of Equivalent Domino Pairs|Easy|[Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1128%5D%5BEasy%5D%20Number%20of%20Equivalent%20Domino%20Pairs.py)|
 |1137|N-th Tribonacci Number|Easy|[Problem](https://leetcode.com/problems/n-th-tribonacci-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1137%5D%5BEasy%5D%20N-th%20Tribonacci%20Number.py)|
-|1154|Day of the Year|Easy|[Problem](https://leetcode.com/problems/day-of-the-year/), [Solution]()|
+|1154|Day of the Year|Easy|[Problem](https://leetcode.com/problems/day-of-the-year/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1154%5D%5BEasy%5D%20Day%20of%20the%20Year.py)|
 |1160|Find Words That Can Be Formed by Characters|Easy|[Problem](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/), [Solution]()|
 |1175|Prime Arrangements|Easy|[Problem](https://leetcode.com/problems/prime-arrangements/), [Solution]()|
 |1184|Distance Between Bus Stops|Easy|[Problem](https://leetcode.com/problems/distance-between-bus-stops/), [Solution]()|
