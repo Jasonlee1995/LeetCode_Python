@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 16 Dec 2022
+- Recent Update : 30 Dec 2022
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -249,7 +249,7 @@
 |1184|Distance Between Bus Stops|Easy|[Problem](https://leetcode.com/problems/distance-between-bus-stops/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1184%5D%5BEasy%5D%20Distance%20Between%20Bus%20Stops.py)|
 |1185|Day of the Week|Easy|[Problem](https://leetcode.com/problems/day-of-the-week/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1185%5D%5BEasy%5D%20Day%20of%20the%20Week.py)|
 |1189|Maximum Number of Balloons|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-balloons/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1189%5D%5BEasy%5D%20Maximum%20Number%20of%20Balloons.py)|
-|1200|Minimum Absolute Difference|Easy|[Problem](https://leetcode.com/problems/minimum-absolute-difference/), [Solution]()|
+|1200|Minimum Absolute Difference|Easy|[Problem](https://leetcode.com/problems/minimum-absolute-difference/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1200%5D%5BEasy%5D%20Minimum%20Absolute%20Difference.py)|
 |1207|Unique Number of Occurrences|Easy|[Problem](https://leetcode.com/problems/unique-number-of-occurrences/), [Solution]()|
 
 
