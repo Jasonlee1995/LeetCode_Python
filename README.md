@@ -251,6 +251,8 @@
 |1189|Maximum Number of Balloons|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-balloons/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1189%5D%5BEasy%5D%20Maximum%20Number%20of%20Balloons.py)|
 |1200|Minimum Absolute Difference|Easy|[Problem](https://leetcode.com/problems/minimum-absolute-difference/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1200%5D%5BEasy%5D%20Minimum%20Absolute%20Difference.py)|
 |1207|Unique Number of Occurrences|Easy|[Problem](https://leetcode.com/problems/unique-number-of-occurrences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1207%5D%5BEasy%5D%20Unique%20Number%20of%20Occurrences.py)|
+|1217|Minimum Cost to Move Chips to The Same Position|Easy|[Problem](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1217%5D%5BEasy%5D%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.py)|
+|1221|Split a String in Balanced Strings|Easy|[Problem](https://leetcode.com/problems/split-a-string-in-balanced-strings/), [Solution]()|
 
 
 
