@@ -254,7 +254,7 @@
 |1217|Minimum Cost to Move Chips to The Same Position|Easy|[Problem](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1217%5D%5BEasy%5D%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.py)|
 |1221|Split a String in Balanced Strings|Easy|[Problem](https://leetcode.com/problems/split-a-string-in-balanced-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1221%5D%5BEasy%5D%20Split%20a%20String%20in%20Balanced%20Strings.py)|
 |1232|Check If It Is a Straight Line|Easy|[Problem](https://leetcode.com/problems/check-if-it-is-a-straight-line/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1232%5D%5BEasy%5D%20Check%20If%20It%20Is%20a%20Straight%20Line.py)|
-|1252|Cells with Odd Values in a Matrix|Easy|[Problem](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/), [Solution]()|
+|1252|Cells with Odd Values in a Matrix|Easy|[Problem](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1252%5D%5BEasy%5D%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.py)|
 |1260|Shift 2D Grid|Easy|[Problem](https://leetcode.com/problems/shift-2d-grid/), [Solution]()|
 
 
