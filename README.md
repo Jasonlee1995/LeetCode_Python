@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 1 Jan 2023
+- Recent Update : 18 Jan 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -255,7 +255,10 @@
 |1221|Split a String in Balanced Strings|Easy|[Problem](https://leetcode.com/problems/split-a-string-in-balanced-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1221%5D%5BEasy%5D%20Split%20a%20String%20in%20Balanced%20Strings.py)|
 |1232|Check If It Is a Straight Line|Easy|[Problem](https://leetcode.com/problems/check-if-it-is-a-straight-line/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1232%5D%5BEasy%5D%20Check%20If%20It%20Is%20a%20Straight%20Line.py)|
 |1252|Cells with Odd Values in a Matrix|Easy|[Problem](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1252%5D%5BEasy%5D%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.py)|
-|1260|Shift 2D Grid|Easy|[Problem](https://leetcode.com/problems/shift-2d-grid/), [Solution]()|
+|1260|Shift 2D Grid|Easy|[Problem](https://leetcode.com/problems/shift-2d-grid/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1260%5D%5BEasy%5D%20Shift%202D%20Grid.py)|
+|1266|Minimum Time Visiting All Points|Easy|[Problem](https://leetcode.com/problems/minimum-time-visiting-all-points/), [Solution]()|
+|1275|Find Winner on a Tic Tac Toe Game|Easy|[Problem](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/), [Solution]()|
+|1281|Subtract the Product and Sum of Digits of an Integer|Easy|[Problem](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/), [Solution]()|
 
 
 
