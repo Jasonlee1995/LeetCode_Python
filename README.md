@@ -258,7 +258,7 @@
 |1260|Shift 2D Grid|Easy|[Problem](https://leetcode.com/problems/shift-2d-grid/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1260%5D%5BEasy%5D%20Shift%202D%20Grid.py)|
 |1266|Minimum Time Visiting All Points|Easy|[Problem](https://leetcode.com/problems/minimum-time-visiting-all-points/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1266%5D%5BEasy%5D%20Minimum%20Time%20Visiting%20All%20Points.py)|
 |1275|Find Winner on a Tic Tac Toe Game|Easy|[Problem](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1275%5D%5BEasy%5D%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.py)|
-|1281|Subtract the Product and Sum of Digits of an Integer|Easy|[Problem](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/), [Solution]()|
+|1281|Subtract the Product and Sum of Digits of an Integer|Easy|[Problem](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1281%5D%5BEasy%5D%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)|
 
 
 
