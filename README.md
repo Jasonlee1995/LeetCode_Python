@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 02 Feb 2023
+- Recent Update : 16 Feb 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -263,10 +263,11 @@
 |1290|Convert Binary Number in a Linked List to Integer|Easy|[Problem](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1290%5D%5BEasy%5D%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)|
 |1295|Find Numbers with Even Number of Digits|Easy|[Problem](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1295%5D%5BEasy%5D%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)|
 |1299|Replace Elements with Greatest Element on Right Side|Easy|[Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1299%5D%5BEasy%5D%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)|
-|1304|Find N Unique Integers Sum up to Zero|Easy|[Problem](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/), [Solution]()|
+|1304|Find N Unique Integers Sum up to Zero|Easy|[Problem](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1304%5D%5BEasy%5D%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py)|
 |1309|Decrypt String from Alphabet to Integer Mapping|Easy|[Problem](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/), [Solution]()|
 |1313|Decompress Run-Length Encoded List|Easy|[Problem](https://leetcode.com/problems/decompress-run-length-encoded-list/), [Solution]()|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|Easy|[Problem](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/), [Solution]()|
+|1323|Maximum 69 Number|Easy|[Problem](https://leetcode.com/problems/maximum-69-number/), [Solution]()|
 
 
 
