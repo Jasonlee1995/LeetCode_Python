@@ -265,7 +265,7 @@
 |1299|Replace Elements with Greatest Element on Right Side|Easy|[Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1299%5D%5BEasy%5D%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)|
 |1304|Find N Unique Integers Sum up to Zero|Easy|[Problem](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1304%5D%5BEasy%5D%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py)|
 |1309|Decrypt String from Alphabet to Integer Mapping|Easy|[Problem](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1309%5D%5BEasy%5D%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.py)|
-|1313|Decompress Run-Length Encoded List|Easy|[Problem](https://leetcode.com/problems/decompress-run-length-encoded-list/), [Solution]()|
+|1313|Decompress Run-Length Encoded List|Easy|[Problem](https://leetcode.com/problems/decompress-run-length-encoded-list/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1313%5D%5BEasy%5D%20Decompress%20Run-Length%20Encoded%20List.py)|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|Easy|[Problem](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/), [Solution]()|
 |1323|Maximum 69 Number|Easy|[Problem](https://leetcode.com/problems/maximum-69-number/), [Solution]()|
 
