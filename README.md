@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 16 Feb 2023
+- Recent Update : 1 Mar 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
 - Codes are written in Python
 - Following solutions may not be optimal
@@ -267,7 +267,7 @@
 |1309|Decrypt String from Alphabet to Integer Mapping|Easy|[Problem](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1309%5D%5BEasy%5D%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.py)|
 |1313|Decompress Run-Length Encoded List|Easy|[Problem](https://leetcode.com/problems/decompress-run-length-encoded-list/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1313%5D%5BEasy%5D%20Decompress%20Run-Length%20Encoded%20List.py)|
 |1317|Convert Integer to the Sum of Two No-Zero Integers|Easy|[Problem](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1317%5D%5BEasy%5D%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.py)|
-|1323|Maximum 69 Number|Easy|[Problem](https://leetcode.com/problems/maximum-69-number/), [Solution]()|
+|1323|Maximum 69 Number|Easy|[Problem](https://leetcode.com/problems/maximum-69-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1323%5D%5BEasy%5D%20Maximum%2069%20Number.py)|
 |1331|Rank Transform of an Array|Easy|[Problem](https://leetcode.com/problems/rank-transform-of-an-array/), [Solution]()|
 |1332|Remove Palindromic Subsequences|Easy|[Problem](https://leetcode.com/problems/remove-palindromic-subsequences/), [Solution]()|
 |1337|The K Weakest Rows in a Matrix|Easy|[Problem](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/), [Solution]()|
