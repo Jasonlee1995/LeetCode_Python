@@ -271,7 +271,7 @@
 |1331|Rank Transform of an Array|Easy|[Problem](https://leetcode.com/problems/rank-transform-of-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1331%5D%5BEasy%5D%20Rank%20Transform%20of%20an%20Array.py)|
 |1332|Remove Palindromic Subsequences|Easy|[Problem](https://leetcode.com/problems/remove-palindromic-subsequences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1332%5D%5BEasy%5D%20Remove%20Palindromic%20Subsequences.py)|
 |1337|The K Weakest Rows in a Matrix|Easy|[Problem](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1337%5D%5BEasy%5D%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)|
-|1342|Number of Steps to Reduce a Number to Zero|Easy|[Problem](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/), [Solution]()|
+|1342|Number of Steps to Reduce a Number to Zero|Easy|[Problem](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1342%5D%5BEasy%5D%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.py)|
 |1346|Check If N and Its Double Exist|Easy|[Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/), [Solution]()|
 
 
