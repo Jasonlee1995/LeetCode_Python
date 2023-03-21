@@ -276,9 +276,11 @@
 |1351|Count Negative Numbers in a Sorted Matrix|Easy|[Problem](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1351%5D%5BEasy%5D%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)|
 |1360|Number of Days Between Two Dates|Easy|[Problem](https://leetcode.com/problems/number-of-days-between-two-dates/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1360%5D%5BEasy%5D%20Number%20of%20Days%20Between%20Two%20Dates.py)|
 |1365|How Many Numbers Are Smaller Than the Current Number|Easy|[Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1365%5D%5BEasy%5D%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)|
-|1370|Increasing Decreasing String|Easy|[Problem](https://leetcode.com/problems/increasing-decreasing-string/), [Solution]()|
+|1370|Increasing Decreasing String|Easy|[Problem](https://leetcode.com/problems/increasing-decreasing-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1370%5D%5BEasy%5D%20Increasing%20Decreasing%20String.py)|
 |1374|Generate a String With Characters That Have Odd Counts|Easy|[Problem](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/), [Solution]()|
 |1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|Easy|[Problem](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/), [Solution]()|
+|1380|Lucky Numbers in a Matrix|Easy|[Problem](https://leetcode.com/problems/lucky-numbers-in-a-matrix/), [Solution]()|
+
 
 
 
