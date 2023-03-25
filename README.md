@@ -278,10 +278,10 @@
 |1365|How Many Numbers Are Smaller Than the Current Number|Easy|[Problem](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1365%5D%5BEasy%5D%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)|
 |1370|Increasing Decreasing String|Easy|[Problem](https://leetcode.com/problems/increasing-decreasing-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1370%5D%5BEasy%5D%20Increasing%20Decreasing%20String.py)|
 |1374|Generate a String With Characters That Have Odd Counts|Easy|[Problem](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1374%5D%5BEasy%5D%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py)|
-|1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|Easy|[Problem](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/), [Solution]()|
+|1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|Easy|[Problem](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1379%5D%5BEasy%5D%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.py)|
 |1380|Lucky Numbers in a Matrix|Easy|[Problem](https://leetcode.com/problems/lucky-numbers-in-a-matrix/), [Solution]()|
 |1385|Find the Distance Value Between Two Arrays|Easy|[Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/), [Solution]()|
-
+|1389|Create Target Array in the Given Order|Easy|[Problem](https://leetcode.com/problems/create-target-array-in-the-given-order/), [Solution]()|
 
 
 
