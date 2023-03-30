@@ -281,9 +281,11 @@
 |1379|Find a Corresponding Node of a Binary Tree in a Clone of That Tree|Easy|[Problem](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1379%5D%5BEasy%5D%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.py)|
 |1380|Lucky Numbers in a Matrix|Easy|[Problem](https://leetcode.com/problems/lucky-numbers-in-a-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1380%5D%5BEasy%5D%20Lucky%20Numbers%20in%20a%20Matrix.py)|
 |1385|Find the Distance Value Between Two Arrays|Easy|[Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1385%5D%5BEasy%5D%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.py)|
-|1389|Create Target Array in the Given Order|Easy|[Problem](https://leetcode.com/problems/create-target-array-in-the-given-order/), [Solution]()|
+|1389|Create Target Array in the Given Order|Easy|[Problem](https://leetcode.com/problems/create-target-array-in-the-given-order/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1389%5D%5BEasy%5D%20Create%20Target%20Array%20in%20the%20Given%20Order.py)|
 |1394|Find Lucky Integer in an Array|Easy|[Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array/), [Solution]()|
 |1399|Count Largest Group|Easy|[Problem](https://leetcode.com/problems/count-largest-group/), [Solution]()|
+|1403|Minimum Subsequence in Non-Increasing Order|Easy|[Problem](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/), [Solution]()|
+|1408|String Matching in an Array|Easy|[Problem](https://leetcode.com/problems/string-matching-in-an-array/), [Solution]()|
 
 
 
