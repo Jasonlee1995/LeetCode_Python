@@ -285,8 +285,11 @@
 |1394|Find Lucky Integer in an Array|Easy|[Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1394%5D%5BEasy%5D%20Find%20Lucky%20Integer%20in%20an%20Array.py)|
 |1399|Count Largest Group|Easy|[Problem](https://leetcode.com/problems/count-largest-group/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1399%5D%5BEasy%5D%20Count%20Largest%20Group.py)|
 |1403|Minimum Subsequence in Non-Increasing Order|Easy|[Problem](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1403%5D%5BEasy%5D%20Minimum%20Subsequence%20in%20Non-Increasing%20Order.py)|
-|1408|String Matching in an Array|Easy|[Problem](https://leetcode.com/problems/string-matching-in-an-array/), [Solution]()|
+|1408|String Matching in an Array|Easy|[Problem](https://leetcode.com/problems/string-matching-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1408%5D%5BEasy%5D%20String%20Matching%20in%20an%20Array.py)|
 |1413|Minimum Value to Get Positive Step by Step Sum|Easy|[Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/), [Solution]()|
+|1417|Reformat The String|Easy|[Problem](https://leetcode.com/problems/reformat-the-string/), [Solution]()|
+|1422|Maximum Score After Splitting a String|Easy|[Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/), [Solution]()|
+|1431|Kids With the Greatest Number of Candies|Easy|[Problem](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/), [Solution]()|
 
 
 
