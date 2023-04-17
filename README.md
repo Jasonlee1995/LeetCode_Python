@@ -1,17 +1,17 @@
 # LeetCode Answer
-- Recent Update : 4 Apr 2023
-- LeetCode Algorithm site : <https://leetcode.com/problemset/all/>
-- Codes are written in Python
+- Recent Update : 16 Apr 2023
+- LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
+- Python 3 Solution
 - Following solutions may not be optimal
 - Leave issues
   * if you cannot understand the solution
   * if solution doesn't work
-  * if you use solution for commercial purpose
+
 
 
 # Solution List
-|Number|Title|Difficulty|Links|
-|:-:|:-:|:-:|:-:|
+|Number|Problem|Difficulty|Links|
+|:-:|:-|:-:|:-:|
 |1|Two Sum|Easy|[Problem](https://leetcode.com/problems/two-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1%5D%5BEasy%5D%20Two%20Sum.py)|
 |2|Add Two Numbers|Medium|[Problem](https://leetcode.com/problems/add-two-numbers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2%5D%5BMedium%5D%20Add%20Two%20Numbers.py)|
 |7|Reverse Integer|Easy|[Problem](https://leetcode.com/problems/reverse-integer/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B7%5D%5BEasy%5D%20Reverse%20Integer.py)|
@@ -288,10 +288,17 @@
 |1408|String Matching in an Array|Easy|[Problem](https://leetcode.com/problems/string-matching-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1408%5D%5BEasy%5D%20String%20Matching%20in%20an%20Array.py)|
 |1413|Minimum Value to Get Positive Step by Step Sum|Easy|[Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1413%5D%5BEasy%5D%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.py)|
 |1417|Reformat The String|Easy|[Problem](https://leetcode.com/problems/reformat-the-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1417%5D%5BEasy%5D%20Reformat%20The%20String.py)|
-|1422|Maximum Score After Splitting a String|Easy|[Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/), [Solution]()|
+|1422|Maximum Score After Splitting a String|Easy|[Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1422%5D%5BEasy%5D%20Maximum%20Score%20After%20Splitting%20a%20String.py)|
 |1431|Kids With the Greatest Number of Candies|Easy|[Problem](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/), [Solution]()|
 |1436|Destination City|Easy|[Problem](https://leetcode.com/problems/destination-city/), [Solution]()|
 |1437|Check If All 1's Are at Least Length K Places Away|Easy|[Problem](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/), [Solution]()|
+|1446|Consecutive Characters|Easy|[Problem](https://leetcode.com/problems/consecutive-characters/), [Solution]()|
+|1450|Number of Students Doing Homework at a Given Time|Easy|[Problem](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/), [Solution]()|
+|1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|Easy|[Problem](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/), [Solution]()|
+|1460|Make Two Arrays Equal by Reversing Subarrays|Easy|[Problem](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/), [Solution]()|
+|1464|Maximum Product of Two Elements in an Array|Easy|[Problem](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/), [Solution]()|
+|1470|Shuffle the Array|Easy|[Problem](https://leetcode.com/problems/shuffle-the-array/), [Solution]()|
+
 
 
 
