@@ -291,7 +291,7 @@
 |1422|Maximum Score After Splitting a String|Easy|[Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1422%5D%5BEasy%5D%20Maximum%20Score%20After%20Splitting%20a%20String.py)|
 |1431|Kids With the Greatest Number of Candies|Easy|[Problem](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1431%5D%5BEasy%5D%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py)|
 |1436|Destination City|Easy|[Problem](https://leetcode.com/problems/destination-city/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1436%5D%5BEasy%5D%20Destination%20City.py)|
-|1437|Check If All 1's Are at Least Length K Places Away|Easy|[Problem](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/), [Solution]()|
+|1437|Check If All 1's Are at Least Length K Places Away|Easy|[Problem](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1437%5D%5BEasy%5D%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.py)|
 |1446|Consecutive Characters|Easy|[Problem](https://leetcode.com/problems/consecutive-characters/), [Solution]()|
 |1450|Number of Students Doing Homework at a Given Time|Easy|[Problem](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/), [Solution]()|
 |1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|Easy|[Problem](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/), [Solution]()|
