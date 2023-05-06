@@ -296,9 +296,11 @@
 |1450|Number of Students Doing Homework at a Given Time|Easy|[Problem](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1450%5D%5BEasy%5D%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py)|
 |1455|Check If a Word Occurs As a Prefix of Any Word in a Sentence|Easy|[Problem](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1455%5D%5BEasy%5D%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py)|
 |1460|Make Two Arrays Equal by Reversing Subarrays|Easy|[Problem](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1460%5D%5BEasy%5D%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays.py)|
-|1464|Maximum Product of Two Elements in an Array|Easy|[Problem](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/), [Solution]()|
+|1464|Maximum Product of Two Elements in an Array|Easy|[Problem](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1464%5D%5BEasy%5D%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py)|
 |1470|Shuffle the Array|Easy|[Problem](https://leetcode.com/problems/shuffle-the-array/), [Solution]()|
-
+|1475|Final Prices With a Special Discount in a Shop|Easy|[Problem](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/), [Solution]()|
+|1480|Running Sum of 1d Array|Easy|[Problem](https://leetcode.com/problems/running-sum-of-1d-array/), [Solution]()|
+|1486|XOR Operation in an Array|Easy|[Problem](https://leetcode.com/problems/xor-operation-in-an-array/), [Solution]()|
 
 
 
