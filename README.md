@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 01 May 2023
+- Recent Update : 14 May 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -300,7 +300,7 @@
 |1470|Shuffle the Array|Easy|[Problem](https://leetcode.com/problems/shuffle-the-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1470%5D%5BEasy%5D%20Shuffle%20the%20Array.py)|
 |1475|Final Prices With a Special Discount in a Shop|Easy|[Problem](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1475%5D%5BEasy%5D%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py)|
 |1480|Running Sum of 1d Array|Easy|[Problem](https://leetcode.com/problems/running-sum-of-1d-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1480%5D%5BEasy%5D%20Running%20Sum%20of%201d%20Array.py)|
-|1486|XOR Operation in an Array|Easy|[Problem](https://leetcode.com/problems/xor-operation-in-an-array/), [Solution]()|
+|1486|XOR Operation in an Array|Easy|[Problem](https://leetcode.com/problems/xor-operation-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1486%5D%5BEasy%5D%20XOR%20Operation%20in%20an%20Array.py)|
 
 
 
