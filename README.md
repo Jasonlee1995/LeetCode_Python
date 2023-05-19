@@ -301,6 +301,10 @@
 |1475|Final Prices With a Special Discount in a Shop|Easy|[Problem](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1475%5D%5BEasy%5D%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py)|
 |1480|Running Sum of 1d Array|Easy|[Problem](https://leetcode.com/problems/running-sum-of-1d-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1480%5D%5BEasy%5D%20Running%20Sum%20of%201d%20Array.py)|
 |1486|XOR Operation in an Array|Easy|[Problem](https://leetcode.com/problems/xor-operation-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1486%5D%5BEasy%5D%20XOR%20Operation%20in%20an%20Array.py)|
+|1491|Average Salary Excluding the Minimum and Maximum Salary|Easy|[Problem](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1491%5D%5BEasy%5D%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)|
+|1496|Path Crossing|Easy|[Problem](https://leetcode.com/problems/path-crossing/), [Solution]()|
+|1502|Can Make Arithmetic Progression From Sequence|Easy|[Problem](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/), [Solution]()|
+|1507|Reformat Date|Easy|[Problem](https://leetcode.com/problems/reformat-date/), [Solution]()|
 
 
 
