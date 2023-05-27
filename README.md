@@ -304,7 +304,7 @@
 |1491|Average Salary Excluding the Minimum and Maximum Salary|Easy|[Problem](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1491%5D%5BEasy%5D%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)|
 |1496|Path Crossing|Easy|[Problem](https://leetcode.com/problems/path-crossing/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1496%5D%5BEasy%5D%20Path%20Crossing.py)|
 |1502|Can Make Arithmetic Progression From Sequence|Easy|[Problem](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1502%5D%5BEasy%5D%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py)|
-|1507|Reformat Date|Easy|[Problem](https://leetcode.com/problems/reformat-date/), [Solution]()|
+|1507|Reformat Date|Easy|[Problem](https://leetcode.com/problems/reformat-date/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1507%5D%5BEasy%5D%20Reformat%20Date.py)|
 |1512|Number of Good Pairs|Easy|[Problem](https://leetcode.com/problems/number-of-good-pairs/), [Solution]()|
 |1518|Water Bottles|Easy|[Problem](https://leetcode.com/problems/water-bottles/), [Solution]()|
 
