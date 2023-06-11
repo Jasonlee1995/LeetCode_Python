@@ -307,7 +307,7 @@
 |1507|Reformat Date|Easy|[Problem](https://leetcode.com/problems/reformat-date/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1507%5D%5BEasy%5D%20Reformat%20Date.py)|
 |1512|Number of Good Pairs|Easy|[Problem](https://leetcode.com/problems/number-of-good-pairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1512%5D%5BEasy%5D%20Number%20of%20Good%20Pairs.py)|
 |1518|Water Bottles|Easy|[Problem](https://leetcode.com/problems/water-bottles/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1518%5D%5BEasy%5D%20Water%20Bottles.py)|
-|1523|Count Odd Numbers in an Interval Range|Easy|[Problem](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/), [Solution]()|
+|1523|Count Odd Numbers in an Interval Range|Easy|[Problem](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1523%5D%5BEasy%5D%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py)|
 |1528|Shuffle String|Easy|[Problem](https://leetcode.com/problems/shuffle-string/), [Solution]()|
 
 
