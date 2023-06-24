@@ -310,7 +310,8 @@
 |1523|Count Odd Numbers in an Interval Range|Easy|[Problem](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1523%5D%5BEasy%5D%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py)|
 |1528|Shuffle String|Easy|[Problem](https://leetcode.com/problems/shuffle-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1528%5D%5BEasy%5D%20Shuffle%20String.py)|
 |1534|Count Good Triplets|Easy|[Problem](https://leetcode.com/problems/count-good-triplets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1534%5D%5BEasy%5D%20Count%20Good%20Triplets.py)|
-|1539|Kth Missing Positive Number|Easy|[Problem](https://leetcode.com/problems/kth-missing-positive-number/), [Solution]()|
+|1539|Kth Missing Positive Number|Easy|[Problem](https://leetcode.com/problems/kth-missing-positive-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1539%5D%5BEasy%5D%20Kth%20Missing%20Positive%20Number.py)|
+|1544|Make The String Great|Easy|[Problem](https://leetcode.com/problems/make-the-string-great/), [Solution]()|
 
 
 
