@@ -315,7 +315,8 @@
 |1550|Three Consecutive Odds|Easy|[Problem](https://leetcode.com/problems/three-consecutive-odds/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1550%5D%5BEasy%5D%20Three%20Consecutive%20Odds.py)|
 |1556|Thousand Separator|Easy|[Problem](https://leetcode.com/problems/thousand-separator/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1556%5D%5BEasy%5D%20Thousand%20Separator.py)|
 |1560|Most Visited Sector in a Circular Track|Easy|[Problem](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1560%5D%5BEasy%5D%20Most%20Visited%20Sector%20in%20a%20Circular%20Track.py)|
-|1566|Detect Pattern of Length M Repeated K or More Times|Easy|[Problem](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/), [Solution]()|
+|1566|Detect Pattern of Length M Repeated K or More Times|Easy|[Problem](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1566%5D%5BEasy%5D%20Detect%20Pattern%20of%20Length%20M%20Repeated%20K%20or%20More%20Times.py)|
+|1572|Matrix Diagonal Sum|Easy|[Problem](https://leetcode.com/problems/matrix-diagonal-sum/), [Solution]()|
 
 
 
