@@ -318,7 +318,8 @@
 |1566|Detect Pattern of Length M Repeated K or More Times|Easy|[Problem](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1566%5D%5BEasy%5D%20Detect%20Pattern%20of%20Length%20M%20Repeated%20K%20or%20More%20Times.py)|
 |1572|Matrix Diagonal Sum|Easy|[Problem](https://leetcode.com/problems/matrix-diagonal-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1572%5D%5BEasy%5D%20Matrix%20Diagonal%20Sum.py)|
 |1576|Replace All ?'s to Avoid Consecutive Repeating Characters|Easy|[Problem](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1576%5D%5BEasy%5D%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.py)|
-|1582|Special Positions in a Binary Matrix|Easy|[Problem](https://leetcode.com/problems/special-positions-in-a-binary-matrix/), [Solution]()|
+|1582|Special Positions in a Binary Matrix|Easy|[Problem](https://leetcode.com/problems/special-positions-in-a-binary-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1582%5D%5BEasy%5D%20Special%20Positions%20in%20a%20Binary%20Matrix.py)|
+|1588|Sum of All Odd Length Subarrays|Easy|[Problem](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/), [Solution]()|
 
 
 
