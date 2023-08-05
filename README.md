@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 16 Jul 2023
+- Recent Update : 02 Aug 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -321,8 +321,9 @@
 |1582|Special Positions in a Binary Matrix|Easy|[Problem](https://leetcode.com/problems/special-positions-in-a-binary-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1582%5D%5BEasy%5D%20Special%20Positions%20in%20a%20Binary%20Matrix.py)|
 |1588|Sum of All Odd Length Subarrays|Easy|[Problem](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1588%5D%5BEasy%5D%20Sum%20of%20All%20Odd%20Length%20Subarrays.py)|
 |1592|Rearrange Spaces Between Words|Easy|[Problem](https://leetcode.com/problems/rearrange-spaces-between-words/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1592%5D%5BEasy%5D%20Rearrange%20Spaces%20Between%20Words.py)|
-|1598|Crawler Log Folder|Easy|[Problem](https://leetcode.com/problems/crawler-log-folder/), [Solution]()|
+|1598|Crawler Log Folder|Easy|[Problem](https://leetcode.com/problems/crawler-log-folder/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1598%5D%5BEasy%5D%20Crawler%20Log%20Folder.py)|
 |1603|Design Parking System|Easy|[Problem](https://leetcode.com/problems/design-parking-system/), [Solution]()|
+|1608|Special Array With X Elements Greater Than or Equal X|Easy|[Problem](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/), [Solution]()|
 
 
 
