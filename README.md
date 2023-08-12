@@ -323,7 +323,7 @@
 |1592|Rearrange Spaces Between Words|Easy|[Problem](https://leetcode.com/problems/rearrange-spaces-between-words/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1592%5D%5BEasy%5D%20Rearrange%20Spaces%20Between%20Words.py)|
 |1598|Crawler Log Folder|Easy|[Problem](https://leetcode.com/problems/crawler-log-folder/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1598%5D%5BEasy%5D%20Crawler%20Log%20Folder.py)|
 |1603|Design Parking System|Easy|[Problem](https://leetcode.com/problems/design-parking-system/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1603%5D%5BEasy%5D%20Design%20Parking%20System.py)|
-|1608|Special Array With X Elements Greater Than or Equal X|Easy|[Problem](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/), [Solution]()|
+|1608|Special Array With X Elements Greater Than or Equal X|Easy|[Problem](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1608%5D%5BEasy%5D%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.py)|
 
 
 
