@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 02 Aug 2023
+- Recent Update : 13 Aug 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -324,6 +324,7 @@
 |1598|Crawler Log Folder|Easy|[Problem](https://leetcode.com/problems/crawler-log-folder/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1598%5D%5BEasy%5D%20Crawler%20Log%20Folder.py)|
 |1603|Design Parking System|Easy|[Problem](https://leetcode.com/problems/design-parking-system/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1603%5D%5BEasy%5D%20Design%20Parking%20System.py)|
 |1608|Special Array With X Elements Greater Than or Equal X|Easy|[Problem](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1608%5D%5BEasy%5D%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.py)|
+|1614|Maximum Nesting Depth of the Parentheses|Easy|[Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1614%5D%5BEasy%5D%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)|
 
 
 
