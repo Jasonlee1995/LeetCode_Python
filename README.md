@@ -328,6 +328,7 @@
 |1619|Mean of Array After Removing Some Elements|Easy|[Problem](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1619%5D%5BEasy%5D%20Mean%20of%20Array%20After%20Removing%20Some%20Elements.py)|
 |1624|Largest Substring Between Two Equal Characters|Easy|[Problem](https://leetcode.com/problems/largest-substring-between-two-equal-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1624%5D%5BEasy%5D%20Largest%20Substring%20Between%20Two%20Equal%20Characters.py)|
 |1629|Slowest Key|Easy|[Problem](https://leetcode.com/problems/slowest-key/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1629%5D%5BEasy%5D%20Slowest%20Key.py)|
+|1636|Sort Array by Increasing Frequency|Easy|[Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1636%5D%5BEasy%5D%20Sort%20Array%20by%20Increasing%20Frequency.py)|
 
 
 
