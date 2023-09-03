@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 13 Aug 2023
+- Recent Update : 03 Sep 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -330,6 +330,7 @@
 |1629|Slowest Key|Easy|[Problem](https://leetcode.com/problems/slowest-key/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1629%5D%5BEasy%5D%20Slowest%20Key.py)|
 |1636|Sort Array by Increasing Frequency|Easy|[Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1636%5D%5BEasy%5D%20Sort%20Array%20by%20Increasing%20Frequency.py)|
 |1640|Check Array Formation Through Concatenation|Easy|[Problem](https://leetcode.com/problems/check-array-formation-through-concatenation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1640%5D%5BEasy%5D%20Check%20Array%20Formation%20Through%20Concatenation.py)|
+|1646|Get Maximum in Generated Array|Easy|[Problem](https://leetcode.com/problems/get-maximum-in-generated-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1646%5D%5BEasy%5D%20Get%20Maximum%20in%20Generated%20Array.py)|
 
 
 
