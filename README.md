@@ -332,6 +332,7 @@
 |1640|Check Array Formation Through Concatenation|Easy|[Problem](https://leetcode.com/problems/check-array-formation-through-concatenation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1640%5D%5BEasy%5D%20Check%20Array%20Formation%20Through%20Concatenation.py)|
 |1646|Get Maximum in Generated Array|Easy|[Problem](https://leetcode.com/problems/get-maximum-in-generated-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1646%5D%5BEasy%5D%20Get%20Maximum%20in%20Generated%20Array.py)|
 |1652|Defuse the Bomb|Easy|[Problem](https://leetcode.com/problems/defuse-the-bomb/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1652%5D%5BEasy%5D%20Defuse%20the%20Bomb.py)|
+|1656|Design an Ordered Stream|Easy|[Problem](https://leetcode.com/problems/design-an-ordered-stream/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1656%5D%5BEasy%5D%20Design%20an%20Ordered%20Stream.py)|
 
 
 
