@@ -65,6 +65,7 @@
 |206|Reverse Linked List|Easy|[Problem](https://leetcode.com/problems/reverse-linked-list/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B206%5D%5BEasy%5D%20Reverse%20Linked%20List.py)|
 |217|Contains Duplicate|Easy|[Problem](https://leetcode.com/problems/contains-duplicate/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B217%5D%5BEasy%5D%20Contains%20Duplicate.py)|
 |219|Contains Duplicate II|Easy|[Problem](https://leetcode.com/problems/contains-duplicate-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B219%5D%5BEasy%5D%20Contains%20Duplicate%20II.py)|
+|222|Count Complete Tree Nodes|Easy|[Problem](https://leetcode.com/problems/count-complete-tree-nodes/), [Solution]()|
 |225|Implement Stack using Queues|Easy|[Problem](https://leetcode.com/problems/implement-stack-using-queues/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B225%5D%5BEasy%5D%20Implement%20Stack%20using%20Queues.py)|
 |226|Invert Binary Tree|Easy|[Problem](https://leetcode.com/problems/invert-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B226%5D%5BEasy%5D%20Invert%20Binary%20Tree.py)|
 |228|Summary Ranges|Easy|[Problem](https://leetcode.com/problems/summary-ranges/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B228%5D%5BEasy%5D%20Summary%20Ranges.py)|
@@ -333,6 +334,7 @@
 |1646|Get Maximum in Generated Array|Easy|[Problem](https://leetcode.com/problems/get-maximum-in-generated-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1646%5D%5BEasy%5D%20Get%20Maximum%20in%20Generated%20Array.py)|
 |1652|Defuse the Bomb|Easy|[Problem](https://leetcode.com/problems/defuse-the-bomb/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1652%5D%5BEasy%5D%20Defuse%20the%20Bomb.py)|
 |1656|Design an Ordered Stream|Easy|[Problem](https://leetcode.com/problems/design-an-ordered-stream/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1656%5D%5BEasy%5D%20Design%20an%20Ordered%20Stream.py)|
+|1662|Check If Two String Arrays are Equivalent|Easy|[Problem](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1662%5D%5BEasy%5D%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|
 
 
 
