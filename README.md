@@ -335,6 +335,7 @@
 |1652|Defuse the Bomb|Easy|[Problem](https://leetcode.com/problems/defuse-the-bomb/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1652%5D%5BEasy%5D%20Defuse%20the%20Bomb.py)|
 |1656|Design an Ordered Stream|Easy|[Problem](https://leetcode.com/problems/design-an-ordered-stream/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1656%5D%5BEasy%5D%20Design%20an%20Ordered%20Stream.py)|
 |1662|Check If Two String Arrays are Equivalent|Easy|[Problem](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1662%5D%5BEasy%5D%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|
+|1668|Maximum Repeating Substring|Easy|[Problem](https://leetcode.com/problems/maximum-repeating-substring/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1668%5D%5BEasy%5D%20Maximum%20Repeating%20Substring.py)|
 
 
 
