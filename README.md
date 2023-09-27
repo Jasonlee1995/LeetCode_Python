@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 03 Sep 2023
+- Recent Update : 24 Sep 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -336,6 +336,7 @@
 |1656|Design an Ordered Stream|Easy|[Problem](https://leetcode.com/problems/design-an-ordered-stream/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1656%5D%5BEasy%5D%20Design%20an%20Ordered%20Stream.py)|
 |1662|Check If Two String Arrays are Equivalent|Easy|[Problem](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1662%5D%5BEasy%5D%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|
 |1668|Maximum Repeating Substring|Easy|[Problem](https://leetcode.com/problems/maximum-repeating-substring/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1668%5D%5BEasy%5D%20Maximum%20Repeating%20Substring.py)|
+|1672|Richest Customer Wealth|Easy|[Problem](https://leetcode.com/problems/richest-customer-wealth/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1672%5D%5BEasy%5D%20Richest%20Customer%20Wealth.py)|
 
 
 
