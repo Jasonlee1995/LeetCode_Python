@@ -338,6 +338,7 @@
 |1668|Maximum Repeating Substring|Easy|[Problem](https://leetcode.com/problems/maximum-repeating-substring/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1668%5D%5BEasy%5D%20Maximum%20Repeating%20Substring.py)|
 |1672|Richest Customer Wealth|Easy|[Problem](https://leetcode.com/problems/richest-customer-wealth/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1672%5D%5BEasy%5D%20Richest%20Customer%20Wealth.py)|
 |1678|Goal Parser Interpretation|Easy|[Problem](https://leetcode.com/problems/goal-parser-interpretation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1678%5D%5BEasy%5D%20Goal%20Parser%20Interpretation.py)|
+|1684|Count the Number of Consistent Strings|Easy|[Problem](https://leetcode.com/problems/count-the-number-of-consistent-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1684%5D%5BEasy%5D%20Count%20the%20Number%20of%20Consistent%20Strings.py)|
 
 
 
