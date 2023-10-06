@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 24 Sep 2023
+- Recent Update : 04 Oct 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -339,6 +339,7 @@
 |1672|Richest Customer Wealth|Easy|[Problem](https://leetcode.com/problems/richest-customer-wealth/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1672%5D%5BEasy%5D%20Richest%20Customer%20Wealth.py)|
 |1678|Goal Parser Interpretation|Easy|[Problem](https://leetcode.com/problems/goal-parser-interpretation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1678%5D%5BEasy%5D%20Goal%20Parser%20Interpretation.py)|
 |1684|Count the Number of Consistent Strings|Easy|[Problem](https://leetcode.com/problems/count-the-number-of-consistent-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1684%5D%5BEasy%5D%20Count%20the%20Number%20of%20Consistent%20Strings.py)|
+|1688|Count of Matches in Tournament|Easy|[Problem](https://leetcode.com/problems/count-of-matches-in-tournament/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1688%5D%5BEasy%5D%20Count%20of%20Matches%20in%20Tournament.py)|
 
 
 
