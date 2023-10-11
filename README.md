@@ -340,6 +340,7 @@
 |1678|Goal Parser Interpretation|Easy|[Problem](https://leetcode.com/problems/goal-parser-interpretation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1678%5D%5BEasy%5D%20Goal%20Parser%20Interpretation.py)|
 |1684|Count the Number of Consistent Strings|Easy|[Problem](https://leetcode.com/problems/count-the-number-of-consistent-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1684%5D%5BEasy%5D%20Count%20the%20Number%20of%20Consistent%20Strings.py)|
 |1688|Count of Matches in Tournament|Easy|[Problem](https://leetcode.com/problems/count-of-matches-in-tournament/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1688%5D%5BEasy%5D%20Count%20of%20Matches%20in%20Tournament.py)|
+|1694|Reformat Phone Number|Easy|[Problem](https://leetcode.com/problems/reformat-phone-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1694%5D%5BEasy%5D%20Reformat%20Phone%20Number.py)|
 
 
 
