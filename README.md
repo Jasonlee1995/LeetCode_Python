@@ -341,6 +341,7 @@
 |1684|Count the Number of Consistent Strings|Easy|[Problem](https://leetcode.com/problems/count-the-number-of-consistent-strings/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1684%5D%5BEasy%5D%20Count%20the%20Number%20of%20Consistent%20Strings.py)|
 |1688|Count of Matches in Tournament|Easy|[Problem](https://leetcode.com/problems/count-of-matches-in-tournament/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1688%5D%5BEasy%5D%20Count%20of%20Matches%20in%20Tournament.py)|
 |1694|Reformat Phone Number|Easy|[Problem](https://leetcode.com/problems/reformat-phone-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1694%5D%5BEasy%5D%20Reformat%20Phone%20Number.py)|
+|1700|Number of Students Unable to Eat Lunch|Easy|[Problem](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1700%5D%5BEasy%5D%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.py)|
 
 
 
