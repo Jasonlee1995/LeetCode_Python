@@ -345,6 +345,7 @@
 |1704|Determine if String Halves Are Alike|Easy|[Problem](https://leetcode.com/problems/determine-if-string-halves-are-alike/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1704%5D%5BEasy%5D%20Determine%20if%20String%20Halves%20Are%20Alike.py)|
 |1710|Maximum Units on a Truck|Easy|[Problem](https://leetcode.com/problems/maximum-units-on-a-truck/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1710%5D%5BEasy%5D%20Maximum%20Units%20on%20a%20Truck.py)|
 |1716|Calculate Money in Leetcode Bank|Easy|[Problem](https://leetcode.com/problems/calculate-money-in-leetcode-bank/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1716%5D%5BEasy%5D%20Calculate%20Money%20in%20Leetcode%20Bank.py)|
+|1720|Decode XORed Array|Easy|[Problem](https://leetcode.com/problems/decode-xored-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1720%5D%5BEasy%5D%20Decode%20XORed%20Array.py)|
 
 
 
