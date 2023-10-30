@@ -347,6 +347,8 @@
 |1716|Calculate Money in Leetcode Bank|Easy|[Problem](https://leetcode.com/problems/calculate-money-in-leetcode-bank/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1716%5D%5BEasy%5D%20Calculate%20Money%20in%20Leetcode%20Bank.py)|
 |1720|Decode XORed Array|Easy|[Problem](https://leetcode.com/problems/decode-xored-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1720%5D%5BEasy%5D%20Decode%20XORed%20Array.py)|
 |1725|Number Of Rectangles That Can Form The Largest Square|Easy|[Problem](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1725%5D%5BEasy%5D%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.py)|
+|1732|Find the Highest Altitude|Easy|[Problem](https://leetcode.com/problems/find-the-highest-altitude/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1732%5D%5BEasy%5D%20Find%20the%20Highest%20Altitude.py)|
+|1736|Latest Time by Replacing Hidden Digits|Easy|[Problem](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/), [Solution]()|
 
 
 
