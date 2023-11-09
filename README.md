@@ -351,6 +351,7 @@
 |1736|Latest Time by Replacing Hidden Digits|Easy|[Problem](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1736%5D%5BEasy%5D%20Latest%20Time%20by%20Replacing%20Hidden%20Digits.py)|
 |1742|Maximum Number of Balls in a Box|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1742%5D%5BEasy%5D%20Maximum%20Number%20of%20Balls%20in%20a%20Box.py)|
 |1748|Sum of Unique Elements|Easy|[Problem](https://leetcode.com/problems/sum-of-unique-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1748%5D%5BEasy%5D%20Sum%20of%20Unique%20Elements.py)|
+|1752|Check if Array Is Sorted and Rotated|Easy|[Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1752%5D%5BEasy%5D%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.py)|
 
 
 
