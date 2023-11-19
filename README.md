@@ -355,6 +355,7 @@
 |1758|Minimum Changes To Make Alternating Binary String|Easy|[Problem](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1758%5D%5BEasy%5D%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.py)|
 |1763|Longest Nice Substring|Easy|[Problem](https://leetcode.com/problems/longest-nice-substring/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1763%5D%5BEasy%5D%20Longest%20Nice%20Substring.py)|
 |1768|Merge Strings Alternately|Easy|[Problem](https://leetcode.com/problems/merge-strings-alternately/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1768%5D%5BEasy%5D%20Merge%20Strings%20Alternately.py)|
+|1773|Count Items Matching a Rule|Easy|[Problem](https://leetcode.com/problems/count-items-matching-a-rule/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1773%5D%5BEasy%5D%20Count%20Items%20Matching%20a%20Rule.py)|
 
 
 
