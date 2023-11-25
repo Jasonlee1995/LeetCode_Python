@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 10 Nov 2023
+- Recent Update : 24 Nov 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -356,6 +356,7 @@
 |1763|Longest Nice Substring|Easy|[Problem](https://leetcode.com/problems/longest-nice-substring/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1763%5D%5BEasy%5D%20Longest%20Nice%20Substring.py)|
 |1768|Merge Strings Alternately|Easy|[Problem](https://leetcode.com/problems/merge-strings-alternately/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1768%5D%5BEasy%5D%20Merge%20Strings%20Alternately.py)|
 |1773|Count Items Matching a Rule|Easy|[Problem](https://leetcode.com/problems/count-items-matching-a-rule/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1773%5D%5BEasy%5D%20Count%20Items%20Matching%20a%20Rule.py)|
+|1779|Find Nearest Point That Has the Same X or Y Coordinate|Easy|[Problem](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1779%5D%5BEasy%5D%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.py)|
 
 
 
