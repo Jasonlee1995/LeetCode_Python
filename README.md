@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 24 Nov 2023
+- Recent Update : 02 Dec 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -358,7 +358,7 @@
 |1773|Count Items Matching a Rule|Easy|[Problem](https://leetcode.com/problems/count-items-matching-a-rule/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1773%5D%5BEasy%5D%20Count%20Items%20Matching%20a%20Rule.py)|
 |1779|Find Nearest Point That Has the Same X or Y Coordinate|Easy|[Problem](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1779%5D%5BEasy%5D%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.py)|
 |1784|Check if Binary String Has at Most One Segment of Ones|Easy|[Problem](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1784%5D%5BEasy%5D%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py)|
-
+|1790|Check if One String Swap Can Make Strings Equal|Easy|[Problem](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1790%5D%5BEasy%5D%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
