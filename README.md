@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 02 Dec 2023
+- Recent Update : 15 Dec 2023
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -360,6 +360,8 @@
 |1784|Check if Binary String Has at Most One Segment of Ones|Easy|[Problem](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1784%5D%5BEasy%5D%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.py)|
 |1790|Check if One String Swap Can Make Strings Equal|Easy|[Problem](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1790%5D%5BEasy%5D%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.py)|
 |1791|Find Center of Star Graph|Easy|[Problem](https://leetcode.com/problems/find-center-of-star-graph/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1791%5D%5BEasy%5D%20Find%20Center%20of%20Star%20Graph.py)|
+|1796|Second Largest Digit in a String|Easy|[Problem](https://leetcode.com/problems/second-largest-digit-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1796%5D%5BEasy%5D%20Second%20Largest%20Digit%20in%20a%20String.py)|
+
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
