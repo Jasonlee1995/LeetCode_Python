@@ -362,6 +362,7 @@
 |1791|Find Center of Star Graph|Easy|[Problem](https://leetcode.com/problems/find-center-of-star-graph/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1791%5D%5BEasy%5D%20Find%20Center%20of%20Star%20Graph.py)|
 |1796|Second Largest Digit in a String|Easy|[Problem](https://leetcode.com/problems/second-largest-digit-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1796%5D%5BEasy%5D%20Second%20Largest%20Digit%20in%20a%20String.py)|
 |1800|Maximum Ascending Subarray Sum|Easy|[Problem](https://leetcode.com/problems/maximum-ascending-subarray-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1800%5D%5BEasy%5D%20Maximum%20Ascending%20Subarray%20Sum.py)|
+|1805|Number of Different Integers in a String|Easy|[Problem](https://leetcode.com/problems/number-of-different-integers-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1805%5D%5BEasy%5D%20Number%20of%20Different%20Integers%20in%20a%20String.py)|
 
 
 
