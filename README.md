@@ -330,6 +330,7 @@
 |1624|Largest Substring Between Two Equal Characters|Easy|[Problem](https://leetcode.com/problems/largest-substring-between-two-equal-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1624%5D%5BEasy%5D%20Largest%20Substring%20Between%20Two%20Equal%20Characters.py)|
 |1629|Slowest Key|Easy|[Problem](https://leetcode.com/problems/slowest-key/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1629%5D%5BEasy%5D%20Slowest%20Key.py)|
 |1636|Sort Array by Increasing Frequency|Easy|[Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1636%5D%5BEasy%5D%20Sort%20Array%20by%20Increasing%20Frequency.py)|
+|1637|Widest Vertical Area Between Two Points Containing No Points|Easy|[Problem](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1637%5D%5BEasy%5D%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py)|
 |1640|Check Array Formation Through Concatenation|Easy|[Problem](https://leetcode.com/problems/check-array-formation-through-concatenation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1640%5D%5BEasy%5D%20Check%20Array%20Formation%20Through%20Concatenation.py)|
 |1646|Get Maximum in Generated Array|Easy|[Problem](https://leetcode.com/problems/get-maximum-in-generated-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1646%5D%5BEasy%5D%20Get%20Maximum%20in%20Generated%20Array.py)|
 |1652|Defuse the Bomb|Easy|[Problem](https://leetcode.com/problems/defuse-the-bomb/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1652%5D%5BEasy%5D%20Defuse%20the%20Bomb.py)|
@@ -363,7 +364,6 @@
 |1796|Second Largest Digit in a String|Easy|[Problem](https://leetcode.com/problems/second-largest-digit-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1796%5D%5BEasy%5D%20Second%20Largest%20Digit%20in%20a%20String.py)|
 |1800|Maximum Ascending Subarray Sum|Easy|[Problem](https://leetcode.com/problems/maximum-ascending-subarray-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1800%5D%5BEasy%5D%20Maximum%20Ascending%20Subarray%20Sum.py)|
 |1805|Number of Different Integers in a String|Easy|[Problem](https://leetcode.com/problems/number-of-different-integers-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1805%5D%5BEasy%5D%20Number%20of%20Different%20Integers%20in%20a%20String.py)|
-
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
