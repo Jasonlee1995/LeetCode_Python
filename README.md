@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 15 Dec 2023
+- Recent Update : 12 Jan 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -364,6 +364,7 @@
 |1796|Second Largest Digit in a String|Easy|[Problem](https://leetcode.com/problems/second-largest-digit-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1796%5D%5BEasy%5D%20Second%20Largest%20Digit%20in%20a%20String.py)|
 |1800|Maximum Ascending Subarray Sum|Easy|[Problem](https://leetcode.com/problems/maximum-ascending-subarray-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1800%5D%5BEasy%5D%20Maximum%20Ascending%20Subarray%20Sum.py)|
 |1805|Number of Different Integers in a String|Easy|[Problem](https://leetcode.com/problems/number-of-different-integers-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1805%5D%5BEasy%5D%20Number%20of%20Different%20Integers%20in%20a%20String.py)|
+|1812|Determine Color of a Chessboard Square|Easy|[Problem](https://leetcode.com/problems/determine-color-of-a-chessboard-square/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1812%5D%5BEasy%5D%20Determine%20Color%20of%20a%20Chessboard%20Square.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
