@@ -365,6 +365,7 @@
 |1800|Maximum Ascending Subarray Sum|Easy|[Problem](https://leetcode.com/problems/maximum-ascending-subarray-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1800%5D%5BEasy%5D%20Maximum%20Ascending%20Subarray%20Sum.py)|
 |1805|Number of Different Integers in a String|Easy|[Problem](https://leetcode.com/problems/number-of-different-integers-in-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1805%5D%5BEasy%5D%20Number%20of%20Different%20Integers%20in%20a%20String.py)|
 |1812|Determine Color of a Chessboard Square|Easy|[Problem](https://leetcode.com/problems/determine-color-of-a-chessboard-square/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1812%5D%5BEasy%5D%20Determine%20Color%20of%20a%20Chessboard%20Square.py)|
+|1816|Truncate Sentence|Easy|[Problem](https://leetcode.com/problems/truncate-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1816%5D%5BEasy%5D%20Truncate%20Sentence.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
