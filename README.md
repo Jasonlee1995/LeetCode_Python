@@ -367,6 +367,8 @@
 |1812|Determine Color of a Chessboard Square|Easy|[Problem](https://leetcode.com/problems/determine-color-of-a-chessboard-square/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1812%5D%5BEasy%5D%20Determine%20Color%20of%20a%20Chessboard%20Square.py)|
 |1816|Truncate Sentence|Easy|[Problem](https://leetcode.com/problems/truncate-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1816%5D%5BEasy%5D%20Truncate%20Sentence.py)|
 |1822|Sign of the Product of an Array|Easy|[Problem](https://leetcode.com/problems/sign-of-the-product-of-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1822%5D%5BEasy%5D%20Sign%20of%20the%20Product%20of%20an%20Array.py)|
+|1827|Minimum Operations to Make the Array Increasing|Easy|[Problem](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1827%5D%5BEasy%5D%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.py)|
+
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
