@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 12 Jan 2024
+- Recent Update : 01 Feb 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -370,6 +370,7 @@
 |1827|Minimum Operations to Make the Array Increasing|Easy|[Problem](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1827%5D%5BEasy%5D%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.py)|
 |1832|Check if the Sentence Is Pangram|Easy|[Problem](https://leetcode.com/problems/check-if-the-sentence-is-pangram/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1832%5D%5BEasy%5D%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|
 |1837|Sum of Digits in Base K|Easy|[Problem](https://leetcode.com/problems/sum-of-digits-in-base-k/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1837%5D%5BEasy%5D%20Sum%20of%20Digits%20in%20Base%20K.py)|
+|1844|Replace All Digits with Characters|Easy|[Problem](https://leetcode.com/problems/replace-all-digits-with-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1844%5D%5BEasy%5D%20Replace%20All%20Digits%20with%20Characters.py)|
 
 
 
