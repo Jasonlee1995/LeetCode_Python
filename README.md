@@ -371,6 +371,7 @@
 |1832|Check if the Sentence Is Pangram|Easy|[Problem](https://leetcode.com/problems/check-if-the-sentence-is-pangram/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1832%5D%5BEasy%5D%20Check%20if%20the%20Sentence%20Is%20Pangram.py)|
 |1837|Sum of Digits in Base K|Easy|[Problem](https://leetcode.com/problems/sum-of-digits-in-base-k/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1837%5D%5BEasy%5D%20Sum%20of%20Digits%20in%20Base%20K.py)|
 |1844|Replace All Digits with Characters|Easy|[Problem](https://leetcode.com/problems/replace-all-digits-with-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1844%5D%5BEasy%5D%20Replace%20All%20Digits%20with%20Characters.py)|
+|1848|Minimum Distance to the Target Element|Easy|[Problem](https://leetcode.com/problems/minimum-distance-to-the-target-element/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1848%5D%5BEasy%5D%20Minimum%20Distance%20to%20the%20Target%20Element.py)|
 
 
 
