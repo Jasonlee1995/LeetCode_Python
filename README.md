@@ -374,6 +374,7 @@
 |1848|Minimum Distance to the Target Element|Easy|[Problem](https://leetcode.com/problems/minimum-distance-to-the-target-element/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1848%5D%5BEasy%5D%20Minimum%20Distance%20to%20the%20Target%20Element.py)|
 |1854|Maximum Population Year|Easy|[Problem](https://leetcode.com/problems/maximum-population-year/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1854%5D%5BEasy%5D%20Maximum%20Population%20Year.py)|
 |1859|Sorting the Sentence|Easy|[Problem](https://leetcode.com/problems/sorting-the-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1859%5D%5BEasy%5D%20Sorting%20the%20Sentence.py)|
+|1863|Sum of All Subset XOR Totals|Easy|[Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1863%5D%5BEasy%5D%20Sum%20of%20All%20Subset%20XOR%20Totals.py)|
 
 
 
