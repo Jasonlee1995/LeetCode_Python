@@ -376,6 +376,7 @@
 |1859|Sorting the Sentence|Easy|[Problem](https://leetcode.com/problems/sorting-the-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1859%5D%5BEasy%5D%20Sorting%20the%20Sentence.py)|
 |1863|Sum of All Subset XOR Totals|Easy|[Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1863%5D%5BEasy%5D%20Sum%20of%20All%20Subset%20XOR%20Totals.py)|
 |1869|Longer Contiguous Segments of Ones than Zeros|Easy|[Problem](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1869%5D%5BEasy%5D%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.py)|
+|1876|Substrings of Size Three with Distinct Characters|Easy|[Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1876%5D%5BEasy%5D%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py)|
 
 
 
