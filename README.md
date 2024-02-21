@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 16 Feb 2024
+- Recent Update : 20 Feb 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -377,6 +377,7 @@
 |1863|Sum of All Subset XOR Totals|Easy|[Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1863%5D%5BEasy%5D%20Sum%20of%20All%20Subset%20XOR%20Totals.py)|
 |1869|Longer Contiguous Segments of Ones than Zeros|Easy|[Problem](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1869%5D%5BEasy%5D%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.py)|
 |1876|Substrings of Size Three with Distinct Characters|Easy|[Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1876%5D%5BEasy%5D%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py)|
+|1880|Check if Word Equals Summation of Two Words|Easy|[Problem](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1880%5D%5BEasy%5D%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.py)|
 
 
 
