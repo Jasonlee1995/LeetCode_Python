@@ -378,6 +378,8 @@
 |1869|Longer Contiguous Segments of Ones than Zeros|Easy|[Problem](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1869%5D%5BEasy%5D%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.py)|
 |1876|Substrings of Size Three with Distinct Characters|Easy|[Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1876%5D%5BEasy%5D%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py)|
 |1880|Check if Word Equals Summation of Two Words|Easy|[Problem](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1880%5D%5BEasy%5D%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.py)|
+|1886|Determine Whether Matrix Can Be Obtained By Rotation|Easy|[Problem](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1886%5D%5BEasy%5D%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.py)|
+|1893|Check if All the Integers in a Range Are Covered|Easy|[Problem](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/), [Solution]()|
 
 
 
