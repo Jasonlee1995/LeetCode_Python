@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 27 Feb 2024
+- Recent Update : 02 Mar 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -381,6 +381,7 @@
 |1886|Determine Whether Matrix Can Be Obtained By Rotation|Easy|[Problem](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1886%5D%5BEasy%5D%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.py)|
 |1893|Check if All the Integers in a Range Are Covered|Easy|[Problem](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/), [Solution]()|
 |1897|Redistribute Characters to Make All Strings Equal|Easy|[Problem](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1897%5D%5BEasy%5D%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.py)|
+|1903|Largest Odd Number in String|Easy|[Problem](https://leetcode.com/problems/largest-odd-number-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1903%5D%5BEasy%5D%20Largest%20Odd%20Number%20in%20String.py)|
 
 
 
