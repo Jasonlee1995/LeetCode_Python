@@ -382,6 +382,7 @@
 |1893|Check if All the Integers in a Range Are Covered|Easy|[Problem](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/), [Solution]()|
 |1897|Redistribute Characters to Make All Strings Equal|Easy|[Problem](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1897%5D%5BEasy%5D%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.py)|
 |1903|Largest Odd Number in String|Easy|[Problem](https://leetcode.com/problems/largest-odd-number-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1903%5D%5BEasy%5D%20Largest%20Odd%20Number%20in%20String.py)|
+|1909|Remove One Element to Make the Array Strictly Increasing|Easy|[Problem](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1909%5D%5BEasy%5D%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.py)|
 
 
 
