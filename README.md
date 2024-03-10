@@ -384,6 +384,7 @@
 |1903|Largest Odd Number in String|Easy|[Problem](https://leetcode.com/problems/largest-odd-number-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1903%5D%5BEasy%5D%20Largest%20Odd%20Number%20in%20String.py)|
 |1909|Remove One Element to Make the Array Strictly Increasing|Easy|[Problem](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1909%5D%5BEasy%5D%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.py)|
 |1913|Maximum Product Difference Between Two Pairs|Easy|[Problem](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/), [Solution]()|
+|1920|Build Array from Permutation|Easy|[Problem](https://leetcode.com/problems/build-array-from-permutation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1920%5D%5BEasy%5D%20Build%20Array%20from%20Permutation.py)|
 
 
 
