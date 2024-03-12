@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 02 Mar 2024
+- Recent Update : 11 Mar 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -385,6 +385,7 @@
 |1909|Remove One Element to Make the Array Strictly Increasing|Easy|[Problem](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1909%5D%5BEasy%5D%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.py)|
 |1913|Maximum Product Difference Between Two Pairs|Easy|[Problem](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/), [Solution]()|
 |1920|Build Array from Permutation|Easy|[Problem](https://leetcode.com/problems/build-array-from-permutation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1920%5D%5BEasy%5D%20Build%20Array%20from%20Permutation.py)|
+|1925|Count Square Sum Triples|Easy|[Problem](https://leetcode.com/problems/count-square-sum-triples/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1925%5D%5BEasy%5D%20Count%20Square%20Sum%20Triples.py)|
 
 
 
