@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 11 Mar 2024
+- Recent Update : 18 Mar 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -387,6 +387,7 @@
 |1920|Build Array from Permutation|Easy|[Problem](https://leetcode.com/problems/build-array-from-permutation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1920%5D%5BEasy%5D%20Build%20Array%20from%20Permutation.py)|
 |1925|Count Square Sum Triples|Easy|[Problem](https://leetcode.com/problems/count-square-sum-triples/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1925%5D%5BEasy%5D%20Count%20Square%20Sum%20Triples.py)|
 |1929|Concatenation of Array|Easy|[Problem](https://leetcode.com/problems/concatenation-of-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1929%5D%5BEasy%5D%20Concatenation%20of%20Array.py)|
+|1935|Maximum Number of Words You Can Type|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-words-you-can-type/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1935%5D%5BEasy%5D%20Maximum%20Number%20of%20Words%20You%20Can%20Type.py)|
 
 
 
