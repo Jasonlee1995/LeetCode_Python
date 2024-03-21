@@ -388,6 +388,7 @@
 |1925|Count Square Sum Triples|Easy|[Problem](https://leetcode.com/problems/count-square-sum-triples/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1925%5D%5BEasy%5D%20Count%20Square%20Sum%20Triples.py)|
 |1929|Concatenation of Array|Easy|[Problem](https://leetcode.com/problems/concatenation-of-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1929%5D%5BEasy%5D%20Concatenation%20of%20Array.py)|
 |1935|Maximum Number of Words You Can Type|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-words-you-can-type/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1935%5D%5BEasy%5D%20Maximum%20Number%20of%20Words%20You%20Can%20Type.py)|
+|1941|Check if All Characters Have Equal Number of Occurrences|Easy|[Problem](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1941%5D%5BEasy%5D%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.py)|
 
 
 
