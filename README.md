@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 18 Mar 2024
+- Recent Update : 22 Mar 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -389,6 +389,7 @@
 |1929|Concatenation of Array|Easy|[Problem](https://leetcode.com/problems/concatenation-of-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1929%5D%5BEasy%5D%20Concatenation%20of%20Array.py)|
 |1935|Maximum Number of Words You Can Type|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-words-you-can-type/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1935%5D%5BEasy%5D%20Maximum%20Number%20of%20Words%20You%20Can%20Type.py)|
 |1941|Check if All Characters Have Equal Number of Occurrences|Easy|[Problem](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1941%5D%5BEasy%5D%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.py)|
+|1945|Sum of Digits of String After Convert|Easy|[Problem](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1945%5D%5BEasy%5D%20Sum%20of%20Digits%20of%20String%20After%20Convert.py)|
 
 
 
