@@ -391,6 +391,7 @@
 |1941|Check if All Characters Have Equal Number of Occurrences|Easy|[Problem](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1941%5D%5BEasy%5D%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.py)|
 |1945|Sum of Digits of String After Convert|Easy|[Problem](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1945%5D%5BEasy%5D%20Sum%20of%20Digits%20of%20String%20After%20Convert.py)|
 |1952|Three Divisors|Easy|[Problem](https://leetcode.com/problems/three-divisors/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1952%5D%5BEasy%5D%20Three%20Divisors.py)|
+|1957|Delete Characters to Make Fancy String|Easy|[Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1957%5D%5BEasy%5D%20Delete%20Characters%20to%20Make%20Fancy%20String.py)|
 
 
 
