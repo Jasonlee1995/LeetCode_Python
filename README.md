@@ -392,6 +392,7 @@
 |1945|Sum of Digits of String After Convert|Easy|[Problem](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1945%5D%5BEasy%5D%20Sum%20of%20Digits%20of%20String%20After%20Convert.py)|
 |1952|Three Divisors|Easy|[Problem](https://leetcode.com/problems/three-divisors/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1952%5D%5BEasy%5D%20Three%20Divisors.py)|
 |1957|Delete Characters to Make Fancy String|Easy|[Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1957%5D%5BEasy%5D%20Delete%20Characters%20to%20Make%20Fancy%20String.py)|
+|1961|Check If String Is a Prefix of Array|Easy|[Problem](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1961%5D%5BEasy%5D%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py)|
 
 
 
