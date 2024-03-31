@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 22 Mar 2024
+- Recent Update : 31 Mar 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -393,6 +393,7 @@
 |1952|Three Divisors|Easy|[Problem](https://leetcode.com/problems/three-divisors/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1952%5D%5BEasy%5D%20Three%20Divisors.py)|
 |1957|Delete Characters to Make Fancy String|Easy|[Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1957%5D%5BEasy%5D%20Delete%20Characters%20to%20Make%20Fancy%20String.py)|
 |1961|Check If String Is a Prefix of Array|Easy|[Problem](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1961%5D%5BEasy%5D%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py)|
+|1967|Number of Strings That Appear as Substrings in Word|Easy|[Problem](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1967%5D%5BEasy%5D%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py)|
 
 
 
