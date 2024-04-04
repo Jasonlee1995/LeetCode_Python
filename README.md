@@ -395,6 +395,7 @@
 |1961|Check If String Is a Prefix of Array|Easy|[Problem](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1961%5D%5BEasy%5D%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.py)|
 |1967|Number of Strings That Appear as Substrings in Word|Easy|[Problem](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1967%5D%5BEasy%5D%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.py)|
 |1971|Find if Path Exists in Graph|Easy|[Problem](https://leetcode.com/problems/find-if-path-exists-in-graph/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1971%5D%5BEasy%5D%20Find%20if%20Path%20Exists%20in%20Graph.py)|
+|1974|Minimum Time to Type Word Using Special Typewriter|Easy|[Problem](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1974%5D%5BEasy%5D%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.py)|
 
 
 
