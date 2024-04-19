@@ -400,6 +400,7 @@
 |1984|Minimum Difference Between Highest and Lowest of K Scores|Easy|[Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1984%5D%5BEasy%5D%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.py)|
 |1991|Find the Middle Index in Array|Easy|[Problem](https://leetcode.com/problems/find-the-middle-index-in-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1991%5D%5BEasy%5D%20Find%20the%20Middle%20Index%20in%20Array.py)|
 |1995|Count Special Quadruplets|Easy|[Problem](https://leetcode.com/problems/count-special-quadruplets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1995%5D%5BEasy%5D%20Count%20Special%20Quadruplets.py)|
+|2000|Reverse Prefix of Word|Easy|[Problem](https://leetcode.com/problems/reverse-prefix-of-word/), [Solution]()|
 
 
 
