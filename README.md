@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 10 Apr 2024
+- Recent Update : 20 Apr 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -401,6 +401,7 @@
 |1991|Find the Middle Index in Array|Easy|[Problem](https://leetcode.com/problems/find-the-middle-index-in-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1991%5D%5BEasy%5D%20Find%20the%20Middle%20Index%20in%20Array.py)|
 |1995|Count Special Quadruplets|Easy|[Problem](https://leetcode.com/problems/count-special-quadruplets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1995%5D%5BEasy%5D%20Count%20Special%20Quadruplets.py)|
 |2000|Reverse Prefix of Word|Easy|[Problem](https://leetcode.com/problems/reverse-prefix-of-word/), [Solution]()|
+|2006|Count Number of Pairs With Absolute Difference K|Easy|[Problem](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2006%5D%5BEasy%5D%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py)|
 
 
 
