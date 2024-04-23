@@ -402,6 +402,7 @@
 |1995|Count Special Quadruplets|Easy|[Problem](https://leetcode.com/problems/count-special-quadruplets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1995%5D%5BEasy%5D%20Count%20Special%20Quadruplets.py)|
 |2000|Reverse Prefix of Word|Easy|[Problem](https://leetcode.com/problems/reverse-prefix-of-word/), [Solution]()|
 |2006|Count Number of Pairs With Absolute Difference K|Easy|[Problem](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2006%5D%5BEasy%5D%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py)|
+|2011|Final Value of Variable After Performing Operations|Easy|[Problem](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2011%5D%5BEasy%5D%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|
 
 
 
