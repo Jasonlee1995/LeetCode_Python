@@ -405,6 +405,7 @@
 |2011|Final Value of Variable After Performing Operations|Easy|[Problem](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2011%5D%5BEasy%5D%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|
 |2016|Maximum Difference Between Increasing Elements|Easy|[Problem](https://leetcode.com/problems/maximum-difference-between-increasing-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2016%5D%5BEasy%5D%20Maximum%20Difference%20Between%20Increasing%20Elements.py)|
 |2022|Convert 1D Array Into 2D Array|Easy|[Problem](https://leetcode.com/problems/convert-1d-array-into-2d-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2022%5D%5BEasy%5D%20Convert%201D%20Array%20Into%202D%20Array.py)|
+|2027|Minimum Moves to Convert String|Easy|[Problem](https://leetcode.com/problems/minimum-moves-to-convert-string/), [Solution]()|
 
 
 
