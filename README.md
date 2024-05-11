@@ -407,6 +407,7 @@
 |2022|Convert 1D Array Into 2D Array|Easy|[Problem](https://leetcode.com/problems/convert-1d-array-into-2d-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2022%5D%5BEasy%5D%20Convert%201D%20Array%20Into%202D%20Array.py)|
 |2027|Minimum Moves to Convert String|Easy|[Problem](https://leetcode.com/problems/minimum-moves-to-convert-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2027%5D%5BEasy%5D%20Minimum%20Moves%20to%20Convert%20String.py)|
 |2032|Two Out of Three|Easy|[Problem](https://leetcode.com/problems/two-out-of-three/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2032%5D%5BEasy%5D%20Two%20Out%20of%20Three.py)|
+|2037|Minimum Number of Moves to Seat Everyone|Easy|[Problem](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2037%5D%5BEasy%5D%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.py)|
 
 
 
