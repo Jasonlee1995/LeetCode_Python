@@ -410,6 +410,7 @@
 |2037|Minimum Number of Moves to Seat Everyone|Easy|[Problem](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2037%5D%5BEasy%5D%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.py)|
 |2042|Check if Numbers Are Ascending in a Sentence|Easy|[Problem](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2042%5D%5BEasy%5D%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py)|
 |2047|Number of Valid Words in a Sentence|Easy|[Problem](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2047%5D%5BEasy%5D%20Number%20of%20Valid%20Words%20in%20a%20Sentence.py)|
+|2053|Kth Distinct String in an Array|Easy|[Problem](https://leetcode.com/problems/kth-distinct-string-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2053%5D%5BEasy%5D%20Kth%20Distinct%20String%20in%20an%20Array.py)|
 
 
 
