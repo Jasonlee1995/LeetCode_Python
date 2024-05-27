@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 26 Apr 2024
+- Recent Update : 26 May 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -411,6 +411,7 @@
 |2042|Check if Numbers Are Ascending in a Sentence|Easy|[Problem](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2042%5D%5BEasy%5D%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence.py)|
 |2047|Number of Valid Words in a Sentence|Easy|[Problem](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2047%5D%5BEasy%5D%20Number%20of%20Valid%20Words%20in%20a%20Sentence.py)|
 |2053|Kth Distinct String in an Array|Easy|[Problem](https://leetcode.com/problems/kth-distinct-string-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2053%5D%5BEasy%5D%20Kth%20Distinct%20String%20in%20an%20Array.py)|
+|2057|Smallest Index With Equal Value|Easy|[Problem](https://leetcode.com/problems/smallest-index-with-equal-value/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2057%5D%5BEasy%5D%20Smallest%20Index%20With%20Equal%20Value.py)|
 
 
 
