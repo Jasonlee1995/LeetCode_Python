@@ -412,6 +412,7 @@
 |2047|Number of Valid Words in a Sentence|Easy|[Problem](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2047%5D%5BEasy%5D%20Number%20of%20Valid%20Words%20in%20a%20Sentence.py)|
 |2053|Kth Distinct String in an Array|Easy|[Problem](https://leetcode.com/problems/kth-distinct-string-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2053%5D%5BEasy%5D%20Kth%20Distinct%20String%20in%20an%20Array.py)|
 |2057|Smallest Index With Equal Value|Easy|[Problem](https://leetcode.com/problems/smallest-index-with-equal-value/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2057%5D%5BEasy%5D%20Smallest%20Index%20With%20Equal%20Value.py)|
+|2062|Count Vowel Substrings of a String|Easy|[Problem](https://leetcode.com/problems/count-vowel-substrings-of-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2062%5D%5BEasy%5D%20Count%20Vowel%20Substrings%20of%20a%20String.py)|
 
 
 
