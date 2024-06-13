@@ -415,6 +415,7 @@
 |2062|Count Vowel Substrings of a String|Easy|[Problem](https://leetcode.com/problems/count-vowel-substrings-of-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2062%5D%5BEasy%5D%20Count%20Vowel%20Substrings%20of%20a%20String.py)|
 |2068|Check Whether Two Strings are Almost Equivalent|Easy|[Problem](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2068%5D%5BEasy%5D%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent.py)|
 |2073|Time Needed to Buy Tickets|Easy|[Problem](https://leetcode.com/problems/time-needed-to-buy-tickets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2073%5D%5BEasy%5D%20Time%20Needed%20to%20Buy%20Tickets.py)|
+|2078|Two Furthest Houses With Different Colors|Easy|[Problem](https://leetcode.com/problems/two-furthest-houses-with-different-colors/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2078%5D%5BEasy%5D%20Two%20Furthest%20Houses%20With%20Different%20Colors.py)|
 
 
 
