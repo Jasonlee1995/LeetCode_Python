@@ -417,6 +417,7 @@
 |2073|Time Needed to Buy Tickets|Easy|[Problem](https://leetcode.com/problems/time-needed-to-buy-tickets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2073%5D%5BEasy%5D%20Time%20Needed%20to%20Buy%20Tickets.py)|
 |2078|Two Furthest Houses With Different Colors|Easy|[Problem](https://leetcode.com/problems/two-furthest-houses-with-different-colors/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2078%5D%5BEasy%5D%20Two%20Furthest%20Houses%20With%20Different%20Colors.py)|
 |2085|Count Common Words With One Occurrence|Easy|[Problem](https://leetcode.com/problems/count-common-words-with-one-occurrence/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2085%5D%5BEasy%5D%20Count%20Common%20Words%20With%20One%20Occurrence.py)|
+|2089|Find Target Indices After Sorting Array|Easy|[Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2089%5D%5BEasy%5D%20Find%20Target%20Indices%20After%20Sorting%20Array.py)|
 
 
 
