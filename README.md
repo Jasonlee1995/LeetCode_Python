@@ -420,6 +420,7 @@
 |2089|Find Target Indices After Sorting Array|Easy|[Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2089%5D%5BEasy%5D%20Find%20Target%20Indices%20After%20Sorting%20Array.py)|
 |2094|Finding 3-Digit Even Numbers|Easy|[Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2094%5D%5BEasy%5D%20Finding%203-Digit%20Even%20Numbers.py)|
 |2099|Find Subsequence of Length K With the Largest Sum|Easy|[Problem](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2099%5D%5BEasy%5D%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.py)|
+|2103|Rings and Rods|Easy|[Problem](https://leetcode.com/problems/rings-and-rods/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2103%5D%5BEasy%5D%20Rings%20and%20Rods.py)|
 
 
 
