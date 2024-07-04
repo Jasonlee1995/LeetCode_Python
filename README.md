@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 22 Jun 2024
+- Recent Update : 3 Jul 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -421,6 +421,7 @@
 |2094|Finding 3-Digit Even Numbers|Easy|[Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2094%5D%5BEasy%5D%20Finding%203-Digit%20Even%20Numbers.py)|
 |2099|Find Subsequence of Length K With the Largest Sum|Easy|[Problem](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2099%5D%5BEasy%5D%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.py)|
 |2103|Rings and Rods|Easy|[Problem](https://leetcode.com/problems/rings-and-rods/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2103%5D%5BEasy%5D%20Rings%20and%20Rods.py)|
+|2108|Find First Palindromic String in the Array|Easy|[Problem](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2108%5D%5BEasy%5D%20Find%20First%20Palindromic%20String%20in%20the%20Array.py)|
 
 
 
