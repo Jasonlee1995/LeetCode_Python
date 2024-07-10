@@ -423,7 +423,7 @@
 |2103|Rings and Rods|Easy|[Problem](https://leetcode.com/problems/rings-and-rods/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2103%5D%5BEasy%5D%20Rings%20and%20Rods.py)|
 |2108|Find First Palindromic String in the Array|Easy|[Problem](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2108%5D%5BEasy%5D%20Find%20First%20Palindromic%20String%20in%20the%20Array.py)|
 |2114|Maximum Number of Words Found in Sentences|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2114%5D%5BEasy%5D%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|
-
+|2119|A Number After a Double Reversal|Easy|[Problem](https://leetcode.com/problems/a-number-after-a-double-reversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2119%5D%5BEasy%5D%20A%20Number%20After%20a%20Double%20Reversal.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
