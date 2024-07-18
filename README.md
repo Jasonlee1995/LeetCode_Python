@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 3 Jul 2024
+- Recent Update : 15 Jul 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -425,6 +425,7 @@
 |2114|Maximum Number of Words Found in Sentences|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2114%5D%5BEasy%5D%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.py)|
 |2119|A Number After a Double Reversal|Easy|[Problem](https://leetcode.com/problems/a-number-after-a-double-reversal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2119%5D%5BEasy%5D%20A%20Number%20After%20a%20Double%20Reversal.py)|
 |2124|Check if All A's Appears Before All B's|Easy|[Problem](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2124%5D%5BEasy%5D%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's.py)|
+|2129|Capitalize the Title|Easy|[Problem](https://leetcode.com/problems/capitalize-the-title/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2129%5D%5BEasy%5D%20Capitalize%20the%20Title.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
