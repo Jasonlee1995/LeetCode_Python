@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 19 Jul 2024
+- Recent Update : 24 Jul 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -428,6 +428,7 @@
 |2129|Capitalize the Title|Easy|[Problem](https://leetcode.com/problems/capitalize-the-title/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2129%5D%5BEasy%5D%20Capitalize%20the%20Title.py)|
 |2133|Check if Every Row and Column Contains All Numbers|Easy|[Problem](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2133%5D%5BEasy%5D%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.py)|
 |2138|Divide a String Into Groups of Size k|Easy|[Problem](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2138%5D%5BEasy%5D%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k.py)|
+|2144|Minimum Cost of Buying Candies With Discount|Easy|[Problem](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2144%5D%5BEasy%5D%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount.py)|
 
 
 
