@@ -431,6 +431,7 @@
 |2144|Minimum Cost of Buying Candies With Discount|Easy|[Problem](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2144%5D%5BEasy%5D%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount.py)|
 |2148|Count Elements With Strictly Smaller and Greater Elements|Easy|[Problem](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2148%5D%5BEasy%5D%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements.py)|
 |2154|Keep Multiplying Found Values by Two|Easy|[Problem](https://leetcode.com/problems/keep-multiplying-found-values-by-two/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2154%5D%5BEasy%5D%20Keep%20Multiplying%20Found%20Values%20by%20Two.py)|
+|2160|Minimum Sum of Four Digit Number After Splitting Digits|Easy|[Problem](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2160%5D%5BEasy%5D%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.py)|
 
 
 
