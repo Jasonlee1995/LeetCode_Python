@@ -433,6 +433,7 @@
 |2154|Keep Multiplying Found Values by Two|Easy|[Problem](https://leetcode.com/problems/keep-multiplying-found-values-by-two/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2154%5D%5BEasy%5D%20Keep%20Multiplying%20Found%20Values%20by%20Two.py)|
 |2160|Minimum Sum of Four Digit Number After Splitting Digits|Easy|[Problem](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2160%5D%5BEasy%5D%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.py)|
 |2164|Sort Even and Odd Indices Independently|Easy|[Problem](https://leetcode.com/problems/sort-even-and-odd-indices-independently/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2164%5D%5BEasy%5D%20Sort%20Even%20and%20Odd%20Indices%20Independently.py)|
+|2169|Count Operations to Obtain Zero|Easy|[Problem](https://leetcode.com/problems/count-operations-to-obtain-zero/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2169%5D%5BEasy%5D%20Count%20Operations%20to%20Obtain%20Zero.py)|
 
 
 
