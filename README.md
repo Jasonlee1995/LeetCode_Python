@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 2 Aug 2024
+- Recent Update : 9 Aug 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -435,6 +435,7 @@
 |2164|Sort Even and Odd Indices Independently|Easy|[Problem](https://leetcode.com/problems/sort-even-and-odd-indices-independently/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2164%5D%5BEasy%5D%20Sort%20Even%20and%20Odd%20Indices%20Independently.py)|
 |2169|Count Operations to Obtain Zero|Easy|[Problem](https://leetcode.com/problems/count-operations-to-obtain-zero/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2169%5D%5BEasy%5D%20Count%20Operations%20to%20Obtain%20Zero.py)|
 |2176|Count Equal and Divisible Pairs in an Array|Easy|[Problem](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2176%5D%5BEasy%5D%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.py)|
+|2180|Count Integers With Even Digit Sum|Easy|[Problem](https://leetcode.com/problems/count-integers-with-even-digit-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2180%5D%5BEasy%5D%20Count%20Integers%20With%20Even%20Digit%20Sum.py)|
 
 
 
