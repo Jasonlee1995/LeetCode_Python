@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 9 Aug 2024
+- Recent Update : 14 Aug 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -438,6 +438,7 @@
 |2180|Count Integers With Even Digit Sum|Easy|[Problem](https://leetcode.com/problems/count-integers-with-even-digit-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2180%5D%5BEasy%5D%20Count%20Integers%20With%20Even%20Digit%20Sum.py)|
 |2185|Counting Words With a Given Prefix|Easy|[Problem](https://leetcode.com/problems/counting-words-with-a-given-prefix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2185%5D%5BEasy%5D%20Counting%20Words%20With%20a%20Given%20Prefix.py)|
 |2190|Most Frequent Number Following Key In an Array|Easy|[Problem](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2190%5D%5BEasy%5D%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.py)|
+|2194|Cells in a Range on an Excel Sheet|Easy|[Problem](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2194%5D%5BEasy%5D%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.py)|
 
 
 
