@@ -441,6 +441,7 @@
 |2194|Cells in a Range on an Excel Sheet|Easy|[Problem](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2194%5D%5BEasy%5D%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.py)|
 |2200|Find All K-Distant Indices in an Array|Easy|[Problem](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2200%5D%5BEasy%5D%20Find%20All%20K-Distant%20Indices%20in%20an%20Array.py)|
 |2206|Divide Array Into Equal Pairs|Easy|[Problem](https://leetcode.com/problems/divide-array-into-equal-pairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2206%5D%5BEasy%5D%20Divide%20Array%20Into%20Equal%20Pairs.py)|
+|2210|Count Hills and Valleys in an Array|Easy|[Problem](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2210%5D%5BEasy%5D%20Count%20Hills%20and%20Valleys%20in%20an%20Array.py)|
 
 
 
