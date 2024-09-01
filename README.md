@@ -443,6 +443,7 @@
 |2206|Divide Array Into Equal Pairs|Easy|[Problem](https://leetcode.com/problems/divide-array-into-equal-pairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2206%5D%5BEasy%5D%20Divide%20Array%20Into%20Equal%20Pairs.py)|
 |2210|Count Hills and Valleys in an Array|Easy|[Problem](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2210%5D%5BEasy%5D%20Count%20Hills%20and%20Valleys%20in%20an%20Array.py)|
 |2215|Find the Difference of Two Arrays|Easy|[Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2215%5D%5BEasy%5D%20Find%20the%20Difference%20of%20Two%20Arrays.py)|
+|2220|Minimum Bit Flips to Convert Number|Easy|[Problem](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2220%5D%5BEasy%5D%20Minimum%20Bit%20Flips%20to%20Convert%20Number.py)|
 
 
 
