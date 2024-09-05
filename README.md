@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 14 Aug 2024
+- Recent Update : 5 Sep 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -444,6 +444,7 @@
 |2210|Count Hills and Valleys in an Array|Easy|[Problem](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2210%5D%5BEasy%5D%20Count%20Hills%20and%20Valleys%20in%20an%20Array.py)|
 |2215|Find the Difference of Two Arrays|Easy|[Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2215%5D%5BEasy%5D%20Find%20the%20Difference%20of%20Two%20Arrays.py)|
 |2220|Minimum Bit Flips to Convert Number|Easy|[Problem](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2220%5D%5BEasy%5D%20Minimum%20Bit%20Flips%20to%20Convert%20Number.py)|
+|2224|Minimum Number of Operations to Convert Time|Easy|[Problem](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2224%5D%5BEasy%5D%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py)|
 
 
 
