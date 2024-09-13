@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 5 Sep 2024
+- Recent Update : 13 Sep 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -446,6 +446,7 @@
 |2220|Minimum Bit Flips to Convert Number|Easy|[Problem](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2220%5D%5BEasy%5D%20Minimum%20Bit%20Flips%20to%20Convert%20Number.py)|
 |2224|Minimum Number of Operations to Convert Time|Easy|[Problem](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2224%5D%5BEasy%5D%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time.py)|
 |2231|Largest Number After Digit Swaps by Parity|Easy|[Problem](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2231%5D%5BEasy%5D%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.py)|
+|2235|Add Two Integers|Easy|[Problem](https://leetcode.com/problems/add-two-integers/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2235%5D%5BEasy%5D%20Add%20Two%20Integers.py)|
 
 
 
