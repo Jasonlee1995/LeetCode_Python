@@ -451,6 +451,7 @@
 |2239|Find Closest Number to Zero|Easy|[Problem](https://leetcode.com/problems/find-closest-number-to-zero/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2239%5D%5BEasy%5D%20Find%20Closest%20Number%20to%20Zero.py)|
 |2243|Calculate Digit Sum of a String|Easy|[Problem](https://leetcode.com/problems/calculate-digit-sum-of-a-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2243%5D%5BEasy%5D%20Calculate%20Digit%20Sum%20of%20a%20String.py)|
 |2248|Intersection of Multiple Arrays|Easy|[Problem](https://leetcode.com/problems/intersection-of-multiple-arrays/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2248%5D%5BEasy%5D%20Intersection%20of%20Multiple%20Arrays.py)|
+|2255|Count Prefixes of a Given String|Easy|[Problem](https://leetcode.com/problems/count-prefixes-of-a-given-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2255%5D%5BEasy%5D%20Count%20Prefixes%20of%20a%20Given%20String.py)|
 
 
 
