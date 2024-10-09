@@ -453,7 +453,7 @@
 |2248|Intersection of Multiple Arrays|Easy|[Problem](https://leetcode.com/problems/intersection-of-multiple-arrays/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2248%5D%5BEasy%5D%20Intersection%20of%20Multiple%20Arrays.py)|
 |2255|Count Prefixes of a Given String|Easy|[Problem](https://leetcode.com/problems/count-prefixes-of-a-given-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2255%5D%5BEasy%5D%20Count%20Prefixes%20of%20a%20Given%20String.py)|
 |2259|Remove Digit From Number to Maximize Result|Easy|[Problem](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2259%5D%5BEasy%5D%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result.py)|
-
+|2264|Largest 3-Same-Digit Number in String|Easy|[Problem](https://leetcode.com/problems/largest-3-same-digit-number-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2264%5D%5BEasy%5D%20Largest%203-Same-Digit%20Number%20in%20String.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
