@@ -456,6 +456,7 @@
 |2264|Largest 3-Same-Digit Number in String|Easy|[Problem](https://leetcode.com/problems/largest-3-same-digit-number-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2264%5D%5BEasy%5D%20Largest%203-Same-Digit%20Number%20in%20String.py)|
 |2269|Find the K-Beauty of a Number|Easy|[Problem](https://leetcode.com/problems/find-the-k-beauty-of-a-number/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2269%5D%5BEasy%5D%20Find%20the%20K-Beauty%20of%20a%20Number.py)|
 |2273|Find Resultant Array After Removing Anagrams|Easy|[Problem](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2273%5D%5BEasy%5D%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py)|
+|2278|Percentage of Letter in String|Easy|[Problem](https://leetcode.com/problems/percentage-of-letter-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2278%5D%5BEasy%5D%20Percentage%20of%20Letter%20in%20String.py)|
 
 
 
