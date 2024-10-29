@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 20 Oct 2024
+- Recent Update : 29 Oct 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -458,6 +458,7 @@
 |2273|Find Resultant Array After Removing Anagrams|Easy|[Problem](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2273%5D%5BEasy%5D%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py)|
 |2278|Percentage of Letter in String|Easy|[Problem](https://leetcode.com/problems/percentage-of-letter-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2278%5D%5BEasy%5D%20Percentage%20of%20Letter%20in%20String.py)|
 |2283|Check if Number Has Equal Digit Count and Digit Value|Easy|[Problem](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2283%5D%5BEasy%5D%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py)|
+|2287|Rearrange Characters to Make Target String|Easy|[Problem](https://leetcode.com/problems/rearrange-characters-to-make-target-string/), [Solution]()|
 
 
 
