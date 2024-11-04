@@ -459,6 +459,7 @@
 |2278|Percentage of Letter in String|Easy|[Problem](https://leetcode.com/problems/percentage-of-letter-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2278%5D%5BEasy%5D%20Percentage%20of%20Letter%20in%20String.py)|
 |2283|Check if Number Has Equal Digit Count and Digit Value|Easy|[Problem](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2283%5D%5BEasy%5D%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py)|
 |2287|Rearrange Characters to Make Target String|Easy|[Problem](https://leetcode.com/problems/rearrange-characters-to-make-target-string/), [Solution]()|
+|2293|Min Max Game|Easy|[Problem](https://leetcode.com/problems/min-max-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2293%5D%5BEasy%5D%20Min%20Max%20Game.py)|
 
 
 
