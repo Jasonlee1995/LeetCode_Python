@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 29 Oct 2024
+- Recent Update : 05 Nov 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -379,11 +379,11 @@
 |1876|Substrings of Size Three with Distinct Characters|Easy|[Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1876%5D%5BEasy%5D%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.py)|
 |1880|Check if Word Equals Summation of Two Words|Easy|[Problem](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1880%5D%5BEasy%5D%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.py)|
 |1886|Determine Whether Matrix Can Be Obtained By Rotation|Easy|[Problem](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1886%5D%5BEasy%5D%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.py)|
-|1893|Check if All the Integers in a Range Are Covered|Easy|[Problem](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/), [Solution]()|
+|1893|Check if All the Integers in a Range Are Covered|Easy|[Problem](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1893%5D%5BEasy%5D%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.py)|
 |1897|Redistribute Characters to Make All Strings Equal|Easy|[Problem](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1897%5D%5BEasy%5D%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.py)|
 |1903|Largest Odd Number in String|Easy|[Problem](https://leetcode.com/problems/largest-odd-number-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1903%5D%5BEasy%5D%20Largest%20Odd%20Number%20in%20String.py)|
 |1909|Remove One Element to Make the Array Strictly Increasing|Easy|[Problem](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1909%5D%5BEasy%5D%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.py)|
-|1913|Maximum Product Difference Between Two Pairs|Easy|[Problem](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/), [Solution]()|
+|1913|Maximum Product Difference Between Two Pairs|Easy|[Problem](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1913%5D%5BEasy%5D%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.py)|
 |1920|Build Array from Permutation|Easy|[Problem](https://leetcode.com/problems/build-array-from-permutation/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1920%5D%5BEasy%5D%20Build%20Array%20from%20Permutation.py)|
 |1925|Count Square Sum Triples|Easy|[Problem](https://leetcode.com/problems/count-square-sum-triples/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1925%5D%5BEasy%5D%20Count%20Square%20Sum%20Triples.py)|
 |1929|Concatenation of Array|Easy|[Problem](https://leetcode.com/problems/concatenation-of-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1929%5D%5BEasy%5D%20Concatenation%20of%20Array.py)|
@@ -400,7 +400,7 @@
 |1984|Minimum Difference Between Highest and Lowest of K Scores|Easy|[Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1984%5D%5BEasy%5D%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.py)|
 |1991|Find the Middle Index in Array|Easy|[Problem](https://leetcode.com/problems/find-the-middle-index-in-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1991%5D%5BEasy%5D%20Find%20the%20Middle%20Index%20in%20Array.py)|
 |1995|Count Special Quadruplets|Easy|[Problem](https://leetcode.com/problems/count-special-quadruplets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B1995%5D%5BEasy%5D%20Count%20Special%20Quadruplets.py)|
-|2000|Reverse Prefix of Word|Easy|[Problem](https://leetcode.com/problems/reverse-prefix-of-word/), [Solution]()|
+|2000|Reverse Prefix of Word|Easy|[Problem](https://leetcode.com/problems/reverse-prefix-of-word/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2000%5D%5BEasy%5D%20Reverse%20Prefix%20of%20Word.py)|
 |2006|Count Number of Pairs With Absolute Difference K|Easy|[Problem](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2006%5D%5BEasy%5D%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py)|
 |2011|Final Value of Variable After Performing Operations|Easy|[Problem](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2011%5D%5BEasy%5D%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py)|
 |2016|Maximum Difference Between Increasing Elements|Easy|[Problem](https://leetcode.com/problems/maximum-difference-between-increasing-elements/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2016%5D%5BEasy%5D%20Maximum%20Difference%20Between%20Increasing%20Elements.py)|
@@ -458,8 +458,9 @@
 |2273|Find Resultant Array After Removing Anagrams|Easy|[Problem](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2273%5D%5BEasy%5D%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.py)|
 |2278|Percentage of Letter in String|Easy|[Problem](https://leetcode.com/problems/percentage-of-letter-in-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2278%5D%5BEasy%5D%20Percentage%20of%20Letter%20in%20String.py)|
 |2283|Check if Number Has Equal Digit Count and Digit Value|Easy|[Problem](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2283%5D%5BEasy%5D%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value.py)|
-|2287|Rearrange Characters to Make Target String|Easy|[Problem](https://leetcode.com/problems/rearrange-characters-to-make-target-string/), [Solution]()|
+|2287|Rearrange Characters to Make Target String|Easy|[Problem](https://leetcode.com/problems/rearrange-characters-to-make-target-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2287%5D%5BEasy%5D%20Rearrange%20Characters%20to%20Make%20Target%20String.py)|
 |2293|Min Max Game|Easy|[Problem](https://leetcode.com/problems/min-max-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2293%5D%5BEasy%5D%20Min%20Max%20Game.py)|
+|2299|Strong Password Checker II|Easy|[Problem](https://leetcode.com/problems/strong-password-checker-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2299%5D%5BEasy%5D%20Strong%20Password%20Checker%20II.py)|
 
 
 
