@@ -461,6 +461,7 @@
 |2287|Rearrange Characters to Make Target String|Easy|[Problem](https://leetcode.com/problems/rearrange-characters-to-make-target-string/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2287%5D%5BEasy%5D%20Rearrange%20Characters%20to%20Make%20Target%20String.py)|
 |2293|Min Max Game|Easy|[Problem](https://leetcode.com/problems/min-max-game/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2293%5D%5BEasy%5D%20Min%20Max%20Game.py)|
 |2299|Strong Password Checker II|Easy|[Problem](https://leetcode.com/problems/strong-password-checker-ii/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2299%5D%5BEasy%5D%20Strong%20Password%20Checker%20II.py)|
+|2303|Calculate Amount Paid in Taxes|Easy|[Problem](https://leetcode.com/problems/calculate-amount-paid-in-taxes/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2303%5D%5BEasy%5D%20Calculate%20Amount%20Paid%20in%20Taxes.py)|
 
 
 
