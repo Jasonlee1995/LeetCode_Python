@@ -465,6 +465,7 @@
 |2309|Greatest English Letter in Upper and Lower Case|Easy|[Problem](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2309%5D%5BEasy%5D%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.py)|
 |2315|Count Asterisks|Easy|[Problem](https://leetcode.com/problems/count-asterisks/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2315%5D%5BEasy%5D%20Count%20Asterisks.py)|
 |2319|Check if Matrix Is X-Matrix|Easy|[Problem](https://leetcode.com/problems/check-if-matrix-is-x-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2319%5D%5BEasy%5D%20Check%20if%20Matrix%20Is%20X-Matrix.py)|
+|2325|Decode the Message|Easy|[Problem](https://leetcode.com/problems/decode-the-message/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2325%5D%5BEasy%5D%20Decode%20the%20Message.py)|
 
 
 
