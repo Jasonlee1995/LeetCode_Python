@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 20 Nov 2024
+- Recent Update : 02 Dec 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -467,6 +467,7 @@
 |2319|Check if Matrix Is X-Matrix|Easy|[Problem](https://leetcode.com/problems/check-if-matrix-is-x-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2319%5D%5BEasy%5D%20Check%20if%20Matrix%20Is%20X-Matrix.py)|
 |2325|Decode the Message|Easy|[Problem](https://leetcode.com/problems/decode-the-message/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2325%5D%5BEasy%5D%20Decode%20the%20Message.py)|
 |2331|Evaluate Boolean Binary Tree|Easy|[Problem](https://leetcode.com/problems/evaluate-boolean-binary-tree/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2331%5D%5BEasy%5D%20Evaluate%20Boolean%20Binary%20Tree.py)|
+|2335|Minimum Amount of Time to Fill Cups|Easy|[Problem](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2335%5D%5BEasy%5D%20Minimum%20Amount%20of%20Time%20to%20Fill%20Cups.py)|
 
 
 
