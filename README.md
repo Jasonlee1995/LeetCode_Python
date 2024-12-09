@@ -470,6 +470,7 @@
 |2335|Minimum Amount of Time to Fill Cups|Easy|[Problem](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2335%5D%5BEasy%5D%20Minimum%20Amount%20of%20Time%20to%20Fill%20Cups.py)|
 |2341|Maximum Number of Pairs in Array|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-pairs-in-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2341%5D%5BEasy%5D%20Maximum%20Number%20of%20Pairs%20in%20Array.py)|
 |2347|Best Poker Hand|Easy|[Problem](https://leetcode.com/problems/best-poker-hand/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2347%5D%5BEasy%5D%20Best%20Poker%20Hand.py)|
+|2351|First Letter to Appear Twice|Easy|[Problem](https://leetcode.com/problems/first-letter-to-appear-twice/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2351%5D%5BEasy%5D%20First%20Letter%20to%20Appear%20Twice.py)|
 
 
 
