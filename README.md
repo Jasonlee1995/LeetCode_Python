@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 02 Dec 2024
+- Recent Update : 11 Dec 2024
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -471,6 +471,7 @@
 |2341|Maximum Number of Pairs in Array|Easy|[Problem](https://leetcode.com/problems/maximum-number-of-pairs-in-array/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2341%5D%5BEasy%5D%20Maximum%20Number%20of%20Pairs%20in%20Array.py)|
 |2347|Best Poker Hand|Easy|[Problem](https://leetcode.com/problems/best-poker-hand/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2347%5D%5BEasy%5D%20Best%20Poker%20Hand.py)|
 |2351|First Letter to Appear Twice|Easy|[Problem](https://leetcode.com/problems/first-letter-to-appear-twice/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2351%5D%5BEasy%5D%20First%20Letter%20to%20Appear%20Twice.py)|
+|2357|Make Array Zero by Subtracting Equal Amounts|Easy|[Problem](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2357%5D%5BEasy%5D%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.py)|
 
 
 
