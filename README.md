@@ -472,6 +472,7 @@
 |2347|Best Poker Hand|Easy|[Problem](https://leetcode.com/problems/best-poker-hand/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2347%5D%5BEasy%5D%20Best%20Poker%20Hand.py)|
 |2351|First Letter to Appear Twice|Easy|[Problem](https://leetcode.com/problems/first-letter-to-appear-twice/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2351%5D%5BEasy%5D%20First%20Letter%20to%20Appear%20Twice.py)|
 |2357|Make Array Zero by Subtracting Equal Amounts|Easy|[Problem](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2357%5D%5BEasy%5D%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.py)|
+|2363|Merge Similar Items|Easy|[Problem](https://leetcode.com/problems/merge-similar-items/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2363%5D%5BEasy%5D%20Merge%20Similar%20Items.py)|
 
 
 
