@@ -474,6 +474,7 @@
 |2357|Make Array Zero by Subtracting Equal Amounts|Easy|[Problem](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2357%5D%5BEasy%5D%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts.py)|
 |2363|Merge Similar Items|Easy|[Problem](https://leetcode.com/problems/merge-similar-items/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2363%5D%5BEasy%5D%20Merge%20Similar%20Items.py)|
 |2367|Number of Arithmetic Triplets|Easy|[Problem](https://leetcode.com/problems/number-of-arithmetic-triplets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2367%5D%5BEasy%5D%20Number%20of%20Arithmetic%20Triplets.py)|
+|2373|Largest Local Values in a Matrix|Easy|[Problem](https://leetcode.com/problems/largest-local-values-in-a-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2373%5D%5BEasy%5D%20Largest%20Local%20Values%20in%20a%20Matrix.py)|
 
 
 
