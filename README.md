@@ -475,6 +475,7 @@
 |2363|Merge Similar Items|Easy|[Problem](https://leetcode.com/problems/merge-similar-items/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2363%5D%5BEasy%5D%20Merge%20Similar%20Items.py)|
 |2367|Number of Arithmetic Triplets|Easy|[Problem](https://leetcode.com/problems/number-of-arithmetic-triplets/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2367%5D%5BEasy%5D%20Number%20of%20Arithmetic%20Triplets.py)|
 |2373|Largest Local Values in a Matrix|Easy|[Problem](https://leetcode.com/problems/largest-local-values-in-a-matrix/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2373%5D%5BEasy%5D%20Largest%20Local%20Values%20in%20a%20Matrix.py)|
+|2379|Minimum Recolors to Get K Consecutive Black Blocks|Easy|[Problem](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2379%5D%5BEasy%5D%20Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks.py)|
 
 
 
