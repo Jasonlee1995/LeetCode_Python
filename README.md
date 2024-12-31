@@ -479,6 +479,7 @@
 |2383|Minimum Hours of Training to Win a Competition|Easy|[Problem](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2383%5D%5BEasy%5D%20Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition.py)|
 |2389|Longest Subsequence With Limited Sum|Easy|[Problem](https://leetcode.com/problems/longest-subsequence-with-limited-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2389%5D%5BEasy%5D%20Longest%20Subsequence%20With%20Limited%20Sum.py)|
 |2395|Find Subarrays With Equal Sum|Easy|[Problem](https://leetcode.com/problems/find-subarrays-with-equal-sum/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2395%5D%5BEasy%5D%20Find%20Subarrays%20With%20Equal%20Sum.py)|
+|2399|Check Distances Between Same Letters|Easy|[Problem](https://leetcode.com/problems/check-distances-between-same-letters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2399%5D%5BEasy%5D%20Check%20Distances%20Between%20Same%20Letters.py)|
 
 
 
