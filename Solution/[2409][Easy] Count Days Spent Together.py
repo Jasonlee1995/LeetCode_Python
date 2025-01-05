@@ -6,17 +6,6 @@ class Solution:
             mm, dd = int(mm), int(dd)
             return sum(md[:mm-1]) + dd
         
-        aa, la = str2days(arriveAlice), str2days(leaveAlice)
-        ab, lb = str2days(arriveBob), str2days(leaveBob)
-
-        if   aa <= ab <= la <= lb:
-            return la - ab + 1
-        elif ab <= aa <= la <= lb:
-            return la - aa + 1
-        elif aa <= ab <= lb <= la:
-            return lb - ab + 1
-        elif ab <= aa <= lb <= la:
-            return lb - aa + 1
-        else:
-            return 0
-
+        arrive = str2days(max(arriveAlice, arriveBob))
+        leave  = str2days(min(leaveAlice,  leaveBob))
+        return max(0, leave - arrive + 1)
