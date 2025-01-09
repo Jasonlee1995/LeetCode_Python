@@ -1,5 +1,5 @@
 # LeetCode Answer
-- Recent Update : 14 Dec 2024
+- Recent Update : 06 Jan 2025
 - LeetCode Algorithm site : <https://leetcode.com/problemset/algorithms/>
 - Python 3 Solution
 - Following solutions may not be optimal
@@ -482,6 +482,7 @@
 |2399|Check Distances Between Same Letters|Easy|[Problem](https://leetcode.com/problems/check-distances-between-same-letters/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2399%5D%5BEasy%5D%20Check%20Distances%20Between%20Same%20Letters.py)|
 |2404|Most Frequent Even Element|Easy|[Problem](https://leetcode.com/problems/most-frequent-even-element/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2404%5D%5BEasy%5D%20Most%20Frequent%20Even%20Element.py)|
 |2409|Count Days Spent Together|Easy|[Problem](https://leetcode.com/problems/count-days-spent-together/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2409%5D%5BEasy%5D%20Count%20Days%20Spent%20Together.py)|
+|2413|Smallest Even Multiple|Easy|[Problem](https://leetcode.com/problems/smallest-even-multiple/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2413%5D%5BEasy%5D%20Smallest%20Even%20Multiple.py)|
 
 
 
