@@ -484,7 +484,7 @@
 |2409|Count Days Spent Together|Easy|[Problem](https://leetcode.com/problems/count-days-spent-together/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2409%5D%5BEasy%5D%20Count%20Days%20Spent%20Together.py)|
 |2413|Smallest Even Multiple|Easy|[Problem](https://leetcode.com/problems/smallest-even-multiple/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2413%5D%5BEasy%5D%20Smallest%20Even%20Multiple.py)|
 |2418|Sort the People|Easy|[Problem](https://leetcode.com/problems/sort-the-people/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2418%5D%5BEasy%5D%20Sort%20the%20People.py)|
-
+|2423|Remove Letter To Equalize Frequency|Easy|[Problem](https://leetcode.com/problems/remove-letter-to-equalize-frequency/), [Solution](https://github.com/Jasonlee1995/LeetCode_Python/blob/main/Solution/%5B2423%5D%5BEasy%5D%20Remove%20Letter%20To%20Equalize%20Frequency.py)|
 
 
 Format : |num|problem|difficult|[Problem](), [Solution]()|
